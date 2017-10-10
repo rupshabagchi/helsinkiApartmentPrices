@@ -9,7 +9,7 @@ We obtain a collection of rental data from various sources such as Vuokraovi, St
 ## C. Data
 
 #### Sources:
-Vuokraovi, Statistics Finland, Oikotie, Forenom
+Vuokraovi, (Statistics Finland, Oikotie)
 
 ####  Wrangling and Management:
 
