@@ -7,7 +7,7 @@ import grouper
 
 '''tests the makeMap method'''
 #read the scraped data and clean it
-data = pd.read_csv('scraper/apartment.csv')
+data = pd.read_csv('data/apartments.csv')
 data = clean.cleanData(data)
 #needed to be same as in shapefile
 data['POSTI_ALUE'] = data['postal_code']
