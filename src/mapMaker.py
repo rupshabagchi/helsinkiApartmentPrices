@@ -57,7 +57,7 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None):
 
     #TODO
     #draw municipal borders (use kunnat.shp for it)
-    #handle postinumero with missing values - is this needed?
+    #handle postinumero with missing values - is this needed?, how to handle
     #add unit to legend
 
 
