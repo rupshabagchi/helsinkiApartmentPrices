@@ -17,7 +17,7 @@ def _grupeGeoframeToFrame(geoData, data, groupColumnName):
                 geoData = geoData.drop(key, 1)
 
     # merge with the given column
-    geoData = geoData.merge(data, on=groupColumnName)
+    return geoData.merge(data, on=groupColumnName)
 
 
 def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None):
@@ -26,7 +26,7 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None):
      if savepath is not given the map is printed, othervise it is saved'''
 
     #merge the dataframe info to the geodataframe map
-    _grupeGeoframeToFrame(map, info, groupColumnName=mergeColumn)
+    map = _grupeGeoframeToFrame(map, info, groupColumnName=mergeColumn)
 
     # for making colorbar see the max and min values of the data we want to plot
     colorbarMin = map[drawColumn].min()
@@ -34,7 +34,6 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None):
 
     #plot
     plottedMap = map.plot(column = drawColumn, cmap = 'Blues', vmin = colorbarMin, vmax = colorbarMax)
-
     # get the map as a figure
     fig = plottedMap.get_figure()
 
@@ -43,7 +42,6 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None):
 
     #put the title to the map
     fig.suptitle(title)
-
     #some internet workaround for making the colorbar for geopandas (from matplotlib, geopandas doesent have its own yet
     sm = plt.cm.ScalarMappable(cmap='Blues', norm=plt.Normalize(vmin= colorbarMin, vmax=colorbarMax))
     # fake up the array of the scalar mappable. Urgh...
