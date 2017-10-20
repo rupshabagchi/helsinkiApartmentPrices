@@ -18,7 +18,7 @@ def cleanData(data):
         data.loc[ix, ['sizeUnit']] = s2
         r = row['rent'].strip().split(' ')
         # dont touch the ### number lenght    ▼ spaces in my numbers!!
-        r1 = r[0].replace(',', '.').replace(' ', '')
+        r1 = float(r[0].replace(',', '.').replace(' ', ''))
         r2 = r[1]
         data.loc[ix, ['rentValue']] = r1
         data.loc[ix, ['rentUnit']] = r2
