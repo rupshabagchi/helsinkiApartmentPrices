@@ -1,0 +1,1872 @@
+,allow_pets,built_year,condition,deposit,number_of_rooms,postal_code,rent,total_size,type
+0,ei sallittu,1930,hyvä,1380 €,Yksiö,33500,690 €/kk,"43,7 m²",kerrostalo
+1,ei sallittu,1957,hyvä,1200,Yksiö,01230,600 €/kk,"26,6 m²",kerrostalo
+2,ei tiedossa,1939,hyvä,1800 euroa,Kaksio,00150,990 €/kk,"38,8 m²",kerrostalo
+3,ei sallittu,1960,hyvä,1 kk:n vuokra,4 huonetta,62200,680 €/kk,120 m²,omakotitalo
+4,ei sallittu,1971,hyvä,kuukauden vuokra,Kaksio,40740,640 €/kk,46 m²,kerrostalo
+5,ei sallittu,2017,hyvä,2 kk vuokra,Yksiö,33870,520 €/kk,23 m²,kerrostalo
+6,ei sallittu,1975,hyvä,800€,Kaksio,20360,620 €/kk,62 m²,kerrostalo
+7,ei sallittu,2018,hyvä,949,3 huonetta,02250,949 €/kk,53 m²,kerrostalo
+8,ei sallittu,2017,hyvä,643,Yksiö,02250,643 €/kk,25 m²,kerrostalo
+9,ei sallittu,2017,hyvä,1270,Yksiö,02250,1 270 €/kk,"73,5 m²",kerrostalo
+10,ei sallittu,2017,hyvä,705,Yksiö,02250,705 €/kk,34 m²,kerrostalo
+11,ei sallittu,1976,hyvä,1260,3 huonetta,94830,630 €/kk,"76,5 m²",rivitalo
+12,ei sallittu,2017,hyvä,910,Kaksio,02250,910 €/kk,"48,5 m²",kerrostalo
+13,ei sallittu,2016,hyvä,1940,Kaksio,20520,970 €/kk,57 m²,kerrostalo
+14,ei tiedossa,1911,hyvä,1560.00,Yksiö,00500,780 €/kk,"31,2 m²",kerrostalo
+15,ei sallittu,1975,hyvä,2 kk vakuus,Yksiö,20720,430 €/kk,27 m²,kerrostalo
+16,ei sallittu,2008,hyvä,"1900 e, vastaa 2:n kuukauden vuokraa",Kaksio,02620,950 €/kk,52 m²,kerrostalo
+17,ei sallittu,2017,hyvä,1220,Yksiö,33540,610 €/kk,30 m²,kerrostalo
+18,ei sallittu,2012,hyvä,2 kk vuokra,Kaksio,33100,820 €/kk,51 m²,kerrostalo
+19,ei sallittu,1961,hyvä,1590 €,Kaksio,33210,795 €/kk,55 m²,kerrostalo
+20,ei tiedossa,1984,tyydyttävä,1590 €,Yksiö,01530,1 164 €/kk,15 m²,kerrostalo
+21,ei tiedossa,2015,hyvä,1590 €,Yksiö,02650,1 205 €/kk,13 m²,kerrostalo
+22,ei tiedossa,2016,hyvä,1590 €,3 huonetta,96100,2 166 €/kk,52 m²,kerrostalo
+23,ei tiedossa,1974,tyydyttävä,1590 €,Yksiö,00530,1 083 €/kk,9 m²,kerrostalo
+24,ei tiedossa,1974,tyydyttävä,1590 €,Yksiö,90100,1 503 €/kk,18 m²,kerrostalo
+25,ei tiedossa,1956,tyydyttävä,1590 €,Yksiö,00100,1 940 €/kk,18 m²,kerrostalo
+26,ei tiedossa,1956,tyydyttävä,1590 €,Yksiö,00380,1 013 €/kk,10 m²,kerrostalo
+27,ei tiedossa,1956,tyydyttävä,1590 €,Yksiö,33200,1 371 €/kk,23 m²,kerrostalo
+28,ei tiedossa,1956,hyvä,1590 €,Yksiö,00810,1 574 €/kk,18 m²,kerrostalo
+29,ei tiedossa,2014,hyvä,1590 €,Yksiö,02650,1 726 €/kk,40 m²,kerrostalo
+30,ei tiedossa,2015,hyvä,1590 €,Yksiö,02650,1 014 €/kk,15 m²,kerrostalo
+31,ei tiedossa,2015,hyvä,1590 €,Yksiö,02650,1 806 €/kk,15 m²,kerrostalo
+32,ei tiedossa,2014,hyvä,1590 €,Kaksio,02230,1 617 €/kk,"43,5 m²",kerrostalo
+33,ei sallittu,1926,hyvä,2kk vuokraa vastaava summa.,Yksiö,00550,760 €/kk,25 m²,kerrostalo
+34,ei tiedossa,1997,hyvä,"530,00",3 huonetta,38700,530 €/kk,79 m²,rivitalo
+35,ei sallittu,1997,hyvä,2kk vuokraa vastaava summa.,Kaksio,00140,1 200 €/kk,"52,6 m²",kerrostalo
+36,sallittu,1977,hyvä,1200,Kaksio,01360,850 €/kk,"59,5 m²",kerrostalo
+37,ei tiedossa,1972,ei luokiteltu,500.00,Kaksio,26820,500 €/kk,56 m²,kerrostalo
+38,ei sallittu,2017,hyvä,1160,Yksiö,33900,580 €/kk,"25,5 m²",kerrostalo
+39,ei sallittu,1968,hyvä,2 kuukauden vuokraa vastaava summa,Kaksio,70100,740 €/kk,60 m²,kerrostalo
+40,ei sallittu,1968,hyvä,2 kuukauden vuokraa vastaava summa,Kaksio,70100,740 €/kk,60 m²,kerrostalo
+41,ei sallittu,2014,hyvä,1860,3 huonetta,33720,930 €/kk,63 m²,kerrostalo
+42,ei sallittu,1984,hyvä,1400,Kaksio,04600,700 €/kk,65 m²,rivitalo
+43,ei sallittu,1962,hyvä,1kk,Kaksio,90100,650 €/kk,42 m²,kerrostalo
+44,ei sallittu,1970,hyvä,1330.00,Yksiö,01300,665 €/kk,33 m²,kerrostalo
+45,ei sallittu,1986,hyvä,1 kk,Kaksio,33560,690 €/kk,54 m²,kerrostalo
+46,ei sallittu,1957,hyvä,"1 420,00 e",Kaksio,33540,710 €/kk,"58,7 m²",kerrostalo
+47,ei sallittu,1988,hyvä,"2kk vuokravakuus, 1240e",Yksiö,04300,620 €/kk,33 m²,kerrostalo
+48,ei sallittu,2018,hyvä,1kk:n vuokran suuruinen,Kaksio,90100,880 €/kk,"53,5 m²",kerrostalo
+49,ei sallittu,2018,hyvä,1kk:n vuokran suuruinen,Kaksio,90100,740 €/kk,39 m²,kerrostalo
+50,ei sallittu,2017,hyvä,1kk:n vuokran suuruinen,Yksiö,90570,495 €/kk,"32,5 m²",kerrostalo
+51,ei sallittu,1982,hyvä,1kk:n vuokran suuruinen,Kaksio,90240,690 €/kk,59 m²,rivitalo
+52,ei sallittu,2017,hyvä,1kk:n vuokran suuruinen,Yksiö,90570,495 €/kk,"32,5 m²",kerrostalo
+53,ei sallittu,2018,hyvä,1kk:n vuokran suuruinen,Kaksio,90100,980 €/kk,57 m²,kerrostalo
+54,ei sallittu,1962,hyvä,2kk,Kaksio,28130,715 €/kk,47 m²,kerrostalo
+55,ei sallittu,1973,hyvä,1180 €,3 huonetta,21530,590 €/kk,75 m²,kerrostalo
+56,ei tiedossa,1954,hyvä,1700.00,3 huonetta,20100,850 €/kk,67 m²,kerrostalo
+57,ei sallittu,1954,tyydyttävä,1700 €,3 huonetta,04300,850 €/kk,73 m²,kerrostalo
+58,ei sallittu,2002,hyvä,900 €,Yksiö,21530,450 €/kk,39 m²,kerrostalo
+59,ei sallittu,1997,hyvä,ei vakuutta,Kaksio,39200,560 €/kk,57 m²,kerrostalo
+60,ei tiedossa,1960,hyvä,1380.00,Yksiö,00520,690 €/kk,"25,5 m²",kerrostalo
+61,ei sallittu,1975,tyydyttävä,550 €,Kaksio,42700,550 €/kk,"56,5 m²",kerrostalo
+62,ei tiedossa,1986,hyvä,550 €,Kaksio,01150,690 €/kk,42 m²,kerrostalo
+63,ei sallittu,1991,hyvä,2 kk,Kaksio,00730,720 €/kk,43 m²,kerrostalo
+64,ei tiedossa,2004,hyvä,2 kk,Kaksio,02230,1 616 €/kk,44 m²,kerrostalo
+65,ei tiedossa,2004,tyydyttävä,2 kk,Yksiö,00270,1 682 €/kk,28 m²,kerrostalo
+66,ei tiedossa,1996,tyydyttävä,2 kk,3 huonetta,01300,2 741 €/kk,82 m²,rivitalo
+67,ei tiedossa,1970,tyydyttävä,2 kk,Kaksio,02620,1 517 €/kk,45 m²,kerrostalo
+68,ei tiedossa,1959,tyydyttävä,2 kk,Yksiö,15110,1 094 €/kk,39 m²,kerrostalo
+69,ei tiedossa,1959,tyydyttävä,2 kk,Kaksio,00380,1 013 €/kk,19 m²,kerrostalo
+70,ei tiedossa,1972,tyydyttävä,2 kk,Yksiö,02150,765 €/kk,11 m²,erillistalo
+71,ei tiedossa,1972,tyydyttävä,2 kk,Yksiö,15110,357 €/kk,21 m²,kerrostalo
+72,ei tiedossa,1972,tyydyttävä,2 kk,Yksiö,00380,845 €/kk,8 m²,kerrostalo
+73,ei sallittu,1964,hyvä,280 €,Yksiö,42700,280 €/kk,27 m²,kerrostalo
+74,ei sallittu,1976,hyvä,695 €,3 huonetta,42700,690 €/kk,"72,5 m²",kerrostalo
+75,ei tiedossa,2002,hyvä,"2400,00 ",4 huonetta,08150,1 200 €/kk,"92,5 m²",rivitalo
+76,ei sallittu,1990,tyydyttävä,1180.00,Kaksio,21110,590 €/kk,35 m²,rivitalo
+77,ei sallittu,1946,hyvä,1400,Kaksio,33230,686 €/kk,36 m²,kerrostalo
+78,ei sallittu,1982,hyvä,noin yhden kuukauden vuokra,Kaksio,20610,542 €/kk,"61,5 m²",kerrostalo
+79,ei tiedossa,1936,tyydyttävä,1440.00,Yksiö,00180,720 €/kk,30 m²,kerrostalo
+80,ei tiedossa,1979,hyvä,1476.00,3 huonetta,15150,738 €/kk,"61,5 m²",kerrostalo
+81,ei sallittu,2015,hyvä,1160,Yksiö,33250,580 €/kk,28 m²,luhtitalo
+82,ei sallittu,1947,hyvä,1160,Yksiö,33800,580 €/kk,37 m²,kerrostalo
+83,ei sallittu,1984,hyvä,1590,Kaksio,33230,795 €/kk,"62,5 m²",kerrostalo
+84,ei sallittu,2016,hyvä,1190,Yksiö,70840,595 €/kk,"30,5 m²",luhtitalo
+85,ei sallittu,1957,hyvä,2 kuukauden vuokra,Yksiö,15800,450 €/kk,36 m²,kerrostalo
+86,ei sallittu,1953,tyydyttävä,350 €,Yksiö,94100,350 €/kk,26 m²,kerrostalo
+87,ei sallittu,2002,hyvä,250,Kaksio,90440,615 €/kk,"56,5 m²",rivitalo
+88,ei sallittu,1964,hyvä,750,4 huonetta,67100,750 €/kk,"85,5 m²",kerrostalo
+89,ei tiedossa,1968,tyydyttävä,410.00,Kaksio,30100,410 €/kk,50 m²,kerrostalo
+90,ei sallittu,1974,hyvä,729,Yksiö,15500,486 €/kk,36 m²,kerrostalo
+91,ei sallittu,2016,hyvä,1510,Kaksio,40100,755 €/kk,"47,5 m²",kerrostalo
+92,ei tiedossa,2007,hyvä,1990.00,3 huonetta,03400,995 €/kk,"75,6 m²",rivitalo
+93,ei sallittu,2007,hyvä,noin yhden kuukauden vuokra,Yksiö,40900,"353,84 €/kk","25,5 m²",rivitalo
+94,ei sallittu,2004,hyvä,250,3 huonetta,40320,785 €/kk,66 m²,luhtitalo
+95,ei sallittu,2017,hyvä,"0,5kk vuokran suuruinen",Kaksio,90420,640 €/kk,"49,5 m²",kerrostalo
+96,ei sallittu,2018,ei luokiteltu,1186.00,3 huonetta,02200,1 186 €/kk,"60,5 m²",kerrostalo
+97,ei sallittu,2018,ei luokiteltu,861.00,Yksiö,02200,861 €/kk,"39,5 m²",kerrostalo
+98,ei sallittu,2018,ei luokiteltu,929.00,Kaksio,02200,929 €/kk,46 m²,kerrostalo
+99,ei sallittu,2016,ei luokiteltu,970.00,3 huonetta,70100,970 €/kk,60 m²,kerrostalo
+100,ei sallittu,1910,ei luokiteltu,525.00,Yksiö,90100,525 €/kk,30 m²,kerrostalo
+101,ei sallittu,2018,ei luokiteltu,1174.00,3 huonetta,02200,1 174 €/kk,"60,5 m²",kerrostalo
+102,ei sallittu,2018,ei luokiteltu,929.00,Kaksio,02200,929 €/kk,46 m²,kerrostalo
+103,ei sallittu,2018,ei luokiteltu,919.00,Kaksio,02200,919 €/kk,"45,5 m²",kerrostalo
+104,ei sallittu,2018,ei luokiteltu,861.00,Yksiö,02200,861 €/kk,"39,5 m²",kerrostalo
+105,ei sallittu,2015,ei luokiteltu,795.00,Kaksio,70840,795 €/kk,"53,5 m²",kerrostalo
+106,ei sallittu,2018,ei luokiteltu,919.00,Kaksio,02200,919 €/kk,"45,5 m²",kerrostalo
+107,ei sallittu,2017,hyvä,"1kk, yrityksiltä 3kk",Yksiö,04410,690 €/kk,"31,5 m²",kerrostalo
+108,ei sallittu,2014,hyvä,1kk tai 350 € väh. vuoden sopimus,Kaksio,04320,809 €/kk,"49,5 m²",kerrostalo
+109,ei tiedossa,1959,hyvä,520.00,Kaksio,96400,520 €/kk,46 m²,kerrostalo
+110,ei tiedossa,1964,hyvä,400.00,Kaksio,76100,400 €/kk,55 m²,kerrostalo
+111,ei tiedossa,2015,hyvä,670.00,Kaksio,96300,670 €/kk,42 m²,kerrostalo
+112,ei tiedossa,1930,tyydyttävä,1240.00,Kaksio,33230,620 €/kk,"55,8 m²",kerrostalo
+113,ei tiedossa,2012,hyvä,1580.00,Kaksio,00390,790 €/kk,"38,5 m²",kerrostalo
+114,ei sallittu,1966,hyvä,1200.00,4 huonetta,28360,600 €/kk,"78,7 m²",kerrostalo
+115,ei sallittu,1966,hyvä,1160.00,Kaksio,28100,580 €/kk,62 m²,kerrostalo
+116,ei sallittu,1966,hyvä,300.00,Yksiö,26100,"231,35 €/kk",20 m²,kerrostalo
+117,ei sallittu,1947,hyvä,450.00,Kaksio,37600,450 €/kk,35 m²,kerrostalo
+118,ei tiedossa,1928,hyvä,1000.00,Yksiö,20250,500 €/kk,"26,5 m²",kerrostalo
+119,ei sallittu,1968,hyvä,kahden kuukauden vuokra,Kaksio,33840,605 €/kk,"53,5 m²",kerrostalo
+120,ei sallittu,1968,hyvä,kahden kuukauden vuokra,Kaksio,33840,605 €/kk,"53,5 m²",kerrostalo
+121,ei sallittu,1984,tyydyttävä,800,4 huonetta,44100,800 €/kk,100 m²,omakotitalo
+122,ei sallittu,2012,hyvä,1 kk,Kaksio,04410,790 €/kk,40 m²,kerrostalo
+123,ei sallittu,1886,hyvä,2 kk rahavakuus,Yksiö,00170,560 €/kk,25 m²,kerrostalo
+124,ei tiedossa,1986,hyvä,1390.00,Yksiö,00440,695 €/kk,33 m²,kerrostalo
+125,ei sallittu,1976,hyvä,700.00,Yksiö,28190,350 €/kk,"31,5 m²",kerrostalo
+126,ei sallittu,2007,hyvä,1kk:n vuokran suuruinen,Kaksio,90420,590 €/kk,49 m²,luhtitalo
+127,ei tiedossa,1975,hyvä,250,Yksiö,96500,460 €/kk,37 m²,kerrostalo
+128,ei sallittu,1988,hyvä,1/kk vuokra,Kaksio,53100,950 €/kk,80 m²,kerrostalo
+129,ei sallittu,1954,hyvä,250.00,3 huonetta,45100,619 €/kk,66 m²,kerrostalo
+130,ei sallittu,1974,ei luokiteltu,2 kk,4 huonetta,01200,1 300 €/kk,97 m²,kerrostalo
+131,ei sallittu,1998,ei luokiteltu,"2 080,00 €",Yksiö,00500,1 040 €/kk,"52,5 m²",kerrostalo
+132,ei sallittu,1996,hyvä,250 €,Yksiö,40100,675 €/kk,"36,5 m²",kerrostalo
+133,ei sallittu,1972,hyvä,250 €,3 huonetta,02700,1 438 €/kk,71 m²,kerrostalo
+134,ei sallittu,1954,hyvä,250 €,Yksiö,00560,989 €/kk,37 m²,kerrostalo
+135,ei sallittu,2017,hyvä,2 kk vuokra,Yksiö,33870,520 €/kk,23 m²,kerrostalo
+136,ei sallittu,1977,hyvä,0,3 huonetta,02400,"846,88 €/kk","74,5 m²",kerrostalo
+137,ei sallittu,1977,hyvä,0,Kaksio,01200,889 €/kk,62 m²,kerrostalo
+138,ei sallittu,1961,hyvä,2 kk:n vuokra,Kaksio,00150,900 €/kk,48 m²,kerrostalo
+139,ei sallittu,1999,hyvä,"895,00",Kaksio,20810,895 €/kk,"67,5 m²",kerrostalo
+140,ei sallittu,2017,hyvä,2 kk vuokraa vastaava vakuus,Kaksio,01300,850 €/kk,"50,5 m²",kerrostalo
+141,ei sallittu,1994,hyvä,1 kk pankkitalletus + 2 kk hlötakaus,3 huonetta,60200,695 €/kk,74 m²,rivitalo
+142,ei tiedossa,1984,tyydyttävä,1000.00,Yksiö,48100,500 €/kk,"34,5 m²",kerrostalo
+143,ei tiedossa,1993,tyydyttävä,1040.00,Yksiö,20700,520 €/kk,25 m²,kerrostalo
+144,ei tiedossa,1981,hyvä,650.00,Kaksio,30100,650 €/kk,64 m²,rivitalo
+145,ei tiedossa,1981,hyvä,960.00,Yksiö,06100,480 €/kk,33 m²,kerrostalo
+146,ei tiedossa,1982,tyydyttävä,1160.00,Yksiö,01150,580 €/kk,"34,5 m²",kerrostalo
+147,ei tiedossa,1934,hyvä,1360.00,Yksiö,00100,680 €/kk,"26,5 m²",kerrostalo
+148,ei tiedossa,1982,hyvä,1300.00,Yksiö,00780,650 €/kk,"30,5 m²",kerrostalo
+149,ei tiedossa,2003,hyvä,1380.00,Yksiö,00990,690 €/kk,29 m²,kerrostalo
+150,ei sallittu,2004,hyvä,1190.00,Kaksio,28100,595 €/kk,48 m²,kerrostalo
+151,ei sallittu,1982,hyvä,1340.00,Kaksio,15870,670 €/kk,57 m²,rivitalo
+152,ei sallittu,1942,hyvä,1-3 kuukauden vakuus,Yksiö,32700,390 €/kk,41 m²,kerrostalo
+153,ei sallittu,1962,hyvä,1380,Kaksio,40100,690 €/kk,40 m²,kerrostalo
+154,ei sallittu,2001,hyvä,950.13,3 huonetta,33720,"950,13 €/kk","77,5 m²",luhtitalo
+155,ei sallittu,2003,hyvä,noin yhden kuukauden vuokra,3 huonetta,33710,"795,91 €/kk","69,5 m²",kerrostalo
+156,ei sallittu,1970,hyvä,950,Yksiö,40250,475 €/kk,"27,5 m²",kerrostalo
+157,ei sallittu,1974,hyvä,1580 €,Yksiö,00530,790 €/kk,33 m²,kerrostalo
+158,ei sallittu,1974,hyvä,550 €,3 huonetta,38700,550 €/kk,83 m²,paritalo
+159,ei sallittu,1977,tyydyttävä,"1 400,00 e",3 huonetta,33720,700 €/kk,"70,5 m²",kerrostalo
+160,ei sallittu,1941,tyydyttävä,"900,00 e",Yksiö,33800,450 €/kk,32 m²,kerrostalo
+161,ei sallittu,2017,hyvä,250 €,Kaksio,00220,1 339 €/kk,"59,5 m²",kerrostalo
+162,ei sallittu,2013,hyvä,250 €,Kaksio,00580,1 262 €/kk,51 m²,kerrostalo
+163,ei sallittu,1975,hyvä,250 €,Kaksio,33720,699 €/kk,62 m²,kerrostalo
+164,ei sallittu,1971,hyvä,250 €,Kaksio,45700,540 €/kk,62 m²,kerrostalo
+165,ei sallittu,1962,tyydyttävä,1 kk vuokra,Yksiö,62200,270 €/kk,23 m²,kerrostalo
+166,ei sallittu,1968,hyvä,1 kk vuokra,Kaksio,96200,600 €/kk,44 m²,kerrostalo
+167,ei sallittu,1997,hyvä,1 kk vuokra,Yksiö,02660,915 €/kk,49 m²,kerrostalo
+168,ei sallittu,2011,hyvä,1 kk vuokra,4 huonetta,00790,1 650 €/kk,"96,5 m²",kerrostalo
+169,ei sallittu,1957,hyvä,650 €,Kaksio,13130,650 €/kk,"59,5 m²",kerrostalo
+170,ei sallittu,2011,hyvä,1kk,Kaksio,00900,855 €/kk,45 m²,kerrostalo
+171,ei sallittu,2014,hyvä,1kk/350€,4 huonetta,02100,2 410 €/kk,"166,5 m²",kerrostalo
+172,ei sallittu,2001,hyvä,2kk,4 huonetta,05810,1 170 €/kk,90 m²,rivitalo
+173,ei sallittu,2016,hyvä,1 kk tai 350 € väh. vuoden sopimus,Yksiö,04410,670 €/kk,35 m²,kerrostalo
+174,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,884 €/kk,52 m²,kerrostalo
+175,ei sallittu,2017,hyvä,1kk (495 Eur),Yksiö,33870,495 €/kk,23 m²,kerrostalo
+176,ei tiedossa,1958,hyvä,1kk (495 Eur),Kaksio,94100,520 €/kk,58 m²,kerrostalo
+177,ei sallittu,1980,hyvä,715,Kaksio,37500,715 €/kk,60 m²,rivitalo
+178,ei tiedossa,2014,hyvä,1340.00,Kaksio,04410,670 €/kk,52 m²,rivitalo
+179,ei tiedossa,2015,hyvä,1520.00,Kaksio,01150,760 €/kk,"48,1 m²",kerrostalo
+180,ei tiedossa,1939,hyvä,980.00,Yksiö,33230,490 €/kk,"20,5 m²",kerrostalo
+181,ei tiedossa,2015,hyvä,1060.00,Yksiö,20300,530 €/kk,28 m²,kerrostalo
+182,ei sallittu,2015,hyvä,1386.00,Kaksio,20300,693 €/kk,40 m²,kerrostalo
+183,ei sallittu,1968,ei luokiteltu,1260.00,3 huonetta,15240,630 €/kk,69 m²,kerrostalo
+184,ei sallittu,1977,hyvä,1900.00,5 +,60101,950 €/kk,195 m²,paritalo
+185,ei sallittu,1979,hyvä,1480,Yksiö,00440,740 €/kk,34 m²,kerrostalo
+186,ei sallittu,1976,hyvä,1480,Kaksio,00520,948 €/kk,"45,5 m²",kerrostalo
+187,ei sallittu,1970,hyvä,1480,Yksiö,01200,"540,81 €/kk",39 m²,kerrostalo
+188,ei sallittu,1985,hyvä,1480,3 huonetta,01300,1 030 €/kk,"68,5 m²",kerrostalo
+189,ei sallittu,1959,hyvä,1480,Yksiö,00350,830 €/kk,25 m²,kerrostalo
+190,ei sallittu,1959,hyvä,2 kk:n vuokra,Kaksio,02760,830 €/kk,48 m²,kerrostalo
+191,ei sallittu,1991,hyvä,"871,14",3 huonetta,16900,"871,14 €/kk",80 m²,rivitalo
+192,ei sallittu,1989,hyvä,250 euroa,Kaksio,90240,660 €/kk,63 m²,luhtitalo
+193,ei sallittu,1999,hyvä,250.00,Kaksio,45120,652 €/kk,53 m²,rivitalo
+194,ei sallittu,2002,hyvä,250 euroa,3 huonetta,90650,805 €/kk,72 m²,kerrostalo
+195,ei sallittu,2005,hyvä,250,3 huonetta,40320,811 €/kk,"65,5 m²",kerrostalo
+196,ei sallittu,1972,hyvä,250 euroa,Kaksio,90580,446 €/kk,55 m²,kerrostalo
+197,ei sallittu,2005,hyvä,250.00,3 huonetta,15140,860 €/kk,74 m²,kerrostalo
+198,ei sallittu,1948,hyvä,"250,00",3 huonetta,80200,817 €/kk,66 m²,kerrostalo
+199,ei sallittu,1980,hyvä,250 €,Kaksio,90500,689 €/kk,60 m²,kerrostalo
+200,ei sallittu,1970,hyvä,250 €,4 huonetta,13600,"1067,60 €/kk",89 m²,kerrostalo
+201,ei sallittu,1978,hyvä,250 €,4 huonetta,00440,1 497 €/kk,97 m²,kerrostalo
+202,ei sallittu,1979,hyvä,250 €,Kaksio,00440,929 €/kk,49 m²,kerrostalo
+203,ei sallittu,1976,hyvä,250 €,Kaksio,01450,792 €/kk,63 m²,kerrostalo
+204,ei sallittu,2017,hyvä,250 €,Kaksio,01400,876 €/kk,43 m²,kerrostalo
+205,ei sallittu,1955,hyvä,250 €,Kaksio,33100,779 €/kk,"40,5 m²",kerrostalo
+206,ei sallittu,1980,hyvä,250 €,Kaksio,01370,746 €/kk,"47,5 m²",kerrostalo
+207,ei sallittu,1973,hyvä,250 €,3 huonetta,01620,1 111 €/kk,"76,5 m²",kerrostalo
+208,ei sallittu,1973,hyvä,1kk+hlö tai 2kk,Kaksio,28190,650 €/kk,"57,5 m²",kerrostalo
+209,ei sallittu,1965,hyvä,1kk + hlö tai 2kk,3 huonetta,28100,650 €/kk,"68,5 m²",kerrostalo
+210,ei sallittu,1989,hyvä,"440,00 e",Yksiö,90570,440 €/kk,30 m²,kerrostalo
+211,sallittu,1977,hyvä,1200,4 huonetta,61330,1 200 €/kk,118 m²,omakotitalo
+212,ei sallittu,1997,hyvä,1200,Kaksio,02660,929 €/kk,56 m²,kerrostalo
+213,ei sallittu,1988,hyvä,1200,3 huonetta,00710,1 129 €/kk,68 m²,kerrostalo
+214,ei sallittu,2018,ei luokiteltu,630.00,Yksiö,20520,630 €/kk,33 m²,kerrostalo
+215,ei sallittu,2018,ei luokiteltu,635.00,Yksiö,20520,635 €/kk,34 m²,kerrostalo
+216,ei sallittu,1997,ei luokiteltu,491.00,Kaksio,90520,491 €/kk,51 m²,kerrostalo
+217,ei sallittu,2017,ei luokiteltu,641.00,Yksiö,04220,641 €/kk,"32,5 m²",kerrostalo
+218,ei sallittu,2018,ei luokiteltu,820.00,Kaksio,20520,820 €/kk,51 m²,kerrostalo
+219,ei sallittu,2018,ei luokiteltu,730.00,Kaksio,70300,730 €/kk,47 m²,kerrostalo
+220,ei sallittu,2017,ei luokiteltu,760.00,Kaksio,04230,760 €/kk,"49,5 m²",kerrostalo
+221,ei sallittu,2017,ei luokiteltu,738.00,Kaksio,04220,738 €/kk,"47,5 m²",kerrostalo
+222,ei sallittu,2017,ei luokiteltu,609.00,Yksiö,04220,609 €/kk,"30,5 m²",kerrostalo
+223,ei sallittu,2018,ei luokiteltu,645.00,Yksiö,20520,645 €/kk,33 m²,kerrostalo
+224,ei sallittu,2018,ei luokiteltu,585.00,Yksiö,20520,585 €/kk,26 m²,kerrostalo
+225,ei sallittu,2018,ei luokiteltu,630.00,Yksiö,20520,630 €/kk,"32,5 m²",kerrostalo
+226,ei sallittu,2017,ei luokiteltu,710.00,Kaksio,04230,710 €/kk,43 m²,kerrostalo
+227,ei tiedossa,2017,ei luokiteltu,1500 ,Kaksio,33540,750 €/kk,"43,5 m²",kerrostalo
+228,ei sallittu,1972,hyvä,noin yhden kuukauden vuokra,Kaksio,04600,"693,25 €/kk","58,5 m²",kerrostalo
+229,ei tiedossa,1990,ei luokiteltu,390.00,Yksiö,86300,390 €/kk,33 m²,kerrostalo
+230,ei tiedossa,2016,hyvä,.00,Yksiö,60200,580 €/kk,"38,5 m²",kerrostalo
+231,ei tiedossa,1987,hyvä,585.00,Kaksio,67100,585 €/kk,59 m²,kerrostalo
+232,ei tiedossa,2013,hyvä,1190.00,Yksiö,36280,595 €/kk,42 m²,kerrostalo
+233,ei tiedossa,1983,ei luokiteltu,1240.00,Yksiö,04230,620 €/kk,"36,5 m²",luhtitalo
+234,ei tiedossa,1984,hyvä,1190.00,Yksiö,33500,595 €/kk,35 m²,kerrostalo
+235,ei tiedossa,1945,hyvä,1840.00,Kaksio,00270,920 €/kk,42 m²,kerrostalo
+236,ei tiedossa,1957,hyvä,3050.00,4 huonetta,00810,1 525 €/kk,87 m²,kerrostalo
+237,ei sallittu,1978,hyvä,1kk:n vuokran suuruinen,Kaksio,90570,575 €/kk,59 m²,kerrostalo
+238,ei sallittu,1978,hyvä,1kk:n vuokran suuruinen,Kaksio,90570,545 €/kk,"51,5 m²",kerrostalo
+239,ei sallittu,1978,hyvä,1kk:n vuokran suuruinen,Kaksio,90570,570 €/kk,59 m²,kerrostalo
+240,ei sallittu,1953,hyvä,1kk:n vuokran suuruinen,Kaksio,90120,652 €/kk,61 m²,kerrostalo
+241,ei sallittu,2011,hyvä,1kk:n vuokran suuruinen,Kaksio,00790,990 €/kk,"48,5 m²",kerrostalo
+242,ei sallittu,1929,hyvä,1290 €,Kaksio,33100,645 €/kk,"43,5 m²",kerrostalo
+243,ei sallittu,1962,hyvä,"1340,-",3 huonetta,28130,670 €/kk,69 m²,kerrostalo
+244,ei sallittu,1939,hyvä,500 €,Yksiö,20810,750 €/kk,"43,5 m²",kerrostalo
+245,ei sallittu,2011,hyvä,1kk pankkitalletus sekä 1-2 henkilön henkilötakaus,Kaksio,60200,570 €/kk,43 m²,luhtitalo
+246,ei sallittu,2014,hyvä,1kk pankkitalletus sekä 1-2 henkilön henkilötakaus,Kaksio,91800,620 €/kk,51 m²,kerrostalo
+247,ei tiedossa,1974,hyvä,1320 ,3 huonetta,60120,660 €/kk,"70,5 m²",kerrostalo
+248,ei sallittu,1998,hyvä,250 €,Yksiö,90570,547 €/kk,32 m²,kerrostalo
+249,ei tiedossa,1989,ei luokiteltu,500 euroa,Kaksio,00250,1 008 €/kk,56 m²,kerrostalo
+250,ei sallittu,1908,hyvä,5600,3 huonetta,00170,2 800 €/kk,"122,5 m²",kerrostalo
+251,ei sallittu,1999,hyvä,1kk,Kaksio,01510,930 €/kk,59 m²,kerrostalo
+252,ei sallittu,1957,tyydyttävä,2 kk,Kaksio,00350,950 €/kk,"49,8 m²",kerrostalo
+253,ei sallittu,1957,tyydyttävä,1590 €,4 huonetta,11130,795 €/kk,98 m²,kerrostalo
+254,ei tiedossa,1957,hyvä,1590 €,3 huonetta,65100,800 €/kk,70 m²,kerrostalo
+255,ei tiedossa,1925,hyvä,3900.00,3 huonetta,00100,1 950 €/kk,106 m²,kerrostalo
+256,ei sallittu,1957,hyvä,1380,Kaksio,11100,690 €/kk,43 m²,kerrostalo
+257,ei sallittu,2017,hyvä,1190.00,Kaksio,60510,595 €/kk,45 m²,rivitalo
+258,ei sallittu,1939,hyvä,2000.00,Kaksio,00250,1 000 €/kk,39 m²,kerrostalo
+259,ei sallittu,1939,hyvä,480 €,Yksiö,53100,480 €/kk,31 m²,kerrostalo
+260,ei sallittu,1939,hyvä,1kk+hlö tai 2kk,Yksiö,28660,440 €/kk,36 m²,rivitalo
+261,ei sallittu,1989,hyvä,688,3 huonetta,96440,688 €/kk,"76,5 m²",rivitalo
+262,ei sallittu,1992,hyvä,"570,00 e",Kaksio,40520,570 €/kk,"54,5 m²",kerrostalo
+263,ei sallittu,2013,hyvä,"690,00 e +laaja kotivakuutus",Kaksio,80220,690 €/kk,41 m²,kerrostalo
+264,ei sallittu,2009,hyvä,250 €,Kaksio,70100,910 €/kk,"57,5 m²",kerrostalo
+265,ei sallittu,1997,hyvä,250 €,4 huonetta,00340,2 873 €/kk,126 m²,rivitalo
+266,ei sallittu,2010,hyvä,620€,Kaksio,95400,620 €/kk,"44,5 m²",kerrostalo
+267,ei sallittu,2010,hyvä,0,Kaksio,05820,625 €/kk,46 m²,kerrostalo
+268,ei sallittu,1989,hyvä,0,Kaksio,01620,899 €/kk,53 m²,kerrostalo
+269,ei sallittu,1899,hyvä,0,Kaksio,00240,1 250 €/kk,"72,5 m²",kerrostalo
+270,ei sallittu,1998,ei luokiteltu,"570,33",Kaksio,33100,"570,33 €/kk",47 m²,kerrostalo
+271,ei sallittu,2017,hyvä,1 kk vuokra,3 huonetta,33900,750 €/kk,"66,5 m²",kerrostalo
+272,ei sallittu,2015,hyvä,1kk/350€,3 huonetta,02390,970 €/kk,"63,5 m²",kerrostalo
+273,ei tiedossa,1939,hyvä,1440 ,Yksiö,00550,720 €/kk,21 m²,kerrostalo
+274,ei tiedossa,2001,tyydyttävä,1180.00,Kaksio,67100,590 €/kk,62 m²,kerrostalo
+275,ei tiedossa,1967,ei luokiteltu,690.00,3 huonetta,87300,690 €/kk,72 m²,kerrostalo
+276,ei tiedossa,1938,hyvä,1380.00,Yksiö,00330,690 €/kk,23 m²,kerrostalo
+277,ei tiedossa,1987,hyvä,1300.00,Yksiö,01360,650 €/kk,38 m²,kerrostalo
+278,ei tiedossa,1970,hyvä,1700.00,Kaksio,01300,850 €/kk,59 m²,kerrostalo
+279,ei tiedossa,1966,hyvä,2280.00,3 huonetta,00320,1 140 €/kk,62 m²,kerrostalo
+280,ei tiedossa,2017,hyvä,1700.00,Kaksio,01400,850 €/kk,48 m²,kerrostalo
+281,ei sallittu,1975,hyvä,1200.00,Kaksio,60100,600 €/kk,58 m²,kerrostalo
+282,ei sallittu,1975,hyvä,600 €,4 huonetta,38700,600 €/kk,149 m²,omakotitalo
+283,ei sallittu,1997,hyvä,noin yhden kuukauden vuokra,3 huonetta,33900,"968,47 €/kk","72,5 m²",kerrostalo
+284,ei sallittu,1937,hyvä,noin yhden kuukauden vuokra,Yksiö,00150,949 €/kk,34 m²,kerrostalo
+285,ei sallittu,1964,hyvä,1 kuukauden vuokra,Yksiö,90120,480 €/kk,34 m²,kerrostalo
+286,ei sallittu,2013,hyvä,"2 kk 1500,00 €",Kaksio,03100,750 €/kk,49 m²,rivitalo
+287,ei sallittu,2013,hyvä,"2 kk 1500,00 €",Kaksio,03100,750 €/kk,49 m²,rivitalo
+288,ei sallittu,2011,hyvä,"1360,00",Yksiö,02330,680 €/kk,"36,5 m²",kerrostalo
+289,ei tiedossa,2017,ei luokiteltu,1500 ,Kaksio,33540,750 €/kk,"44,5 m²",kerrostalo
+290,ei sallittu,2017,hyvä,"600,00 e",Yksiö,80220,600 €/kk,30 m²,kerrostalo
+291,ei sallittu,1980,hyvä,"1 680,00 e",3 huonetta,33880,840 €/kk,"78,5 m²",kerrostalo
+292,ei sallittu,2010,hyvä,"700,00 e",Kaksio,33330,700 €/kk,58 m²,kerrostalo
+293,ei sallittu,1975,hyvä,250 €,Kaksio,33720,699 €/kk,62 m²,kerrostalo
+294,ei sallittu,2016,hyvä,Sopimuksen mukaan,Kaksio,00950,950 €/kk,48 m²,kerrostalo
+295,ei sallittu,2012,hyvä,Sopimuksen mukaan,Kaksio,00990,1 060 €/kk,55 m²,kerrostalo
+296,ei sallittu,2015,hyvä,1kk/350€,Kaksio,01640,953 €/kk,53 m²,kerrostalo
+297,ei sallittu,2016,hyvä,1 kk:n vuokra,Yksiö,70840,590 €/kk,"31,5 m²",kerrostalo
+298,ei sallittu,2005,hyvä,1 kk:n vuokra,Kaksio,90450,550 €/kk,"45,5 m²",kerrostalo
+299,ei sallittu,2017,hyvä,"1kk, 350€",Kaksio,02200,935 €/kk,"44,5 m²",kerrostalo
+300,ei sallittu,2016,hyvä,1kk/350€,Kaksio,01700,880 €/kk,51 m²,kerrostalo
+301,ei tiedossa,2016,hyvä,"382,50",Yksiö,53850,"382,50 €/kk",25 m²,kerrostalo
+302,ei sallittu,1939,hyvä,500 €,Yksiö,20810,750 €/kk,"43,5 m²",kerrostalo
+303,ei tiedossa,1939,hyvä,1700.00,Kaksio,02360,850 €/kk,"59,5 m²",kerrostalo
+304,ei tiedossa,1972,tyydyttävä,960.00,Yksiö,15700,480 €/kk,28 m²,kerrostalo
+305,ei tiedossa,2017,hyvä,1340.00,Yksiö,01600,670 €/kk,"24,5 m²",kerrostalo
+306,ei tiedossa,1959,hyvä,1240.00,Yksiö,00420,620 €/kk,27 m²,kerrostalo
+307,ei tiedossa,1971,hyvä,1680.00,Kaksio,01300,840 €/kk,"54,5 m²",kerrostalo
+308,ei sallittu,1972,hyvä,1040.00,Yksiö,33500,520 €/kk,29 m²,kerrostalo
+309,ei sallittu,1972,hyvä,1120.00,Kaksio,28100,560 €/kk,45 m²,kerrostalo
+310,ei sallittu,2008,hyvä,1kk:n vuokran suuruinen,3 huonetta,90650,851 €/kk,68 m²,luhtitalo
+311,ei sallittu,1980,hyvä,1kk:n vuokran suuruinen,Yksiö,02650,"773,33 €/kk","30,5 m²",kerrostalo
+312,ei sallittu,1998,hyvä,1kk:n vuokran suuruinen,3 huonetta,01300,1 240 €/kk,70 m²,kerrostalo
+313,ei sallittu,2016,hyvä,1kk:n vuokran suuruinen,Kaksio,00380,950 €/kk,"37,5 m²",kerrostalo
+314,ei sallittu,2017,hyvä,1kk:n vuokran suuruinen,Kaksio,02200,905 €/kk,"41,5 m²",kerrostalo
+315,ei sallittu,2017,hyvä,noin yhden kuukauden vuokra,Yksiö,40900,"316,46 €/kk","25,5 m²",rivitalo
+316,ei sallittu,2017,hyvä,noin yhden kuukauden vuokra,Kaksio,40100,"614,18 €/kk","49,5 m²",kerrostalo
+317,ei sallittu,1991,hyvä,noin yhden kuukauden vuokra,3 huonetta,04130,910 €/kk,77 m²,kerrostalo
+318,ei sallittu,1962,hyvä,"1 780,00 e",4 huonetta,28360,890 €/kk,120 m²,paritalo
+319,ei sallittu,2016,hyvä,"1 780,00 e",Kaksio,00380,875 €/kk,34 m²,kerrostalo
+320,ei sallittu,2017,ei luokiteltu,710.00,Kaksio,96100,710 €/kk,"44,5 m²",kerrostalo
+321,ei sallittu,1997,hyvä,2 kk vuokraa vastaava summa,4 huonetta,20100,"1364,86 €/kk","91,5 m²",kerrostalo
+322,ei sallittu,2018,hyvä,"1300,00",Yksiö,20100,650 €/kk,32 m²,kerrostalo
+323,ei sallittu,2018,hyvä,"1300,00",Yksiö,20100,650 €/kk,32 m²,kerrostalo
+324,ei sallittu,1975,hyvä,1 kk vuokra,3 huonetta,78850,675 €/kk,81 m²,kerrostalo
+325,ei tiedossa,1976,hyvä,1390.00,3 huonetta,06450,695 €/kk,59 m²,kerrostalo
+326,ei tiedossa,2006,hyvä,1300.00,Yksiö,02760,650 €/kk,36 m²,kerrostalo
+327,ei tiedossa,2006,ei luokiteltu,780.00,Kaksio,03100,780 €/kk,"64,5 m²",rivitalo
+328,ei sallittu,1972,hyvä,2 060,3 huonetta,00770,1 030 €/kk,80 m²,kerrostalo
+329,ei sallittu,1972,hyvä,2 060,3 huonetta,00770,1 030 €/kk,80 m²,kerrostalo
+330,ei sallittu,2017,hyvä,599,Yksiö,33900,600 €/kk,32 m²,kerrostalo
+331,ei sallittu,1976,tyydyttävä,370,Yksiö,38700,370 €/kk,"34,5 m²",kerrostalo
+332,ei sallittu,1970,hyvä,950,Yksiö,37100,475 €/kk,36 m²,kerrostalo
+333,ei sallittu,2017,hyvä,"1350,00",3 huonetta,00940,1 350 €/kk,"83,5 m²",kerrostalo
+334,ei sallittu,2017,hyvä,2kk vuokraa vastaava summa.,Yksiö,00910,649 €/kk,32 m²,kerrostalo
+335,ei sallittu,2000,hyvä,250 €,3 huonetta,90250,837 €/kk,66 m²,kerrostalo
+336,ei sallittu,1990,hyvä,250 €,Kaksio,90240,589 €/kk,"58,5 m²",kerrostalo
+337,ei sallittu,1975,hyvä,465€,Kaksio,95420,465 €/kk,45 m²,kerrostalo
+338,ei sallittu,1974,tyydyttävä,600€,3 huonetta,95420,600 €/kk,74 m²,kerrostalo
+339,ei sallittu,1975,hyvä,560€,Kaksio,95400,560 €/kk,"59,5 m²",kerrostalo
+340,ei sallittu,1991,hyvä,560€,Kaksio,00330,975 €/kk,43 m²,kerrostalo
+341,ei sallittu,1976,hyvä,1000 €,3 huonetta,38710,600 €/kk,80 m²,kerrostalo
+342,ei sallittu,2018,hyvä,"1670,00",Kaksio,20100,835 €/kk,"56,5 m²",kerrostalo
+343,ei tiedossa,2018,hyvä,1380.00,Yksiö,01700,690 €/kk,"30,5 m²",luhtitalo
+344,ei tiedossa,1977,hyvä,1170.00,Yksiö,04320,585 €/kk,35 m²,kerrostalo
+345,ei tiedossa,1966,hyvä,1000.00,Kaksio,15210,500 €/kk,53 m²,kerrostalo
+346,ei tiedossa,1957,hyvä,1250.00,Yksiö,00370,625 €/kk,24 m²,kerrostalo
+347,ei tiedossa,2014,hyvä,1250.00,Yksiö,02680,1 367 €/kk,25 m²,rivitalo
+348,ei tiedossa,2014,tyydyttävä,1250.00,Yksiö,00100,1 066 €/kk,18 m²,kerrostalo
+349,ei tiedossa,2014,tyydyttävä,1250.00,Yksiö,86110,1 303 €/kk,26 m²,rivitalo
+350,ei tiedossa,2014,tyydyttävä,1250.00,Yksiö,86110,1 005 €/kk,"11,5 m²",rivitalo
+351,ei tiedossa,2003,hyvä,1250.00,4 huonetta,01520,2 881 €/kk,90 m²,kerrostalo
+352,ei tiedossa,1984,tyydyttävä,1250.00,Yksiö,01530,1 400 €/kk,15 m²,kerrostalo
+353,ei tiedossa,2015,hyvä,1250.00,3 huonetta,90400,2 167 €/kk,59 m²,kerrostalo
+354,ei tiedossa,1993,hyvä,1250.00,3 huonetta,00180,3 387 €/kk,70 m²,kerrostalo
+355,ei tiedossa,1962,hyvä,1250.00,Kaksio,00510,1 847 €/kk,42 m²,kerrostalo
+356,ei tiedossa,1962,tyydyttävä,1250.00,3 huonetta,01710,2 382 €/kk,73 m²,kerrostalo
+357,ei sallittu,1981,hyvä,1250.00,4 huonetta,00240,1 560 €/kk,"95,5 m²",kerrostalo
+358,ei sallittu,2000,hyvä,1250.00,Kaksio,00500,1 090 €/kk,42 m²,kerrostalo
+359,ei sallittu,1990,hyvä,250 €,3 huonetta,40620,738 €/kk,60 m²,kerrostalo
+360,ei sallittu,2013,hyvä,1kk,3 huonetta,96460,1 000 €/kk,72 m²,rivitalo
+361,ei sallittu,1974,hyvä,520€,Kaksio,95420,520 €/kk,57 m²,kerrostalo
+362,ei sallittu,1965,hyvä,520€,Yksiö,00920,750 €/kk,"27,5 m²",kerrostalo
+363,ei sallittu,2012,hyvä,520€,3 huonetta,00990,1 259 €/kk,66 m²,kerrostalo
+364,ei tiedossa,1996,hyvä,"2480,00 ",4 huonetta,04300,1 240 €/kk,90 m²,rivitalo
+365,ei tiedossa,2007,hyvä,890,Kaksio,02320,890 €/kk,"51,5 m²",kerrostalo
+366,ei tiedossa,1984,hyvä,690.00,Kaksio,90650,690 €/kk,60 m²,rivitalo
+367,ei tiedossa,2006,hyvä,2100.00,3 huonetta,02320,1 050 €/kk,"69,5 m²",kerrostalo
+368,ei tiedossa,1961,hyvä,1468.00,Yksiö,00120,734 €/kk,24 m²,kerrostalo
+369,ei tiedossa,1928,hyvä,1430.00,Yksiö,00510,715 €/kk,25 m²,kerrostalo
+370,ei sallittu,1928,tyydyttävä,1500 €,Yksiö,00150,750 €/kk,28 m²,kerrostalo
+371,ei sallittu,2017,hyvä,2*kk,Kaksio,33540,820 €/kk,"40,5 m²",kerrostalo
+372,ei sallittu,1924,hyvä,1960 €,Yksiö,00100,980 €/kk,"40,75 m²",kerrostalo
+373,ei sallittu,2017,hyvä,2*kk,Kaksio,33540,770 €/kk,"40,5 m²",kerrostalo
+374,ei sallittu,2017,hyvä,2*kk,Yksiö,33540,650 €/kk,30 m²,kerrostalo
+375,ei sallittu,1983,hyvä,noin yhden kuukauden vuokra,3 huonetta,20610,638 €/kk,"76,5 m²",kerrostalo
+376,ei sallittu,1990,hyvä,noin yhden kuukauden vuokra,Kaksio,20540,576 €/kk,58 m²,kerrostalo
+377,ei sallittu,1991,hyvä,noin yhden kuukauden vuokra,Kaksio,20540,642 €/kk,"60,5 m²",luhtitalo
+378,ei tiedossa,1956,hyvä,1300.00,Kaksio,20540,650 €/kk,63 m²,kerrostalo
+379,ei tiedossa,2013,hyvä,1360.00,Kaksio,21200,680 €/kk,"40,5 m²",kerrostalo
+380,ei tiedossa,1974,tyydyttävä,1360.00,Kaksio,01710,680 €/kk,54 m²,kerrostalo
+381,ei tiedossa,1964,hyvä,1180.00,Kaksio,20360,590 €/kk,52 m²,kerrostalo
+382,ei sallittu,2017,hyvä,2*kk,Yksiö,33540,670 €/kk,"26,5 m²",kerrostalo
+383,ei sallittu,2017,hyvä,2*kk,Yksiö,33540,680 €/kk,29 m²,kerrostalo
+384,ei tiedossa,1902,hyvä,1700,Yksiö,00160,850 €/kk,24 m²,kerrostalo
+385,ei tiedossa,1902,hyvä,1700,Yksiö,00160,850 €/kk,24 m²,kerrostalo
+386,ei sallittu,1967,hyvä,2kk vuokra eli 2780€,5 +,40800,1 390 €/kk,125 m²,omakotitalo
+387,ei tiedossa,2015,hyvä,1960 ,Kaksio,02200,980 €/kk,"40,5 m²",kerrostalo
+388,ei tiedossa,1927,hyvä,1000.00,Yksiö,20540,500 €/kk,"40,5 m²",rivitalo
+389,ei sallittu,1927,hyvä,1000 euroa,Yksiö,13200,480 €/kk,30 m²,kerrostalo
+390,ei tiedossa,2015,hyvä,690,Kaksio,96460,690 €/kk,58 m²,rivitalo
+391,ei sallittu,2017,hyvä,1kk takuuvuokra,4 huonetta,01650,1 590 €/kk,87 m²,erillistalo
+392,ei tiedossa,2016,hyvä,750,3 huonetta,92160,750 €/kk,66 m²,rivitalo
+393,ei tiedossa,1991,hyvä,1240.00,Kaksio,05200,620 €/kk,"53,5 m²",kerrostalo
+394,ei tiedossa,1905,hyvä,3300.00,3 huonetta,00100,1 650 €/kk,79 m²,kerrostalo
+395,ei tiedossa,1961,hyvä,1780.00,Kaksio,00570,890 €/kk,37 m²,kerrostalo
+396,ei sallittu,1976,hyvä,1500€,Kaksio,01800,690 €/kk,58 m²,kerrostalo
+397,ei sallittu,1938,hyvä,1200,Kaksio,15110,600 €/kk,42 m²,kerrostalo
+398,ei sallittu,2017,hyvä,1kk vuokra,Yksiö,04410,700 €/kk,33 m²,rivitalo
+399,ei sallittu,1996,hyvä,1kk vuokra,Yksiö,33480,"674,51 €/kk",50 m²,kerrostalo
+400,ei sallittu,1974,hyvä,"1 660,00 e",Kaksio,33100,830 €/kk,51 m²,kerrostalo
+401,ei tiedossa,1912,hyvä,1700 ,Yksiö,00260,850 €/kk,"48,4 m²",kerrostalo
+402,ei sallittu,1977,hyvä,1120,Kaksio,33720,560 €/kk,48 m²,kerrostalo
+403,ei sallittu,2017,hyvä,"878 tai 439, mikäli vuokralaisella on vuokratakaaja",Yksiö,90570,439 €/kk,"21,5 m²",kerrostalo
+404,ei tiedossa,2007,hyvä,"878 tai 439, mikäli vuokralaisella on vuokratakaaja",Kaksio,02130,1 000 €/kk,60 m²,kerrostalo
+405,ei tiedossa,1979,tyydyttävä,1480.00,Kaksio,20880,740 €/kk,61 m²,rivitalo
+406,ei tiedossa,1979,hyvä,1260.00,Kaksio,21500,630 €/kk,"76,5 m²",kerrostalo
+407,ei tiedossa,1979,hyvä,1460.00,Yksiö,00930,730 €/kk,36 m²,kerrostalo
+408,ei tiedossa,2015,hyvä,1540.00,Kaksio,01700,770 €/kk,"37,5 m²",kerrostalo
+409,ei sallittu,2003,hyvä,1040.00,Kaksio,28100,520 €/kk,42 m²,kerrostalo
+410,ei sallittu,1966,hyvä,480.00,Yksiö,50120,480 €/kk,"30,5 m²",kerrostalo
+411,ei sallittu,1987,ei luokiteltu,480.00,Yksiö,40630,"354,90 €/kk",28 m²,kerrostalo
+412,ei sallittu,1999,ei luokiteltu,480.00,3 huonetta,40270,"889,72 €/kk",80 m²,kerrostalo
+413,ei sallittu,1987,ei luokiteltu,480.00,Kaksio,40800,546 €/kk,60 m²,kerrostalo
+414,ei sallittu,1989,hyvä,480.00,Kaksio,33470,"596,58 €/kk",45 m²,rivitalo
+415,ei sallittu,1979,hyvä,480.00,3 huonetta,33470,"795,12 €/kk","79,5 m²",kerrostalo
+416,ei sallittu,2013,ei luokiteltu,1410.00,Kaksio,15610,705 €/kk,"44,5 m²",kerrostalo
+417,ei sallittu,2013,ei luokiteltu,1536.00,Kaksio,15610,768 €/kk,49 m²,kerrostalo
+418,ei sallittu,2013,ei luokiteltu,1364.00,Kaksio,15610,682 €/kk,"42,5 m²",kerrostalo
+419,ei sallittu,2013,ei luokiteltu,1816.00,Kaksio,15140,908 €/kk,"57,5 m²",kerrostalo
+420,ei sallittu,2013,ei luokiteltu,1536.00,Kaksio,15610,768 €/kk,49 m²,kerrostalo
+421,ei sallittu,2013,ei luokiteltu,1798.00,Kaksio,15140,899 €/kk,"57,5 m²",kerrostalo
+422,ei tiedossa,1958,hyvä,1420.00,Yksiö,00320,710 €/kk,26 m²,kerrostalo
+423,ei tiedossa,2001,hyvä,2200.00,Kaksio,00810,1 100 €/kk,"55,5 m²",kerrostalo
+424,ei sallittu,2013,hyvä,760 €,Kaksio,65100,760 €/kk,58 m²,kerrostalo
+425,ei sallittu,1962,hyvä,2000,4 huonetta,08150,1 000 €/kk,147 m²,omakotitalo
+426,ei sallittu,2015,hyvä,vuosisitoumus ei vakuutta,Kaksio,15830,715 €/kk,"50,5 m²",kerrostalo
+427,ei tiedossa,1962,hyvä,482.75,Kaksio,30100,"482,75 €/kk","45,5 m²",kerrostalo
+428,ei tiedossa,1983,tyydyttävä,860.00,Yksiö,57100,430 €/kk,30 m²,kerrostalo
+429,ei tiedossa,2017,hyvä,1830.00,Kaksio,01300,915 €/kk,"50,5 m²",kerrostalo
+430,ei tiedossa,1987,hyvä,1654.00,3 huonetta,15100,827 €/kk,66 m²,kerrostalo
+431,ei tiedossa,1995,hyvä,2720.00,Kaksio,02610,1 360 €/kk,"91,5 m²",paritalo
+432,ei tiedossa,1995,ei luokiteltu,550.00,Kaksio,40340,550 €/kk,55 m²,kerrostalo
+433,ei sallittu,1958,hyvä,1320.00,Kaksio,28130,660 €/kk,61 m²,kerrostalo
+434,ei sallittu,1963,tyydyttävä,1kk:n vuokran suuruinen,Kaksio,90230,520 €/kk,43 m²,kerrostalo
+435,ei sallittu,2010,hyvä,1kk:n vuokran suuruinen,3 huonetta,90420,725 €/kk,55 m²,rivitalo
+436,ei sallittu,1977,hyvä,1kk:n vuokran suuruinen,Kaksio,90500,590 €/kk,"50,5 m²",kerrostalo
+437,ei sallittu,1977,ei luokiteltu,2kk:n vuokran suuruinen,Kaksio,01670,2 735 €/kk,342 m²,varastotila
+438,ei sallittu,2017,hyvä,2kk:n vuokran suuruinen,Yksiö,00410,690 €/kk,29 m²,kerrostalo
+439,ei sallittu,2008,hyvä,1kk:n vuokran suuruinen,Kaksio,90120,720 €/kk,55 m²,kerrostalo
+440,sallittu,2004,hyvä,500 € - 3 kk:n vuokran määrä,3 huonetta,70700,"818,40 €/kk",91 m²,kerrostalo
+441,ei sallittu,1971,hyvä,760 €,Yksiö,38200,380 €/kk,28 m²,kerrostalo
+442,ei sallittu,1961,tyydyttävä,960 €,Yksiö,20100,480 €/kk,30 m²,kerrostalo
+443,ei sallittu,1999,hyvä,250,3 huonetta,82200,738 €/kk,70 m²,rivitalo
+444,ei sallittu,2002,hyvä,250,Kaksio,80140,670 €/kk,51 m²,rivitalo
+445,ei sallittu,2001,hyvä,250.00,Kaksio,13210,630 €/kk,64 m²,kerrostalo
+446,ei sallittu,1975,hyvä,720,Kaksio,80230,720 €/kk,56 m²,rivitalo
+447,ei sallittu,1966,hyvä,250 €,Kaksio,70200,892 €/kk,61 m²,kerrostalo
+448,ei sallittu,1993,hyvä,250 €,3 huonetta,20540,830 €/kk,79 m²,kerrostalo
+449,ei sallittu,1980,ei luokiteltu,630 €,Kaksio,96100,630 €/kk,61 m²,kerrostalo
+450,ei sallittu,1980,hyvä,0,Kaksio,02250,"860,50 €/kk",53 m²,kerrostalo
+451,ei sallittu,1972,hyvä,1340 €,Kaksio,60100,670 €/kk,46 m²,kerrostalo
+452,ei sallittu,1998,hyvä,2 kk vuokraa vastaava summa,Kaksio,00980,"879,99 €/kk",55 m²,kerrostalo
+453,ei sallittu,1978,ei luokiteltu,"250,00",Kaksio,15500,530 €/kk,"50,5 m²",kerrostalo
+454,ei sallittu,1978,ei luokiteltu,520€,Kaksio,26100,520 €/kk,"58,5 m²",kerrostalo
+455,ei tiedossa,1956,hyvä,520€,Kaksio,90500,629 €/kk,54 m²,kerrostalo
+456,ei tiedossa,1961,tyydyttävä,960.00,Yksiö,33100,480 €/kk,"24,5 m²",kerrostalo
+457,ei tiedossa,2003,hyvä,1660.00,Kaksio,02600,830 €/kk,46 m²,kerrostalo
+458,ei tiedossa,2007,hyvä,1660.00,3 huonetta,02320,830 €/kk,68 m²,kerrostalo
+459,ei sallittu,2007,hyvä,980.00,Yksiö,28100,490 €/kk,37 m²,luhtitalo
+460,ei sallittu,1956,hyvä,1360.00,Yksiö,20760,680 €/kk,66 m²,kerrostalo
+461,ei sallittu,2004,hyvä,1120.00,Kaksio,28100,560 €/kk,38 m²,kerrostalo
+462,ei sallittu,1979,hyvä,440 €,Kaksio,38710,440 €/kk,55 m²,kerrostalo
+463,ei sallittu,1970,hyvä,742.5,3 huonetta,33330,"742,50 €/kk","72,5 m²",kerrostalo
+464,ei tiedossa,1973,hyvä,1380 ,3 huonetta,37100,690 €/kk,65 m²,kerrostalo
+465,ei sallittu,2014,hyvä,1380 ,Kaksio,20520,690 €/kk,"34,5 m²",kerrostalo
+466,ei sallittu,1985,hyvä,1380 ,Yksiö,01300,700 €/kk,"34,5 m²",kerrostalo
+467,ei sallittu,1998,hyvä,721 €,3 huonetta,67300,"721,36 €/kk","62,5 m²",luhtitalo
+468,ei sallittu,2003,hyvä,882 €,3 huonetta,67100,"881,90 €/kk","91,5 m²",kerrostalo
+469,ei sallittu,1986,hyvä,1700 €,3 huonetta,70100,850 €/kk,"76,5 m²",kerrostalo
+470,ei sallittu,1961,tyydyttävä,"1 000,00 e Vakuus toimitetaan erikseen perustettav",Yksiö,40100,500 €/kk,"23,5 m²",kerrostalo
+471,ei sallittu,1982,hyvä,"630,00 e",Kaksio,70200,630 €/kk,57 m²,kerrostalo
+472,ei sallittu,2017,hyvä,"630,00 e",Yksiö,33870,530 €/kk,23 m²,kerrostalo
+473,ei sallittu,1966,ei luokiteltu,"520,00 e",Yksiö,70200,520 €/kk,34 m²,kerrostalo
+474,ei sallittu,1962,hyvä,1kk+hlö tai 2kk,Kaksio,28100,495 €/kk,56 m²,kerrostalo
+475,ei sallittu,2004,hyvä,250 €,Kaksio,90120,804 €/kk,59 m²,kerrostalo
+476,ei sallittu,1979,hyvä,250 €,Kaksio,02230,871 €/kk,59 m²,kerrostalo
+477,ei sallittu,1982,hyvä,250 €,4 huonetta,02230,1 186 €/kk,"98,5 m²",kerrostalo
+478,ei sallittu,2014,hyvä,250 €,Yksiö,02250,890 €/kk,46 m²,kerrostalo
+479,ei sallittu,1974,hyvä,250 €,Kaksio,02320,755 €/kk,47 m²,kerrostalo
+480,ei sallittu,2016,hyvä,250 €,Yksiö,53100,720 €/kk,38 m²,kerrostalo
+481,ei sallittu,2008,hyvä,250 €,Yksiö,01600,846 €/kk,47 m²,kerrostalo
+482,ei sallittu,1970,hyvä,250 €,4 huonetta,02700,1 421 €/kk,102 m²,kerrostalo
+483,ei sallittu,1998,hyvä,1.300 €,Yksiö,20100,650 €/kk,39 m²,kerrostalo
+484,ei sallittu,1961,tyydyttävä,740 e (1 kk),3 huonetta,48600,740 €/kk,78 m²,kerrostalo
+485,ei tiedossa,1993,hyvä,740 e (1 kk),Kaksio,65320,"641,52 €/kk","65,5 m²",kerrostalo
+486,ei tiedossa,1994,hyvä,740 e (1 kk),4 huonetta,65100,"1030,82 €/kk","99,5 m²",kerrostalo
+487,ei tiedossa,1976,hyvä,740 e (1 kk),Yksiö,65370,"335,62 €/kk",35 m²,kerrostalo
+488,ei tiedossa,1994,hyvä,740 e (1 kk),5 +,65100,"1218,05 €/kk",109 m²,kerrostalo
+489,ei tiedossa,1994,hyvä,1900.00,Kaksio,02100,950 €/kk,59 m²,kerrostalo
+490,ei tiedossa,1999,ei luokiteltu,1500.00,Kaksio,15140,750 €/kk,53 m²,kerrostalo
+491,ei sallittu,1966,hyvä,1300.00,Kaksio,20540,650 €/kk,43 m²,kerrostalo
+492,ei sallittu,1976,hyvä,695 €,3 huonetta,60510,695 €/kk,74 m²,luhtitalo
+493,ei sallittu,1974,ei luokiteltu,1-3 kuukauden vakuus,Kaksio,32700,500 €/kk,"57,5 m²",kerrostalo
+494,ei sallittu,2016,hyvä,1-3 kuukauden vakuus,3 huonetta,02330,1 250 €/kk,"70,5 m²",kerrostalo
+495,ei sallittu,2017,hyvä,575,Yksiö,33710,575 €/kk,35 m²,kerrostalo
+496,ei sallittu,2016,hyvä,1840 €,3 huonetta,70910,890 €/kk,"75,5 m²",kerrostalo
+497,ei tiedossa,2003,hyvä,850,3 huonetta,33310,"783,68 €/kk","67,5 m²",kerrostalo
+498,ei sallittu,2014,hyvä,1115.20,4 huonetta,28130,"1115,20 €/kk","86,5 m²",kerrostalo
+499,ei tiedossa,1962,hyvä,1780 ,Kaksio,33100,890 €/kk,"54,5 m²",kerrostalo
+500,ei sallittu,1985,hyvä,250 €,Kaksio,01360,885 €/kk,"55,5 m²",kerrostalo
+501,ei sallittu,1994,hyvä,250 €,3 huonetta,90550,920 €/kk,"79,5 m²",kerrostalo
+502,ei sallittu,1994,ei luokiteltu,"445,00 e",Yksiö,15200,445 €/kk,32 m²,kerrostalo
+503,ei sallittu,1913,välttävä,"1 180,00 e",Yksiö,00150,590 €/kk,20 m²,kerrostalo
+504,ei sallittu,1974,välttävä,"900,00 e",Yksiö,36200,450 €/kk,29 m²,kerrostalo
+505,ei sallittu,1994,ei luokiteltu,0 €,3 huonetta,96100,883 €/kk,81 m²,kerrostalo
+506,ei sallittu,1994,hyvä,0,Kaksio,02250,"854,75 €/kk","55,5 m²",kerrostalo
+507,ei sallittu,1994,hyvä,0,Kaksio,20700,820 €/kk,67 m²,kerrostalo
+508,ei sallittu,2014,ei luokiteltu,655.00,Yksiö,40700,655 €/kk,40 m²,kerrostalo
+509,ei tiedossa,1970,hyvä,1590 ,Kaksio,02210,795 €/kk,47 m²,kerrostalo
+510,ei tiedossa,1902,tyydyttävä,1100.00,Kaksio,49300,550 €/kk,70 m²,omakotitalo
+511,ei tiedossa,1975,tyydyttävä,732.00,3 huonetta,25250,590 €/kk,78 m²,kerrostalo
+512,ei tiedossa,1998,hyvä,590.00,Yksiö,65100,590 €/kk,"43,5 m²",kerrostalo
+513,ei tiedossa,1983,tyydyttävä,1240.00,Yksiö,04200,620 €/kk,36 m²,kerrostalo
+514,ei tiedossa,2003,hyvä,1240.00,Kaksio,00120,1 280 €/kk,"50,5 m²",kerrostalo
+515,ei sallittu,2006,hyvä,642 €,Kaksio,67100,"641,80 €/kk",51 m²,luhtitalo
+516,ei sallittu,1986,hyvä,2 kuukauden vuokra,Yksiö,57130,530 €/kk,37 m²,kerrostalo
+517,ei sallittu,1971,hyvä,1200.00,Kaksio,20610,600 €/kk,58 m²,kerrostalo
+518,ei sallittu,1955,ei luokiteltu,720.00,Yksiö,18100,360 €/kk,31 m²,kerrostalo
+519,ei sallittu,2014,hyvä,1kk:n vuokran suuruinen,Kaksio,90530,640 €/kk,45 m²,kerrostalo
+520,ei sallittu,2015,hyvä,1kk:n vuokran suuruinen,Yksiö,90540,470 €/kk,27 m²,kerrostalo
+521,ei sallittu,2012,hyvä,1kk:n vuokran suuruinen,3 huonetta,90420,725 €/kk,55 m²,luhtitalo
+522,ei sallittu,1973,tyydyttävä,430 €,Kaksio,55800,430 €/kk,"48,5 m²",kerrostalo
+523,ei sallittu,2014,hyvä,noin yhden kuukauden vuokra,4 huonetta,20320,"1160,02 €/kk","87,5 m²",rivitalo
+524,ei sallittu,2016,hyvä,1 kuukauden vuokraa vastaava,Yksiö,33900,690 €/kk,35 m²,kerrostalo
+525,ei sallittu,2004,hyvä,515,Kaksio,90520,515 €/kk,"51,5 m²",kerrostalo
+526,ei tiedossa,1972,hyvä,840,Kaksio,02320,840 €/kk,"63,5 m²",kerrostalo
+527,ei sallittu,1972,hyvä,600 €,3 huonetta,38700,600 €/kk,77 m²,rivitalo
+528,ei sallittu,2010,hyvä,658 €,Kaksio,67100,"657,55 €/kk","49,5 m²",kerrostalo
+529,ei sallittu,2014,hyvä,250 €,Kaksio,01640,969 €/kk,"53,5 m²",kerrostalo
+530,ei sallittu,2004,hyvä,250 €,Kaksio,90120,684 €/kk,"42,5 m²",kerrostalo
+531,ei sallittu,2004,ei luokiteltu,"410,00 e",Yksiö,15500,410 €/kk,35 m²,kerrostalo
+532,ei sallittu,1955,hyvä,"530,00 e +henkilötakaus / 2kk +laaja kotivakuutus",Yksiö,80100,530 €/kk,33 m²,kerrostalo
+533,ei sallittu,1955,ei luokiteltu,"990,00 e",Yksiö,15170,495 €/kk,"32,5 m²",kerrostalo
+534,ei sallittu,2000,hyvä,"990,00 e",Kaksio,01610,875 €/kk,"42,5 m²",kerrostalo
+535,ei tiedossa,1989,ei luokiteltu,500 euroa,Kaksio,00250,1 024 €/kk,"57,5 m²",kerrostalo
+536,ei sallittu,1999,hyvä,470 €,Kaksio,38700,470 €/kk,"60,5 m²",rivitalo
+537,ei sallittu,1978,hyvä,1kk,3 huonetta,02130,1 169 €/kk,"61,5 m²",kerrostalo
+538,ei sallittu,1975,hyvä,1kk,Kaksio,01300,990 €/kk,59 m²,kerrostalo
+539,ei sallittu,2017,hyvä,"1590,00",Kaksio,20100,795 €/kk,"45,5 m²",kerrostalo
+540,ei sallittu,2006,hyvä,1 kuukauden vuokra,3 huonetta,57100,900 €/kk,87 m²,kerrostalo
+541,ei tiedossa,2004,hyvä,960,Kaksio,00990,960 €/kk,"52,5 m²",kerrostalo
+542,ei tiedossa,2005,hyvä,781 €,3 huonetta,37130,781 €/kk,75 m²,rivitalo
+543,ei sallittu,2017,hyvä,2600,Kaksio,00220,1 300 €/kk,51 m²,kerrostalo
+544,ei tiedossa,1973,hyvä,1680.00,Kaksio,00840,840 €/kk,51 m²,kerrostalo
+545,ei tiedossa,1937,hyvä,1560.00,Yksiö,00500,780 €/kk,37 m²,kerrostalo
+546,ei tiedossa,2016,hyvä,1800.00,Kaksio,00870,900 €/kk,45 m²,kerrostalo
+547,ei tiedossa,1957,hyvä,1340.00,Yksiö,00530,670 €/kk,28 m²,kerrostalo
+548,ei tiedossa,1984,hyvä,1190.00,Yksiö,04230,595 €/kk,31 m²,luhtitalo
+549,ei tiedossa,2016,hyvä,1860.00,Kaksio,00870,930 €/kk,46 m²,kerrostalo
+550,ei sallittu,1978,hyvä,900.00,Yksiö,28100,450 €/kk,36 m²,kerrostalo
+551,ei sallittu,1968,hyvä,1kk,Yksiö,37830,400 €/kk,37 m²,kerrostalo
+552,ei sallittu,1985,tyydyttävä,2000 €,5 +,16900,1 000 €/kk,190 m²,omakotitalo
+553,ei sallittu,1984,hyvä,250 euroa,Kaksio,90570,637 €/kk,62 m²,rivitalo
+554,ei sallittu,1977,hyvä,250 euroa,Kaksio,90580,510 €/kk,62 m²,kerrostalo
+555,ei sallittu,1980,hyvä,250 euroa,Kaksio,90500,657 €/kk,"61,5 m²",kerrostalo
+556,ei sallittu,1972,hyvä,250 euroa,Kaksio,90550,558 €/kk,56 m²,kerrostalo
+557,ei sallittu,1969,hyvä,"653,60 e 1kk+laaja kotivakuutus",3 huonetta,80160,"653,60 €/kk",77 m²,kerrostalo
+558,ei sallittu,1974,hyvä,"595,00 e",Kaksio,70460,595 €/kk,"45,5 m²",kerrostalo
+559,ei sallittu,2008,hyvä,920 €,3 huonetta,90120,920 €/kk,68 m²,kerrostalo
+560,ei sallittu,1973,hyvä,"1.200,00",Kaksio,15170,600 €/kk,"58,5 m²",kerrostalo
+561,ei sallittu,1905,hyvä,2 kk:n vuokra,Yksiö,00170,650 €/kk,30 m²,kerrostalo
+562,ei tiedossa,2008,hyvä,500 €,Kaksio,02230,920 €/kk,"52,5 m²",kerrostalo
+563,ei tiedossa,2007,hyvä,"895,00 €",Kaksio,02230,895 €/kk,47 m²,kerrostalo
+564,ei tiedossa,1996,hyvä,1838.68,3 huonetta,21420,"919,34 €/kk","83,5 m²",rivitalo
+565,ei tiedossa,1954,tyydyttävä,840.00,Yksiö,57130,420 €/kk,23 m²,kerrostalo
+566,ei tiedossa,1998,hyvä,840.00,Yksiö,65380,"401,94 €/kk","35,5 m²",kerrostalo
+567,ei tiedossa,1984,hyvä,840.00,Yksiö,65320,"348,69 €/kk",33 m²,kerrostalo
+568,ei tiedossa,1988,hyvä,840.00,Kaksio,65380,"398,04 €/kk","41,5 m²",kerrostalo
+569,ei tiedossa,1975,hyvä,840.00,Yksiö,65370,"333,94 €/kk",32 m²,kerrostalo
+570,ei tiedossa,2000,hyvä,1120.00,Yksiö,00810,560 €/kk,20 m²,kerrostalo
+571,ei tiedossa,2005,hyvä,1900.00,Kaksio,00790,950 €/kk,"51,5 m²",kerrostalo
+572,ei tiedossa,2005,hyvä,2200.00,Kaksio,00120,1 100 €/kk,45 m²,kerrostalo
+573,ei tiedossa,2017,hyvä,1640.00,Kaksio,02780,820 €/kk,45 m²,luhtitalo
+574,ei tiedossa,1982,hyvä,1640.00,5 +,00430,1 600 €/kk,179 m²,omakotitalo
+575,ei tiedossa,2015,hyvä,1240.00,Kaksio,13100,620 €/kk,"37,5 m²",kerrostalo
+576,ei tiedossa,1971,ei luokiteltu,1640.00,Kaksio,01620,820 €/kk,55 m²,kerrostalo
+577,ei tiedossa,1964,hyvä,1640.00,Kaksio,05800,750 €/kk,51 m²,kerrostalo
+578,ei sallittu,1964,hyvä,1040.00,Kaksio,28400,520 €/kk,"49,5 m²",rivitalo
+579,ei tiedossa,2017,ei luokiteltu,1270.00e,Yksiö,20520,635 €/kk,"33,5 m²",kerrostalo
+580,ei tiedossa,1973,ei luokiteltu,1390.00e,Yksiö,20500,695 €/kk,"41,5 m²",kerrostalo
+581,ei sallittu,1989,hyvä,250 €,Kaksio,70820,630 €/kk,45 m²,kerrostalo
+582,ei sallittu,1997,hyvä,250 €,Kaksio,04410,719 €/kk,55 m²,kerrostalo
+583,ei sallittu,1949,tyydyttävä,780 €,Yksiö,37100,390 €/kk,28 m²,kerrostalo
+584,ei sallittu,2017,hyvä,505,Yksiö,90570,505 €/kk,"32,5 m²",kerrostalo
+585,ei sallittu,1956,hyvä,1400.00,Yksiö,00320,700 €/kk,"24,5 m²",kerrostalo
+586,ei sallittu,1943,ei luokiteltu,1200.00,Yksiö,33540,600 €/kk,"37,5 m²",kerrostalo
+587,ei sallittu,1955,hyvä,450 €,3 huonetta,94830,450 €/kk,50 m²,kerrostalo
+588,ei sallittu,1988,hyvä,450 €,Kaksio,00650,929 €/kk,53 m²,kerrostalo
+589,ei sallittu,2010,hyvä,450 €,Kaksio,02650,1 083 €/kk,"57,5 m²",kerrostalo
+590,ei tiedossa,1961,hyvä,470 ,Yksiö,90120,470 €/kk,27 m²,kerrostalo
+591,ei sallittu,1950,hyvä,1-2 kk,Yksiö,33100,685 €/kk,29 m²,kerrostalo
+592,ei sallittu,1975,hyvä,920 €,Yksiö,80160,460 €/kk,33 m²,kerrostalo
+593,ei sallittu,1975,hyvä,250 €,3 huonetta,87200,793 €/kk,"78,5 m²",kerrostalo
+594,ei sallittu,1978,ei luokiteltu,1150.00,3 huonetta,00370,1 150 €/kk,"73,5 m²",kerrostalo
+595,ei sallittu,2017,ei luokiteltu,1034.00,3 huonetta,04410,1 034 €/kk,65 m²,kerrostalo
+596,ei sallittu,2015,ei luokiteltu,1111.00,3 huonetta,01340,1 111 €/kk,69 m²,kerrostalo
+597,ei sallittu,1999,ei luokiteltu,938.00,3 huonetta,04410,938 €/kk,62 m²,kerrostalo
+598,ei sallittu,1999,ei luokiteltu,€,3 huonetta,62100,460 €/kk,78 m²,rivitalo
+599,ei sallittu,1927,tyydyttävä,1100 €,Kaksio,07880,550 €/kk,74 m²,omakotitalo
+600,ei sallittu,1946,hyvä,2 kk:n vuokra,Kaksio,00270,950 €/kk,50 m²,kerrostalo
+601,ei sallittu,2015,hyvä,"535,00 €",Yksiö,15240,535 €/kk,34 m²,kerrostalo
+602,ei tiedossa,1945,hyvä,1340.00,Yksiö,00270,670 €/kk,21 m²,kerrostalo
+603,ei tiedossa,1963,hyvä,2380.00,Kaksio,00150,1 190 €/kk,54 m²,kerrostalo
+604,ei tiedossa,1987,ei luokiteltu,500 €,4 huonetta,00420,1 239 €/kk,"88,5 m²",kerrostalo
+605,ei sallittu,1985,hyvä,2 kk,Kaksio,20740,700 €/kk,"63,5 m²",kerrostalo
+606,ei sallittu,2008,hyvä,250 €,Kaksio,33900,796 €/kk,51 m²,kerrostalo
+607,ei sallittu,2015,hyvä,"604,50",Kaksio,01150,"604,50 €/kk",39 m²,kerrostalo
+608,ei sallittu,2010,hyvä,686 €,Kaksio,33330,686 €/kk,53 m²,luhtitalo
+609,ei tiedossa,2011,hyvä,914 €,3 huonetta,33330,914 €/kk,"73,5 m²",kerrostalo
+610,ei tiedossa,2009,hyvä,836 €,3 huonetta,33330,836 €/kk,74 m²,kerrostalo
+611,ei tiedossa,1950,hyvä,1560.00,Kaksio,00280,780 €/kk,33 m²,kerrostalo
+612,ei tiedossa,1968,hyvä,2980.00,4 huonetta,02700,1 490 €/kk,116 m²,kerrostalo
+613,ei sallittu,1968,hyvä,505.00,Yksiö,50170,505 €/kk,"36,5 m²",kerrostalo
+614,ei tiedossa,1968,tyydyttävä,505.00,Yksiö,86110,1 303 €/kk,"25,5 m²",rivitalo
+615,ei tiedossa,1938,hyvä,505.00,Yksiö,00530,1 841 €/kk,27 m²,kerrostalo
+616,ei tiedossa,1937,hyvä,505.00,Kaksio,00100,2 148 €/kk,43 m²,kerrostalo
+617,ei tiedossa,1988,tyydyttävä,505.00,Kaksio,33100,1 530 €/kk,47 m²,kerrostalo
+618,ei tiedossa,1941,hyvä,505.00,Kaksio,00180,1 825 €/kk,53 m²,kerrostalo
+619,ei tiedossa,1987,välttävä,505.00,Yksiö,02650,1 188 €/kk,29 m²,kerrostalo
+620,ei tiedossa,1928,hyvä,505.00,Kaksio,00100,3 003 €/kk,68 m²,kerrostalo
+621,ei tiedossa,1928,tyydyttävä,505.00,3 huonetta,00100,3 165 €/kk,63 m²,kerrostalo
+622,ei tiedossa,1941,hyvä,505.00,Kaksio,00180,1 992 €/kk,53 m²,kerrostalo
+623,ei sallittu,1979,hyvä,600,Kaksio,76100,200 €/kk,38 m²,kerrostalo
+624,ei sallittu,1996,hyvä,600,Kaksio,02600,969 €/kk,"59,5 m²",kerrostalo
+625,ei sallittu,1963,hyvä,600,Kaksio,00710,948 €/kk,60 m²,kerrostalo
+626,ei sallittu,2012,hyvä,600,Kaksio,00990,920 €/kk,"38,5 m²",kerrostalo
+627,ei sallittu,1995,hyvä,600,Kaksio,02650,885 €/kk,"45,5 m²",kerrostalo
+628,ei sallittu,1980,hyvä,600,3 huonetta,01480,1 070 €/kk,"80,5 m²",kerrostalo
+629,ei sallittu,1970,hyvä,2kk = 1460€,Kaksio,03100,730 €/kk,53 m²,kerrostalo
+630,ei sallittu,1965,hyvä,"650,00 e",Kaksio,70200,650 €/kk,54 m²,kerrostalo
+631,ei sallittu,1994,hyvä,250 €,Kaksio,04250,869 €/kk,"59,5 m²",kerrostalo
+632,ei sallittu,1966,hyvä,250 €,Kaksio,02100,930 €/kk,43 m²,kerrostalo
+633,ei sallittu,2003,hyvä,250 €,3 huonetta,00910,1 294 €/kk,"73,5 m²",kerrostalo
+634,ei sallittu,1958,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Yksiö,60100,410 €/kk,29 m²,kerrostalo
+635,ei tiedossa,1973,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Kaksio,00770,800 €/kk,"50,5 m²",kerrostalo
+636,ei sallittu,2012,hyvä,1kk pankkitalletus sekä 1-2 hlön omavelkainen taka,Kaksio,60200,540 €/kk,"34,5 m²",kerrostalo
+637,ei sallittu,2014,hyvä,1kk:n vuokra,4 huonetta,90670,1 100 €/kk,85 m²,rivitalo
+638,ei sallittu,1962,hyvä,2 kk:n vuokra,4 huonetta,02160,1 800 €/kk,133 m²,kerrostalo
+639,ei sallittu,1973,hyvä,1kk vuokra,Kaksio,33210,690 €/kk,39 m²,kerrostalo
+640,ei sallittu,1996,ei luokiteltu,"889,00",3 huonetta,15140,889 €/kk,74 m²,kerrostalo
+641,ei sallittu,1999,hyvä,1kk vuokra,Kaksio,33210,845 €/kk,57 m²,kerrostalo
+642,ei sallittu,1975,hyvä,"1565,00",3 huonetta,80160,"782,50 €/kk","79,5 m²",kerrostalo
+643,ei tiedossa,1987,ei luokiteltu,500 euroa,3 huonetta,00420,1 113 €/kk,"78,5 m²",kerrostalo
+644,ei tiedossa,1992,tyydyttävä,"799,00 ",3 huonetta,15100,799 €/kk,"73,5 m²",kerrostalo
+645,ei tiedossa,1996,tyydyttävä,"879,00 ",3 huonetta,15140,879 €/kk,74 m²,kerrostalo
+646,ei tiedossa,2002,hyvä,"2000,00 ",3 huonetta,01900,1 000 €/kk,"83,5 m²",rivitalo
+647,ei sallittu,1957,hyvä,890,Yksiö,20810,450 €/kk,22 m²,kerrostalo
+648,ei sallittu,1966,hyvä,kahden kuukauden vuokra,Yksiö,00940,400 €/kk,10 m²,kerrostalo
+649,ei sallittu,2008,hyvä,"1280,00",Kaksio,21100,640 €/kk,50 m²,kerrostalo
+650,ei sallittu,1984,hyvä,Kolmen kuukauden vuokra,Kaksio,04300,750 €/kk,58 m²,luhtitalo
+651,ei sallittu,2014,hyvä,2kk vuokra,Kaksio,33870,725 €/kk,"50,5 m²",luhtitalo
+652,ei sallittu,2014,hyvä,563.34 €,Kaksio,78250,"563,34 €/kk","61,5 m²",kerrostalo
+653,ei sallittu,2014,hyvä,480.2 €,Kaksio,78300,"480,20 €/kk","56,5 m²",kerrostalo
+654,ei tiedossa,2015,hyvä,968.00,Kaksio,00990,968 €/kk,"39,5 m²",kerrostalo
+655,ei tiedossa,2015,hyvä,880.00,Yksiö,00990,880 €/kk,44 m²,kerrostalo
+656,ei tiedossa,2015,hyvä,884.00,Yksiö,00990,884 €/kk,"46,5 m²",kerrostalo
+657,ei tiedossa,2015,hyvä,1017.00,Yksiö,00990,1 017 €/kk,"53,5 m²",kerrostalo
+658,ei sallittu,1966,hyvä,2 kk vuokra,Kaksio,33310,650 €/kk,"57,9 m²",kerrostalo
+659,ei sallittu,1966,hyvä,2 kk vuokra,Kaksio,33310,650 €/kk,"57,9 m²",kerrostalo
+660,ei tiedossa,1985,hyvä,1680.00,Kaksio,01300,840 €/kk,"49,5 m²",kerrostalo
+661,ei tiedossa,1970,hyvä,1300.00,Kaksio,05200,650 €/kk,53 m²,kerrostalo
+662,ei tiedossa,2003,hyvä,626,3 huonetta,10570,626 €/kk,76 m²,kerrostalo
+663,ei tiedossa,2003,hyvä,2500.00,4 huonetta,04400,1 250 €/kk,105 m²,omakotitalo
+664,ei tiedossa,2015,hyvä,3500.00,4 huonetta,00520,1 750 €/kk,"96,5 m²",kerrostalo
+665,ei sallittu,1961,hyvä,1350 e,Kaksio,20100,675 €/kk,"56,5 m²",kerrostalo
+666,ei sallittu,1991,hyvä,1260,Kaksio,33710,630 €/kk,41 m²,kerrostalo
+667,ei sallittu,2017,hyvä,2 kk vuokraa vastaava vakuus,Kaksio,01300,830 €/kk,"40,5 m²",kerrostalo
+668,ei sallittu,1954,hyvä,1040.00,Kaksio,28130,520 €/kk,"37,5 m²",kerrostalo
+669,ei sallittu,1949,tyydyttävä,0.00,Kaksio,78200,540 €/kk,61 m²,kerrostalo
+670,ei sallittu,1949,hyvä,2 kk,Yksiö,33230,750 €/kk,44 m²,kerrostalo
+671,ei sallittu,1949,ei luokiteltu,2 kk,3 huonetta,40270,"856,89 €/kk",79 m²,kerrostalo
+672,ei tiedossa,1978,hyvä,700,3 huonetta,33340,"684,38 €/kk","76,5 m²",kerrostalo
+673,ei sallittu,2002,hyvä,250 €,Kaksio,70700,878 €/kk,63 m²,kerrostalo
+674,ei sallittu,2004,hyvä,250 €,Yksiö,33900,782 €/kk,46 m²,kerrostalo
+675,ei sallittu,1974,hyvä,250 €,4 huonetta,00750,1 499 €/kk,92 m²,kerrostalo
+676,ei sallittu,1988,hyvä,250 €,Kaksio,33710,874 €/kk,63 m²,rivitalo
+677,ei sallittu,2016,ei luokiteltu,350.00,Kaksio,01600,928 €/kk,52 m²,kerrostalo
+678,ei sallittu,2015,ei luokiteltu,836.00,Kaksio,02320,836 €/kk,44 m²,kerrostalo
+679,ei sallittu,2015,ei luokiteltu,763.00,Kaksio,01300,763 €/kk,43 m²,kerrostalo
+680,ei sallittu,2015,ei luokiteltu,1030.00,3 huonetta,70840,1 030 €/kk,70 m²,kerrostalo
+681,ei sallittu,2017,hyvä,2 kk vuokra,Yksiö,00210,885 €/kk,"25,5 m²",kerrostalo
+682,ei tiedossa,2009,hyvä,750.00,3 huonetta,30100,750 €/kk,"65,5 m²",kerrostalo
+683,ei tiedossa,1956,hyvä,2380.00,3 huonetta,00200,1 190 €/kk,63 m²,kerrostalo
+684,ei tiedossa,1999,hyvä,1840.00,3 huonetta,04250,920 €/kk,"78,5 m²",kerrostalo
+685,ei tiedossa,2004,hyvä,1680.00,Kaksio,02200,840 €/kk,44 m²,kerrostalo
+686,ei sallittu,2017,hyvä,1600.00,Kaksio,37630,800 €/kk,"63,5 m²",omakotitalo
+687,ei sallittu,1972,hyvä,784.00,Yksiö,28330,392 €/kk,34 m²,kerrostalo
+688,ei sallittu,1967,ei luokiteltu,1190.00,3 huonetta,28370,595 €/kk,80 m²,kerrostalo
+689,ei sallittu,1967,hyvä,1460.00,3 huonetta,28100,730 €/kk,98 m²,kerrostalo
+690,ei sallittu,2017,hyvä,2kk,Kaksio,04220,750 €/kk,"44,5 m²",kerrostalo
+691,ei sallittu,2010,hyvä,588.96,Kaksio,33470,"588,96 €/kk",49 m²,kerrostalo
+692,ei sallittu,2007,hyvä,530,Kaksio,90230,530 €/kk,39 m²,kerrostalo
+693,ei sallittu,1928,hyvä,1800 €,Yksiö,00510,900 €/kk,41 m²,kerrostalo
+694,ei sallittu,2010,hyvä,Vakuustalletus 1450 €,Kaksio,03400,725 €/kk,"50,5 m²",kerrostalo
+695,ei sallittu,1920,tyydyttävä,"1 250,00 e",Yksiö,33100,625 €/kk,29 m²,kerrostalo
+696,ei sallittu,1974,hyvä,250 €,Kaksio,00750,1 032 €/kk,"58,5 m²",kerrostalo
+697,ei sallittu,1980,hyvä,250 €,3 huonetta,00750,1 168 €/kk,81 m²,kerrostalo
+698,ei sallittu,1942,hyvä,1kk+hlö tai 2kk,Yksiö,28100,335 €/kk,19 m²,kerrostalo
+699,ei sallittu,2008,hyvä,"1 430,00 e",Kaksio,80200,715 €/kk,55 m²,kerrostalo
+700,ei sallittu,1971,hyvä,2kk,Yksiö,33470,565 €/kk,37 m²,kerrostalo
+701,ei sallittu,1971,hyvä,600.00,Kaksio,50120,600 €/kk,"56,5 m²",kerrostalo
+702,ei sallittu,1971,hyvä,1870 €,3 huonetta,04250,895 €/kk,67 m²,kerrostalo
+703,ei tiedossa,1962,hyvä,1280,3 huonetta,28130,640 €/kk,69 m²,kerrostalo
+704,ei tiedossa,2016,hyvä,250,Kaksio,01150,697 €/kk,48 m²,kerrostalo
+705,ei tiedossa,1982,hyvä,700,3 huonetta,33310,"726,42 €/kk",76 m²,kerrostalo
+706,ei tiedossa,1973,hyvä,700,3 huonetta,33720,"813,19 €/kk","75,5 m²",kerrostalo
+707,ei sallittu,1959,hyvä,1240€,Yksiö,01300,620 €/kk,26 m²,kerrostalo
+708,ei sallittu,1985,ei luokiteltu,"428,47 €",Kaksio,86600,"428,47 €/kk",54 m²,rivitalo
+709,ei sallittu,1998,ei luokiteltu,2 kk:n vuokraa tai vastiketta vastaava summa,4 huonetta,45100,945 €/kk,"88,5 m²",kerrostalo
+710,ei sallittu,1998,ei luokiteltu,2 kk:n vuokraa tai vastiketta vastaava summa,4 huonetta,45100,904 €/kk,"84,5 m²",kerrostalo
+711,ei sallittu,1998,ei luokiteltu,2 kk:n vuokraa tai vastiketta vastaava summa,4 huonetta,45100,895 €/kk,"84,5 m²",kerrostalo
+712,ei sallittu,1979,ei luokiteltu,2 kk:n vuokraa vastaava summa,Kaksio,15610,"658,41 €/kk","59,5 m²",rivitalo
+713,ei tiedossa,1962,hyvä,1140,Kaksio,28130,570 €/kk,69 m²,kerrostalo
+714,ei sallittu,1970,hyvä,250 €,Kaksio,01350,767 €/kk,48 m²,kerrostalo
+715,ei sallittu,1979,hyvä,250 €,Kaksio,01370,792 €/kk,60 m²,kerrostalo
+716,ei sallittu,1975,hyvä,250 €,Kaksio,01280,886 €/kk,"59,5 m²",kerrostalo
+717,ei sallittu,1988,hyvä,250 €,Kaksio,00700,907 €/kk,"39,5 m²",kerrostalo
+718,ei sallittu,1970,hyvä,250 €,Kaksio,01350,863 €/kk,58 m²,kerrostalo
+719,ei sallittu,1988,hyvä,250 €,3 huonetta,00700,1 230 €/kk,74 m²,kerrostalo
+720,ei sallittu,1966,hyvä,"1300,00",3 huonetta,15210,650 €/kk,67 m²,kerrostalo
+721,ei sallittu,1996,ei luokiteltu,"740,00",Kaksio,15140,740 €/kk,"56,5 m²",kerrostalo
+722,ei tiedossa,1966,tyydyttävä,1400.00,3 huonetta,33310,700 €/kk,"74,1 m²",kerrostalo
+723,ei tiedossa,1971,ei luokiteltu,700.00,Yksiö,24100,350 €/kk,31 m²,kerrostalo
+724,ei tiedossa,1977,ei luokiteltu,1300.00,3 huonetta,24260,650 €/kk,"76,5 m²",kerrostalo
+725,ei tiedossa,1965,hyvä,1590.00,Kaksio,00980,795 €/kk,47 m²,kerrostalo
+726,ei sallittu,2001,hyvä,noin yhden kuukauden vuokra,3 huonetta,33580,"858,33 €/kk",74 m²,luhtitalo
+727,ei sallittu,1998,hyvä,noin yhden kuukauden vuokra,3 huonetta,33400,"976,70 €/kk","74,5 m²",rivitalo
+728,ei sallittu,1954,tyydyttävä,1400,4 huonetta,55100,700 €/kk,110 m²,omakotitalo
+729,ei sallittu,1967,tyydyttävä,2000 €,3 huonetta,07230,1 000 €/kk,130 m²,omakotitalo
+730,ei sallittu,1973,hyvä,290 €,Yksiö,94700,290 €/kk,"30,5 m²",kerrostalo
+731,ei sallittu,2013,hyvä,1580 €,3 huonetta,33300,790 €/kk,69 m²,kerrostalo
+732,ei sallittu,1972,hyvä,250 €,Kaksio,01200,852 €/kk,60 m²,kerrostalo
+733,ei sallittu,2003,hyvä,250 €,3 huonetta,02230,1 204 €/kk,"66,5 m²",kerrostalo
+734,ei sallittu,1972,hyvä,250 €,Kaksio,01620,847 €/kk,"57,5 m²",kerrostalo
+735,ei sallittu,1996,hyvä,250 €,4 huonetta,01370,1 344 €/kk,90 m²,kerrostalo
+736,ei sallittu,1975,hyvä,250 €,3 huonetta,70280,903 €/kk,80 m²,kerrostalo
+737,ei sallittu,1998,hyvä,250 €,Kaksio,01640,900 €/kk,55 m²,kerrostalo
+738,ei sallittu,2000,hyvä,250 €,Kaksio,01610,985 €/kk,54 m²,kerrostalo
+739,ei sallittu,1971,hyvä,250 €,3 huonetta,01200,1 064 €/kk,79 m²,kerrostalo
+740,ei sallittu,1972,hyvä,250 €,Kaksio,01620,798 €/kk,46 m²,kerrostalo
+741,ei sallittu,1970,hyvä,250 €,3 huonetta,01350,1 039 €/kk,75 m²,kerrostalo
+742,ei sallittu,1970,välttävä,"780,00 e",Yksiö,33900,390 €/kk,16 m²,kerrostalo
+743,ei sallittu,1994,hyvä,720 €,3 huonetta,96440,720 €/kk,73 m²,kerrostalo
+744,ei sallittu,2014,hyvä,3380€,4 huonetta,02450,1 690 €/kk,103 m²,paritalo
+745,ei sallittu,2000,hyvä,1050 €,4 huonetta,13500,1 050 €/kk,"95,5 m²",rivitalo
+746,ei sallittu,2017,hyvä,"1 kk, yritykseltä 3kk",Kaksio,05400,740 €/kk,48 m²,kerrostalo
+747,ei sallittu,2017,hyvä,"1 kk, yritykseltä 3kk",Kaksio,05400,760 €/kk,50 m²,kerrostalo
+748,ei sallittu,1974,hyvä,1080 €,Kaksio,20760,540 €/kk,41 m²,kerrostalo
+749,ei tiedossa,1970,tyydyttävä,1280.00,Kaksio,48100,640 €/kk,64 m²,kerrostalo
+750,ei tiedossa,1981,hyvä,1060.00,Kaksio,24100,530 €/kk,47 m²,kerrostalo
+751,ei sallittu,2015,hyvä,1890 euroa,Kaksio,00940,945 €/kk,53 m²,kerrostalo
+752,ei tiedossa,1924,hyvä,980.00,Kaksio,90100,980 €/kk,"81,2 m²",kerrostalo
+753,ei tiedossa,1989,hyvä,2580.00,Kaksio,00180,1 290 €/kk,57 m²,kerrostalo
+754,ei tiedossa,2017,hyvä,1390.00,Kaksio,33400,695 €/kk,"39,5 m²",kerrostalo
+755,ei tiedossa,2017,hyvä,1420.00,Kaksio,33400,710 €/kk,"45,5 m²",kerrostalo
+756,ei tiedossa,1992,hyvä,1420.00,Kaksio,65280,"429,24 €/kk","42,5 m²",kerrostalo
+757,ei tiedossa,2002,hyvä,1420.00,Yksiö,65100,"530,25 €/kk",40 m²,kerrostalo
+758,ei tiedossa,1988,hyvä,1420.00,Kaksio,65200,"498,89 €/kk","41,5 m²",kerrostalo
+759,ei tiedossa,1974,hyvä,1420.00,Yksiö,65350,"436,94 €/kk","39,5 m²",kerrostalo
+760,ei tiedossa,1986,hyvä,1420.00,Kaksio,65320,505 €/kk,49 m²,kerrostalo
+761,ei tiedossa,1986,hyvä,1420.00,Yksiö,65100,"502,32 €/kk","34,5 m²",kerrostalo
+762,ei sallittu,1979,hyvä,1420.00,Kaksio,01450,830 €/kk,"59,5 m²",kerrostalo
+763,ei tiedossa,2012,hyvä,590 €,Kaksio,38700,590 €/kk,56 m²,rivitalo
+764,ei sallittu,1952,hyvä,1 kk / sovittavissa,5 +,76100,1 000 €/kk,153 m²,omakotitalo
+765,ei sallittu,2005,hyvä,250 euroa,3 huonetta,90130,906 €/kk,"74,5 m²",kerrostalo
+766,ei sallittu,1993,ei luokiteltu,250 euroa,Yksiö,41160,"467,16 €/kk","37,5 m²",kerrostalo
+767,ei sallittu,2005,hyvä,250 euroa,3 huonetta,03100,795 €/kk,72 m²,kerrostalo
+768,ei sallittu,2011,hyvä,250 €,3 huonetta,01530,1 121 €/kk,"66,5 m²",kerrostalo
+769,ei sallittu,1972,hyvä,250 €,Kaksio,01200,791 €/kk,54 m²,kerrostalo
+770,ei sallittu,1972,hyvä,250 €,Kaksio,01360,969 €/kk,"61,5 m²",kerrostalo
+771,ei sallittu,1938,hyvä,"1 360,00 e",Yksiö,33200,680 €/kk,47 m²,kerrostalo
+772,ei sallittu,1943,hyvä,"1 360,00 e",Kaksio,33540,680 €/kk,"48,5 m²",kerrostalo
+773,ei sallittu,1975,hyvä,"900,00 e",Kaksio,33410,450 €/kk,"57,5 m²",kerrostalo
+774,ei sallittu,1955,hyvä,"480,00 e",Yksiö,70500,480 €/kk,31 m²,kerrostalo
+775,ei sallittu,1978,tyydyttävä,1140,Kaksio,40340,570 €/kk,"50,5 m²",kerrostalo
+776,ei sallittu,1971,hyvä,1140,Kaksio,01200,"769,87 €/kk","57,5 m²",kerrostalo
+777,ei sallittu,2015,ei luokiteltu,350.00,Yksiö,01710,734 €/kk,"36,5 m²",kerrostalo
+778,ei sallittu,2015,hyvä,"586,54",Kaksio,40900,"586,54 €/kk",58 m²,kerrostalo
+779,ei sallittu,1973,hyvä,1kk vuokra,Kaksio,33210,840 €/kk,59 m²,kerrostalo
+780,ei sallittu,2012,hyvä,970 €,3 huonetta,53900,970 €/kk,79 m²,kerrostalo
+781,ei sallittu,1958,tyydyttävä,1440,Kaksio,40700,720 €/kk,49 m²,kerrostalo
+782,ei sallittu,2017,hyvä,"1860,00",3 huonetta,40100,930 €/kk,"68,5 m²",kerrostalo
+783,ei tiedossa,1975,tyydyttävä,1020.00,Kaksio,37120,510 €/kk,49 m²,kerrostalo
+784,ei tiedossa,1989,hyvä,1390.00,Yksiö,02320,695 €/kk,36 m²,kerrostalo
+785,ei tiedossa,1959,hyvä,1560.00,Kaksio,02100,780 €/kk,42 m²,kerrostalo
+786,ei tiedossa,1956,tyydyttävä,1280.00,Kaksio,33540,640 €/kk,53 m²,kerrostalo
+787,ei sallittu,1973,hyvä,940.00,Kaksio,28610,470 €/kk,47 m²,kerrostalo
+788,ei tiedossa,1976,tyydyttävä,"535,00",Kaksio,40340,535 €/kk,48 m²,kerrostalo
+789,ei sallittu,2011,hyvä,"535,00",Kaksio,00500,1 020 €/kk,48 m²,kerrostalo
+790,ei sallittu,2007,hyvä,1kk:n vuokran suuruinen,3 huonetta,90230,960 €/kk,"73,5 m²",kerrostalo
+791,ei sallittu,1989,hyvä,1kk:n vuokran suuruinen,Kaksio,90440,540 €/kk,51 m²,kerrostalo
+792,ei sallittu,1959,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,3 huonetta,60100,630 €/kk,65 m²,kerrostalo
+793,ei sallittu,1953,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Kaksio,70100,620 €/kk,47 m²,kerrostalo
+794,ei sallittu,1977,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,4 huonetta,28370,590 €/kk,80 m²,kerrostalo
+795,ei tiedossa,1964,hyvä,"1500,00",3 huonetta,40100,750 €/kk,60 m²,kerrostalo
+796,ei tiedossa,2016,ei luokiteltu,1020 ,Yksiö,36200,510 €/kk,"32,5 m²",kerrostalo
+797,ei sallittu,1974,hyvä,250 €,Kaksio,04440,724 €/kk,"57,5 m²",kerrostalo
+798,ei sallittu,2015,hyvä,250 €,Kaksio,04410,906 €/kk,42 m²,kerrostalo
+799,ei sallittu,1972,hyvä,250 €,5 +,02700,2 105 €/kk,111 m²,kerrostalo
+800,ei sallittu,1974,hyvä,250 €,3 huonetta,04440,872 €/kk,"74,5 m²",kerrostalo
+801,ei sallittu,2002,hyvä,250 €,Yksiö,33270,708 €/kk,44 m²,kerrostalo
+802,ei sallittu,1960,hyvä,"1340,00",Kaksio,40100,670 €/kk,"43,5 m²",kerrostalo
+803,ei tiedossa,1974,tyydyttävä,"1340,00",Yksiö,15210,470 €/kk,32 m²,kerrostalo
+804,ei tiedossa,1975,hyvä,"1340,00",Yksiö,48100,485 €/kk,"30,5 m²",kerrostalo
+805,ei sallittu,1975,hyvä,720.00,Kaksio,50190,720 €/kk,"59,5 m²",kerrostalo
+806,ei tiedossa,1976,hyvä,1100.00,Kaksio,28190,550 €/kk,"50,5 m²",kerrostalo
+807,ei sallittu,1976,hyvä,2500 €,4 huonetta,11100,1 800 €/kk,110 m²,omakotitalo
+808,ei sallittu,1938,tyydyttävä,900 €,Yksiö,48100,450 €/kk,29 m²,kerrostalo
+809,ei sallittu,1938,hyvä,1kk+hlö tai 2kk,Kaksio,28370,460 €/kk,60 m²,kerrostalo
+810,ei sallittu,1965,hyvä,250,Kaksio,15210,659 €/kk,52 m²,kerrostalo
+811,ei sallittu,1999,hyvä,250 €,Kaksio,04200,899 €/kk,"55,5 m²",kerrostalo
+812,ei sallittu,2013,hyvä,"650,00 e",Kaksio,90120,650 €/kk,"42,5 m²",kerrostalo
+813,ei sallittu,1962,hyvä,"550,00 e",Yksiö,80100,550 €/kk,29 m²,kerrostalo
+814,ei sallittu,2006,hyvä,2kk:n vuokraa vastaava summa,3 huonetta,40520,940 €/kk,83 m²,luhtitalo
+815,ei sallittu,1978,hyvä,940,Yksiö,15870,470 €/kk,37 m²,kerrostalo
+816,ei tiedossa,2015,ei luokiteltu,495 ,Yksiö,90570,495 €/kk,21 m²,kerrostalo
+817,ei tiedossa,1959,tyydyttävä,350 ,Yksiö,42100,350 €/kk,28 m²,kerrostalo
+818,ei tiedossa,1973,hyvä,670 ,Kaksio,90100,670 €/kk,53 m²,kerrostalo
+819,ei tiedossa,2001,hyvä,520 ,Kaksio,90800,520 €/kk,55 m²,rivitalo
+820,ei tiedossa,2015,hyvä,770.00,Kaksio,96100,770 €/kk,"49,5 m²",kerrostalo
+821,ei tiedossa,1989,hyvä,.00,Kaksio,01900,750 €/kk,"48,5 m²",kerrostalo
+822,ei tiedossa,1977,hyvä,1020.00,Kaksio,24240,510 €/kk,"59,5 m²",kerrostalo
+823,ei tiedossa,1972,tyydyttävä,288.17,Yksiö,30420,"288,17 €/kk",30 m²,kerrostalo
+824,ei sallittu,1972,hyvä,1240.00,Kaksio,20360,620 €/kk,"51,5 m²",kerrostalo
+825,ei sallittu,1960,hyvä,1460.00,Yksiö,00570,730 €/kk,"26,5 m²",kerrostalo
+826,ei tiedossa,1928,ei luokiteltu,1360.00,Kaksio,20100,680 €/kk,51 m²,kerrostalo
+827,ei sallittu,1928,hyvä,820.00,Kaksio,28120,410 €/kk,40 m²,puutalo-osake
+828,ei sallittu,1962,tyydyttävä,580 €,4 huonetta,42300,580 €/kk,76 m²,kerrostalo
+829,ei sallittu,2012,hyvä,noin yhden kuukauden vuokra,3 huonetta,33960,"918,15 €/kk",70 m²,kerrostalo
+830,ei sallittu,2012,hyvä,0,3 huonetta,74130,659 €/kk,71 m²,rivitalo
+831,ei sallittu,1973,hyvä,ei,3 huonetta,07900,628 €/kk,77 m²,kerrostalo
+832,ei sallittu,1965,hyvä,2.Kuukautta,3 huonetta,28100,650 €/kk,70 m²,kerrostalo
+833,ei sallittu,1973,hyvä,Ei,Yksiö,07900,422 €/kk,33 m²,kerrostalo
+834,ei tiedossa,1969,hyvä,2400 ,3 huonetta,04420,1 200 €/kk,100 m²,omakotitalo
+835,ei sallittu,2012,hyvä,0,Yksiö,90400,582 €/kk,"30,5 m²",kerrostalo
+836,ei sallittu,1958,hyvä,250,Yksiö,90230,275 €/kk,13 m²,kerrostalo
+837,ei sallittu,1977,ei luokiteltu,0,Kaksio,15870,595 €/kk,"54,5 m²",kerrostalo
+838,ei sallittu,1977,hyvä,2600 €,4 huonetta,20810,1 300 €/kk,125 m²,rivitalo
+839,ei tiedossa,2017,hyvä,1440.00,Kaksio,33400,720 €/kk,"45,5 m²",kerrostalo
+840,ei tiedossa,1964,hyvä,1540.00,Kaksio,00390,770 €/kk,40 m²,kerrostalo
+841,ei sallittu,1985,hyvä,1380.00,Yksiö,02160,690 €/kk,"31,5 m²",kerrostalo
+842,ei sallittu,2017,hyvä,1kk:n vuokran suuruinen,4 huonetta,90440,990 €/kk,104 m²,kerrostalo
+843,ei sallittu,2016,hyvä,1kk:n vuokran suuruinen,Yksiö,90130,545 €/kk,25 m²,kerrostalo
+844,ei sallittu,1962,hyvä,1kk:n vuokran suuruinen,Kaksio,90500,600 €/kk,57 m²,kerrostalo
+845,ei sallittu,1961,hyvä,1500 €,4 huonetta,70700,1 000 €/kk,100 m²,omakotitalo
+846,ei sallittu,2010,hyvä,1500 €,Kaksio,04480,"752,68 €/kk","58,5 m²",omakotitalo
+847,ei sallittu,1955,hyvä,2 kk vuokravakuus 880,Yksiö,37100,440 €/kk,"24,5 m²",kerrostalo
+848,ei sallittu,1955,hyvä,330 €,Yksiö,38700,330 €/kk,"36,5 m²",rivitalo
+849,ei sallittu,2005,hyvä,250,Kaksio,40320,604 €/kk,"40,5 m²",kerrostalo
+850,ei sallittu,1984,hyvä,700 €,Kaksio,70150,700 €/kk,"51,5 m²",kerrostalo
+851,ei sallittu,1997,ei luokiteltu,854.00,Kaksio,20810,854 €/kk,60 m²,kerrostalo
+852,ei sallittu,2018,ei luokiteltu,820.00,Kaksio,20520,820 €/kk,51 m²,kerrostalo
+853,ei sallittu,2018,ei luokiteltu,655.00,Yksiö,20520,655 €/kk,"37,5 m²",kerrostalo
+854,ei sallittu,1972,hyvä,1kk:n vuokra,3 huonetta,90250,670 €/kk,80 m²,kerrostalo
+855,ei sallittu,2011,hyvä,2kk:n vuokraa vastaava summa,3 huonetta,40700,990 €/kk,78 m²,kerrostalo
+856,ei sallittu,2016,hyvä,1kk,3 huonetta,01710,1 044 €/kk,68 m²,kerrostalo
+857,ei sallittu,2015,hyvä,1kk,Kaksio,02230,890 €/kk,"47,5 m²",kerrostalo
+858,ei sallittu,2014,hyvä,1kk,3 huonetta,01600,1 073 €/kk,61 m²,kerrostalo
+859,ei sallittu,2014,hyvä,400 €,3 huonetta,38710,400 €/kk,74 m²,kerrostalo
+860,ei sallittu,1965,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,Kaksio,04300,780 €/kk,57 m²,kerrostalo
+861,ei sallittu,1965,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,Kaksio,04300,"787,80 €/kk",57 m²,kerrostalo
+862,ei sallittu,1960,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,02470,"724,61 €/kk",65 m²,kerrostalo
+863,ei sallittu,1960,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,Kaksio,02470,600 €/kk,54 m²,kerrostalo
+864,ei sallittu,1944,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,02470,"724,61 €/kk",67 m²,kerrostalo
+865,ei sallittu,1944,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,02470,721 €/kk,72 m²,kerrostalo
+866,ei sallittu,1967,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,Kaksio,15700,745 €/kk,"66,5 m²",kerrostalo
+867,ei sallittu,1954,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,11120,779 €/kk,63 m²,kerrostalo
+868,ei sallittu,1954,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,11120,749 €/kk,60 m²,kerrostalo
+869,ei sallittu,1965,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,4 huonetta,00170,1 831 €/kk,"95,5 m²",kerrostalo
+870,ei sallittu,1954,ei luokiteltu,vuokravakuus on yhden kuukauden vuokraa vastaava s,3 huonetta,11120,749 €/kk,60 m²,kerrostalo
+871,ei sallittu,1937,hyvä,2 kk / 2 months,Yksiö,00500,1 000 €/kk,"21,5 m²",kerrostalo
+872,ei sallittu,1937,hyvä,2 kk / 2 months,Yksiö,00500,1 000 €/kk,"21,5 m²",kerrostalo
+873,ei sallittu,1928,hyvä,2 kk / 2 months,Yksiö,00500,1 150 €/kk,"21,5 m²",kerrostalo
+874,ei sallittu,1928,hyvä,2 kk / 2 months,Yksiö,00500,1 150 €/kk,"21,5 m²",kerrostalo
+875,ei tiedossa,1989,ei luokiteltu,500 euroa,Kaksio,00250,839 €/kk,37 m²,kerrostalo
+876,ei sallittu,1957,hyvä,1 kuukauden vuokra,3 huonetta,37600,625 €/kk,63 m²,kerrostalo
+877,ei sallittu,2008,hyvä,1500 €,3 huonetta,71160,750 €/kk,102 m²,omakotitalo
+878,ei tiedossa,1959,hyvä,1840.00,Kaksio,00400,920 €/kk,"52,5 m²",kerrostalo
+879,ei tiedossa,1920,hyvä,1740.00,Yksiö,00510,870 €/kk,28 m²,kerrostalo
+880,ei sallittu,1923,hyvä,1780 €,Yksiö,00150,890 €/kk,36 m²,kerrostalo
+881,ei sallittu,1969,hyvä,1780 €,Kaksio,02230,892 €/kk,45 m²,kerrostalo
+882,ei sallittu,1973,hyvä,1780 €,3 huonetta,01200,1 089 €/kk,"79,5 m²",kerrostalo
+883,ei tiedossa,1939,tyydyttävä,250,3 huonetta,41160,584 €/kk,"66,5 m²",kerrostalo
+884,ei sallittu,1965,hyvä,250 €,3 huonetta,11100,791 €/kk,69 m²,kerrostalo
+885,ei sallittu,1973,hyvä,250 €,Kaksio,11910,650 €/kk,56 m²,kerrostalo
+886,ei sallittu,2017,hyvä,"540,00 e",Yksiö,90100,540 €/kk,27 m²,kerrostalo
+887,ei sallittu,2017,hyvä,"650,00 e",Kaksio,90100,650 €/kk,"37,5 m²",kerrostalo
+888,ei sallittu,1984,hyvä,1660 €,3 huonetta,70420,830 €/kk,65 m²,kerrostalo
+889,ei sallittu,1994,hyvä,1660 €,Kaksio,20700,830 €/kk,67 m²,kerrostalo
+890,ei sallittu,2003,hyvä,725 €,Kaksio,67100,"724,61 €/kk",57 m²,kerrostalo
+891,ei sallittu,2016,hyvä,1kk,Yksiö,02780,697 €/kk,28 m²,kerrostalo
+892,ei sallittu,2016,hyvä,1kk,Yksiö,02940,685 €/kk,28 m²,kerrostalo
+893,ei sallittu,1991,hyvä,1kk,Yksiö,00530,798 €/kk,38 m²,kerrostalo
+894,ei tiedossa,2017,hyvä,1390.00,Yksiö,02760,695 €/kk,28 m²,kerrostalo
+895,ei tiedossa,1935,hyvä,2700.00,Kaksio,00150,1 350 €/kk,65 m²,kerrostalo
+896,ei tiedossa,1968,tyydyttävä,2700.00,4 huonetta,40320,2 270 €/kk,85 m²,kerrostalo
+897,ei tiedossa,1932,hyvä,2700.00,Yksiö,00100,2 385 €/kk,26 m²,kerrostalo
+898,ei tiedossa,1972,tyydyttävä,2700.00,3 huonetta,67800,1 853 €/kk,79 m²,kerrostalo
+899,ei tiedossa,1984,tyydyttävä,2700.00,Yksiö,00700,1 267 €/kk,34 m²,kerrostalo
+900,ei tiedossa,2012,hyvä,2700.00,Yksiö,00180,2 381 €/kk,34 m²,kerrostalo
+901,ei tiedossa,1972,tyydyttävä,2700.00,Yksiö,02150,766 €/kk,16 m²,erillistalo
+902,ei tiedossa,1966,tyydyttävä,2700.00,3 huonetta,00960,2 181 €/kk,69 m²,kerrostalo
+903,ei tiedossa,1908,hyvä,2700.00,Yksiö,20100,1 535 €/kk,26 m²,kerrostalo
+904,ei tiedossa,1928,tyydyttävä,2700.00,Yksiö,00250,1 465 €/kk,24 m²,kerrostalo
+905,ei tiedossa,1928,tyydyttävä,2700.00,4 huonetta,28840,1 427 €/kk,83 m²,kerrostalo
+906,ei tiedossa,1928,tyydyttävä,2700.00,3 huonetta,40100,1 998 €/kk,75 m²,kerrostalo
+907,ei sallittu,1963,hyvä,1300,Kaksio,33540,650 €/kk,43 m²,kerrostalo
+908,ei sallittu,1973,hyvä,1300,3 huonetta,00640,1 200 €/kk,"73,5 m²",kerrostalo
+909,ei sallittu,1952,hyvä,1300,Kaksio,00500,1 184 €/kk,"59,5 m²",kerrostalo
+910,ei sallittu,1954,hyvä,1290,Kaksio,15140,645 €/kk,44 m²,kerrostalo
+911,ei sallittu,1955,hyvä,850 €,Kaksio,33540,850 €/kk,"57,4 m²",kerrostalo
+912,ei sallittu,1955,hyvä,850 €,Kaksio,33540,850 €/kk,"57,4 m²",kerrostalo
+913,ei tiedossa,2009,hyvä,4400 ,3 huonetta,00380,2 200 €/kk,148 m²,kerrostalo
+914,ei sallittu,1979,hyvä,4400 ,Kaksio,01450,820 €/kk,56 m²,kerrostalo
+915,ei sallittu,2000,hyvä,4400 ,Kaksio,01360,930 €/kk,48 m²,kerrostalo
+916,ei sallittu,2016,hyvä,4400 ,3 huonetta,01600,1 030 €/kk,"59,5 m²",kerrostalo
+917,ei sallittu,2018,hyvä,"1kk,yrityksille 3kk",Kaksio,01200,850 €/kk,50 m²,kerrostalo
+918,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Kaksio,01200,775 €/kk,44 m²,kerrostalo
+919,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,950 €/kk,58 m²,kerrostalo
+920,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Kaksio,01200,860 €/kk,50 m²,kerrostalo
+921,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01700,1 045 €/kk,65 m²,kerrostalo
+922,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,935 €/kk,58 m²,kerrostalo
+923,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Yksiö,01700,700 €/kk,32 m²,kerrostalo
+924,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,940 €/kk,58 m²,kerrostalo
+925,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,945 €/kk,58 m²,kerrostalo
+926,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Kaksio,01200,785 €/kk,"46,5 m²",kerrostalo
+927,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,930 €/kk,58 m²,kerrostalo
+928,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01700,1 055 €/kk,66 m²,kerrostalo
+929,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Kaksio,01700,875 €/kk,"54,5 m²",kerrostalo
+930,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",Yksiö,01700,710 €/kk,32 m²,kerrostalo
+931,ei sallittu,2018,hyvä,"1kk, yrityksille 3kk",3 huonetta,01200,920 €/kk,58 m²,kerrostalo
+932,ei sallittu,1960,tyydyttävä,780,Yksiö,26100,390 €/kk,25 m²,kerrostalo
+933,ei sallittu,1997,hyvä,858 €,3 huonetta,65100,"856,77 €/kk","71,5 m²",kerrostalo
+934,ei sallittu,1997,ei luokiteltu,780.00,3 huonetta,48100,780 €/kk,72 m²,kerrostalo
+935,ei sallittu,2000,hyvä,772 €,3 huonetta,67100,"772,49 €/kk","67,5 m²",kerrostalo
+936,ei sallittu,1957,hyvä,2 kk vuokra,Kaksio,33530,690 €/kk,54 m²,kerrostalo
+937,ei sallittu,1957,hyvä,350,Yksiö,94100,350 €/kk,26 m²,kerrostalo
+938,ei tiedossa,1998,hyvä,"1280,00 ",Kaksio,40270,640 €/kk,"54,5 m²",luhtitalo
+939,ei tiedossa,2002,hyvä,"1760,00 ",3 huonetta,40740,880 €/kk,73 m²,kerrostalo
+940,ei tiedossa,1997,hyvä,"1680,00 ",Kaksio,04300,840 €/kk,"58,5 m²",kerrostalo
+941,ei tiedossa,1992,hyvä,"1080,00 ",Yksiö,40420,540 €/kk,43 m²,kerrostalo
+942,ei tiedossa,1993,hyvä,"830,00 ",3 huonetta,90550,830 €/kk,"75,5 m²",luhtitalo
+943,ei tiedossa,1996,hyvä,"2200,00 ",4 huonetta,04300,1 100 €/kk,79 m²,rivitalo
+944,ei tiedossa,1999,hyvä,"2900,00 ",4 huonetta,02760,1 450 €/kk,"98,5 m²",rivitalo
+945,ei tiedossa,2003,hyvä,"1240,00 ",Kaksio,40520,620 €/kk,50 m²,kerrostalo
+946,ei tiedossa,2011,hyvä,1595,4 huonetta,02780,1 595 €/kk,"99,5 m²",paritalo
+947,ei tiedossa,2007,hyvä,767.76,Kaksio,04300,"767,76 €/kk","46,5 m²",kerrostalo
+948,ei sallittu,1975,tyydyttävä,1 kk:n vuokra,Kaksio,39500,510 €/kk,"60,2 m²",kerrostalo
+949,ei sallittu,1975,hyvä,"450,00",Kaksio,85500,450 €/kk,54 m²,kerrostalo
+950,ei sallittu,1975,hyvä,"400,00",Yksiö,85500,400 €/kk,30 m²,kerrostalo
+951,ei tiedossa,1975,hyvä,690.00,3 huonetta,04410,690 €/kk,"73,5 m²",kerrostalo
+952,ei sallittu,1975,tyydyttävä,590 €,Kaksio,67100,580 €/kk,52 m²,omakotitalo
+953,ei sallittu,1970,hyvä,sopimuksen mukaan,5 +,78400,900 €/kk,220 m²,omakotitalo
+954,ei sallittu,1987,hyvä,1400,3 huonetta,12700,800 €/kk,90 m²,paritalo
+955,ei sallittu,2017,hyvä,2kk,Kaksio,90100,780 €/kk,49 m²,kerrostalo
+956,ei tiedossa,1977,hyvä,1190.00,Kaksio,11130,595 €/kk,"58,5 m²",kerrostalo
+957,ei sallittu,1955,tyydyttävä,1750 €,Kaksio,00640,875 €/kk,50 m²,kerrostalo
+958,ei sallittu,1980,hyvä,250,Kaksio,96440,560 €/kk,62 m²,kerrostalo
+959,ei sallittu,2017,hyvä,2 kk vuokra,Yksiö,02230,780 €/kk,33 m²,kerrostalo
+960,ei sallittu,1983,hyvä,700 €,Yksiö,10660,340 €/kk,"29,5 m²",kerrostalo
+961,ei sallittu,1977,hyvä,1 kk,3 huonetta,91300,700 €/kk,79 m²,rivitalo
+962,ei tiedossa,1961,hyvä,1 kk,3 huonetta,02650,1 100 €/kk,70 m²,kerrostalo
+963,ei sallittu,1956,hyvä,1 kk:n vuokra,Kaksio,94200,380 €/kk,49 m²,kerrostalo
+964,ei sallittu,1996,hyvä,250,Kaksio,01370,811 €/kk,"48,5 m²",kerrostalo
+965,ei sallittu,1963,hyvä,250,3 huonetta,96100,895 €/kk,79 m²,kerrostalo
+966,ei sallittu,2007,hyvä,250,Yksiö,05810,635 €/kk,43 m²,luhtitalo
+967,ei sallittu,1950,hyvä,"660,00 e",3 huonetta,90500,660 €/kk,63 m²,kerrostalo
+968,ei sallittu,2018,ei luokiteltu,655.00,Yksiö,20520,655 €/kk,"34,5 m²",kerrostalo
+969,ei sallittu,2018,ei luokiteltu,1048.00,3 huonetta,04200,1 048 €/kk,"68,5 m²",kerrostalo
+970,ei sallittu,2015,ei luokiteltu,1504.00,Yksiö,04200,752 €/kk,38 m²,kerrostalo
+971,ei sallittu,2010,ei luokiteltu,665.00,Kaksio,33950,665 €/kk,"47,5 m²",kerrostalo
+972,ei sallittu,2018,ei luokiteltu,645.00,Yksiö,20520,645 €/kk,"34,5 m²",kerrostalo
+973,ei sallittu,2018,ei luokiteltu,640.00,Yksiö,20520,640 €/kk,33 m²,kerrostalo
+974,ei sallittu,2018,ei luokiteltu,670.00,Yksiö,20520,670 €/kk,"37,5 m²",kerrostalo
+975,ei sallittu,2018,ei luokiteltu,575.00,Yksiö,20520,575 €/kk,26 m²,kerrostalo
+976,ei sallittu,2018,ei luokiteltu,800.00,Kaksio,20520,800 €/kk,51 m²,kerrostalo
+977,ei sallittu,2018,ei luokiteltu,625.00,Yksiö,20520,625 €/kk,33 m²,kerrostalo
+978,ei sallittu,2018,ei luokiteltu,753.00,Kaksio,04200,753 €/kk,39 m²,kerrostalo
+979,ei sallittu,2018,ei luokiteltu,650.00,Yksiö,20520,650 €/kk,"36,5 m²",kerrostalo
+980,ei sallittu,2018,ei luokiteltu,630.00,Yksiö,20520,630 €/kk,33 m²,kerrostalo
+981,ei sallittu,2018,ei luokiteltu,660.00,Kaksio,20520,660 €/kk,34 m²,kerrostalo
+982,ei sallittu,2018,ei luokiteltu,595.00,Yksiö,20520,595 €/kk,26 m²,kerrostalo
+983,ei sallittu,2018,ei luokiteltu,640.00,Yksiö,20520,640 €/kk,33 m²,kerrostalo
+984,ei sallittu,2018,ei luokiteltu,645.00,Yksiö,20520,645 €/kk,"34,5 m²",kerrostalo
+985,ei sallittu,2018,ei luokiteltu,635.00,Kaksio,20520,635 €/kk,34 m²,kerrostalo
+986,ei sallittu,2018,ei luokiteltu,570.00,Yksiö,20520,570 €/kk,26 m²,kerrostalo
+987,ei sallittu,2015,ei luokiteltu,685.00,Yksiö,04260,685 €/kk,31 m²,kerrostalo
+988,ei sallittu,2015,ei luokiteltu,831.00,Kaksio,06100,831 €/kk,53 m²,kerrostalo
+989,ei sallittu,2018,ei luokiteltu,655.00,Yksiö,20520,655 €/kk,"34,5 m²",kerrostalo
+990,ei sallittu,2018,ei luokiteltu,820.00,Kaksio,20520,820 €/kk,"50,5 m²",kerrostalo
+991,ei sallittu,2018,ei luokiteltu,815.00,Kaksio,20520,815 €/kk,51 m²,kerrostalo
+992,ei sallittu,2018,ei luokiteltu,660.00,Yksiö,20520,660 €/kk,"37,5 m²",kerrostalo
+993,ei sallittu,2018,ei luokiteltu,820.00,Kaksio,20520,820 €/kk,51 m²,kerrostalo
+994,ei sallittu,2014,ei luokiteltu,780.00,Yksiö,00370,780 €/kk,"34,5 m²",kerrostalo
+995,ei tiedossa,1955,hyvä,1450.00,Kaksio,90100,725 €/kk,58 m²,kerrostalo
+996,ei tiedossa,2008,hyvä,1460.00,Kaksio,90100,730 €/kk,46 m²,kerrostalo
+997,ei tiedossa,1956,hyvä,1350.00,Kaksio,90100,675 €/kk,56 m²,kerrostalo
+998,ei tiedossa,1955,hyvä,1250.00,Kaksio,90100,625 €/kk,"49,5 m²",kerrostalo
+999,ei sallittu,1955,hyvä,"600,00",3 huonetta,85800,600 €/kk,76 m²,kerrostalo
+1000,ei tiedossa,1955,hyvä,1780.00,Kaksio,00320,890 €/kk,"42,5 m²",kerrostalo
+1001,ei tiedossa,1980,hyvä,1740.00,Kaksio,02130,870 €/kk,"53,5 m²",kerrostalo
+1002,ei sallittu,2016,hyvä,1200 €,Kaksio,60200,650 €/kk,57 m²,rivitalo
+1003,ei sallittu,1965,hyvä,2 kuukauden vakuus,3 huonetta,70400,900 €/kk,155 m²,paritalo
+1004,ei sallittu,1977,hyvä,600 €,3 huonetta,85500,600 €/kk,67 m²,kerrostalo
+1005,ei sallittu,2013,hyvä,650€,Kaksio,95400,650 €/kk,43 m²,kerrostalo
+1006,ei sallittu,1965,hyvä,2 kk.n vuokra,Kaksio,00920,940 €/kk,52 m²,kerrostalo
+1007,ei sallittu,1982,hyvä,272,Yksiö,29880,272 €/kk,30 m²,rivitalo
+1008,ei sallittu,1961,hyvä,1140.00,3 huonetta,48230,570 €/kk,48 m²,kerrostalo
+1009,ei sallittu,1976,hyvä,860.00,Yksiö,18100,430 €/kk,30 m²,kerrostalo
+1010,ei sallittu,1965,hyvä,2kk vuokraa vastaava summa,Yksiö,33200,625 €/kk,26 m²,kerrostalo
+1011,ei sallittu,1997,hyvä,250,3 huonetta,01600,958 €/kk,"73,5 m²",kerrostalo
+1012,ei sallittu,1993,hyvä,250,3 huonetta,03400,725 €/kk,"68,5 m²",kerrostalo
+1013,ei tiedossa,1962,hyvä,820 ,3 huonetta,90100,820 €/kk,"84,5 m²",kerrostalo
+1014,ei sallittu,2017,hyvä,"1 670,00 e",Kaksio,33210,835 €/kk,46 m²,kerrostalo
+1015,ei sallittu,2015,hyvä,"1 240,00 e tai 1kk+hlö",Kaksio,28600,620 €/kk,"50,4 m²",luhtitalo
+1016,ei sallittu,1959,hyvä,250 €,4 huonetta,00820,1 289 €/kk,"79,8 m²",kerrostalo
+1017,ei sallittu,1972,hyvä,250 €,Kaksio,13600,770 €/kk,62 m²,kerrostalo
+1018,ei sallittu,1973,ei luokiteltu,780 €,3 huonetta,96500,780 €/kk,83 m²,kerrostalo
+1019,ei tiedossa,1964,hyvä,Kyllä,3 huonetta,65100,860 €/kk,73 m²,kerrostalo
+1020,ei sallittu,1964,hyvä,495.00,Yksiö,65100,495 €/kk,28 m²,kerrostalo
+1021,ei sallittu,1973,ei luokiteltu,380.00,Yksiö,32700,380 €/kk,29 m²,kerrostalo
+1022,sallittu,1974,tyydyttävä,540,Kaksio,07910,540 €/kk,"59,5 m²",kerrostalo
+1023,ei sallittu,2016,hyvä,2 kk vuokra,Yksiö,90500,570 €/kk,32 m²,kerrostalo
+1024,ei sallittu,2016,hyvä,2 kk vuokra,Yksiö,90500,570 €/kk,32 m²,kerrostalo
+1025,ei sallittu,1992,hyvä,1-3kk vuokra,Kaksio,04420,"759,33 €/kk",58 m²,kerrostalo
+1026,ei sallittu,2013,hyvä,250 €,Kaksio,01520,877 €/kk,"46,5 m²",kerrostalo
+1027,ei sallittu,1975,hyvä,250 €,Kaksio,00930,977 €/kk,"48,5 m²",kerrostalo
+1028,ei sallittu,1972,hyvä,250 €,Kaksio,40340,690 €/kk,"48,5 m²",kerrostalo
+1029,ei sallittu,2010,hyvä,250 €,Yksiö,01350,749 €/kk,34 m²,kerrostalo
+1030,ei sallittu,1985,tyydyttävä,"1 480,00 e",Kaksio,33210,740 €/kk,"59,5 m²",kerrostalo
+1031,ei sallittu,1960,hyvä,"1 540,00 e",Kaksio,33210,770 €/kk,"47,5 m²",kerrostalo
+1032,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,800 €/kk,40 m²,kerrostalo
+1033,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,708 €/kk,"34,5 m²",kerrostalo
+1034,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,820 €/kk,40 m²,kerrostalo
+1035,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,820 €/kk,40 m²,kerrostalo
+1036,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,708 €/kk,"34,5 m²",kerrostalo
+1037,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,647 €/kk,32 m²,kerrostalo
+1038,sallittu,2001,hyvä,1kk/350€,Kaksio,02600,986 €/kk,"48,5 m²",kerrostalo
+1039,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,663 €/kk,32 m²,kerrostalo
+1040,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,663 €/kk,32 m²,kerrostalo
+1041,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,893 €/kk,47 m²,kerrostalo
+1042,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,663 €/kk,32 m²,kerrostalo
+1043,ei sallittu,1987,tyydyttävä,2kk:n vuokraa vastaava summa,Kaksio,40340,520 €/kk,45 m²,kerrostalo
+1044,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,647 €/kk,32 m²,kerrostalo
+1045,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,882 €/kk,47 m²,kerrostalo
+1046,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,962 €/kk,52 m²,kerrostalo
+1047,ei tiedossa,1968,hyvä,980 ,Yksiö,33710,490 €/kk,"30,5 m²",kerrostalo
+1048,ei tiedossa,1960,hyvä,670 ,3 huonetta,90250,670 €/kk,62 m²,kerrostalo
+1049,ei sallittu,1967,tyydyttävä,980,Kaksio,21200,490 €/kk,36 m²,kerrostalo
+1050,ei sallittu,1974,hyvä,798.00,Kaksio,28800,425 €/kk,50 m²,kerrostalo
+1051,ei sallittu,1974,hyvä,850.00,Kaksio,28800,425 €/kk,"50,5 m²",kerrostalo
+1052,ei sallittu,1949,hyvä,500,Yksiö,28500,415 €/kk,36 m²,kerrostalo
+1053,ei sallittu,1994,hyvä,500,Kaksio,00980,969 €/kk,"44,5 m²",kerrostalo
+1054,ei sallittu,1976,hyvä,2 kuukauden vuokra / 1380 euroa,Kaksio,33210,690 €/kk,45 m²,kerrostalo
+1055,ei sallittu,1990,hyvä,940 €,Yksiö,21200,470 €/kk,31 m²,kerrostalo
+1056,ei sallittu,1989,hyvä,850 €,3 huonetta,23600,850 €/kk,80 m²,rivitalo
+1057,ei sallittu,2000,hyvä,250,3 huonetta,01400,967 €/kk,"76,5 m²",kerrostalo
+1058,ei sallittu,2011,hyvä,1490,4 huonetta,00790,1 490 €/kk,86 m²,kerrostalo
+1059,ei tiedossa,1990,hyvä,680,Kaksio,33710,"586,38 €/kk",58 m²,kerrostalo
+1060,ei tiedossa,2016,ei luokiteltu,1150 ,Yksiö,33400,575 €/kk,29 m²,kerrostalo
+1061,ei sallittu,2011,hyvä,250 €,Kaksio,00790,811 €/kk,44 m²,kerrostalo
+1062,ei sallittu,2007,hyvä,250 €,Kaksio,53100,794 €/kk,48 m²,kerrostalo
+1063,ei sallittu,2010,hyvä,250 €,3 huonetta,01350,1 046 €/kk,"62,5 m²",kerrostalo
+1064,ei sallittu,1975,hyvä,250 €,3 huonetta,33720,845 €/kk,"75,5 m²",kerrostalo
+1065,ei sallittu,1970,hyvä,250 €,Kaksio,01350,855 €/kk,56 m²,kerrostalo
+1066,ei sallittu,1975,hyvä,250 €,Kaksio,33720,675 €/kk,48 m²,kerrostalo
+1067,ei sallittu,2017,hyvä,"1 020,00 e",Yksiö,33870,510 €/kk,23 m²,kerrostalo
+1068,ei sallittu,1959,hyvä,"1 020,00 e",3 huonetta,00350,1 250 €/kk,60 m²,kerrostalo
+1069,ei sallittu,2013,ei luokiteltu,350.00,Kaksio,15870,663 €/kk,51 m²,kerrostalo
+1070,ei sallittu,2017,ei luokiteltu,850.00,Kaksio,53100,850 €/kk,55 m²,kerrostalo
+1071,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,875 €/kk,47 m²,kerrostalo
+1072,ei sallittu,2017,ei luokiteltu,1 kk vuokra,Kaksio,20720,936 €/kk,52 m²,kerrostalo
+1073,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,631 €/kk,32 m²,kerrostalo
+1074,ei sallittu,1952,hyvä,450 €,Yksiö,13100,450 €/kk,"28,6 m²",kerrostalo
+1075,ei sallittu,2016,hyvä,"250,00",Kaksio,20810,805 €/kk,45 m²,kerrostalo
+1076,ei sallittu,2017,hyvä,1 kk,Yksiö,20720,663 €/kk,32 m²,kerrostalo
+1077,ei sallittu,2011,hyvä,1 kk,Kaksio,04220,770 €/kk,"49,5 m²",kerrostalo
+1078,ei sallittu,2017,hyvä,1 kk vuokra,3 huonetta,20720,1 162 €/kk,"60,5 m²",kerrostalo
+1079,ei sallittu,1971,hyvä,2 kk:n vuokra,Yksiö,04230,570 €/kk,34 m²,kerrostalo
+1080,ei sallittu,2017,hyvä,1240,Yksiö,04400,620 €/kk,"28,5 m²",kerrostalo
+1081,ei sallittu,1990,ei luokiteltu,615 €,Kaksio,03100,615 €/kk,46 m²,rivitalo
+1082,ei sallittu,2017,hyvä,850,3 huonetta,80220,850 €/kk,"58,5 m²",kerrostalo
+1083,ei sallittu,2017,hyvä,1 kk,Yksiö,04400,720 €/kk,30 m²,kerrostalo
+1084,ei tiedossa,1986,hyvä,1320.00,Kaksio,04600,660 €/kk,"57,5 m²",kerrostalo
+1085,ei sallittu,1957,tyydyttävä,1080.00,Kaksio,15110,540 €/kk,"49,5 m²",kerrostalo
+1086,ei sallittu,1984,hyvä,1kk:n vuokran suuruinen,3 huonetta,90560,620 €/kk,66 m²,kerrostalo
+1087,ei sallittu,1968,hyvä,1kk:n vuokran suuruinen,Yksiö,90150,480 €/kk,"22,5 m²",kerrostalo
+1088,ei sallittu,1970,hyvä,2kk:n vuokran suuruinen,Kaksio,02620,740 €/kk,"46,5 m²",kerrostalo
+1089,ei sallittu,2016,hyvä,Vuokranantajan tilille,Yksiö,01150,570 €/kk,"25,5 m²",kerrostalo
+1090,ei sallittu,1999,hyvä,1kk:n vuokran suuruinen,Kaksio,90230,620 €/kk,"40,5 m²",kerrostalo
+1091,ei sallittu,1909,hyvä,1 kk vuokra,Kaksio,30100,490 €/kk,54 m²,rivitalo
+1092,ei sallittu,1976,hyvä,1260,Yksiö,01360,630 €/kk,34 m²,kerrostalo
+1093,ei tiedossa,1964,hyvä,1260,Kaksio,57100,580 €/kk,"51,5 m²",kerrostalo
+1094,ei sallittu,2014,hyvä,1260,3 huonetta,00560,1 915 €/kk,"74,5 m²",kerrostalo
+1095,ei sallittu,1997,hyvä,1260,Kaksio,02660,929 €/kk,56 m²,kerrostalo
+1096,ei sallittu,2017,hyvä,2080,3 huonetta,01700,1 040 €/kk,"59,5 m²",kerrostalo
+1097,ei sallittu,2013,hyvä,614 €,Kaksio,03100,614 €/kk,"39,5 m²",kerrostalo
+1098,ei sallittu,2000,hyvä,250 €,3 huonetta,90100,1 035 €/kk,72 m²,kerrostalo
+1099,ei sallittu,1955,hyvä,250 €,Kaksio,33500,720 €/kk,"51,5 m²",kerrostalo
+1100,ei sallittu,1955,ei luokiteltu,"505,00 e",Kaksio,70620,505 €/kk,52 m²,rivitalo
+1101,ei sallittu,1956,hyvä,"1 070,00 e",Yksiö,33540,535 €/kk,32 m²,kerrostalo
+1102,ei sallittu,2008,hyvä,"657,05",Kaksio,37600,"657,05 €/kk","48,4 m²",kerrostalo
+1103,ei sallittu,1968,hyvä,0,3 huonetta,15550,"679,50 €/kk",76 m²,kerrostalo
+1104,ei sallittu,2012,hyvä,0,Kaksio,00990,1 049 €/kk,45 m²,kerrostalo
+1105,ei sallittu,2017,hyvä,neuvoteltavissa (2hlö takaus tai rahavakuus),Kaksio,60510,620 €/kk,"52,5 m²",luhtitalo
+1106,ei sallittu,2008,hyvä,2200 €,5 +,65280,1 100 €/kk,191 m²,omakotitalo
+1107,ei sallittu,1970,hyvä,€,Kaksio,11100,690 €/kk,56 m²,kerrostalo
+1108,ei sallittu,2009,hyvä,1kk:n vuokra,3 huonetta,90530,"908,40 €/kk",83 m²,kerrostalo
+1109,ei sallittu,2009,hyvä,1 kuukauden vuokra.,Kaksio,67200,"492,78 €/kk","57,5 m²",kerrostalo
+1110,ei tiedossa,1971,hyvä,1 kuukauden vuokra.,Yksiö,00530,850 €/kk,"37,5 m²",kerrostalo
+1111,ei tiedossa,1969,hyvä,2580.00,3 huonetta,02170,1 290 €/kk,78 m²,kerrostalo
+1112,ei tiedossa,1973,hyvä,2160.00,Kaksio,00140,1 080 €/kk,44 m²,kerrostalo
+1113,ei tiedossa,1973,hyvä,3580.00,5 +,00850,1 790 €/kk,161 m²,omakotitalo
+1114,ei sallittu,2002,hyvä,3580.00,Kaksio,20540,750 €/kk,51 m²,kerrostalo
+1115,ei sallittu,1972,hyvä,250 €,Kaksio,01620,966 €/kk,"55,5 m²",kerrostalo
+1116,ei sallittu,1998,hyvä,250 €,Kaksio,70100,793 €/kk,56 m²,kerrostalo
+1117,ei sallittu,1972,hyvä,250 €,3 huonetta,01620,1 055 €/kk,"74,5 m²",kerrostalo
+1118,ei sallittu,2015,hyvä,250 €,Kaksio,01370,927 €/kk,48 m²,kerrostalo
+1119,ei sallittu,1972,hyvä,250 €,3 huonetta,01620,1 105 €/kk,"74,5 m²",kerrostalo
+1120,ei sallittu,1971,hyvä,250 €,Yksiö,01360,743 €/kk,32 m²,kerrostalo
+1121,ei sallittu,2015,hyvä,250 €,Yksiö,01370,879 €/kk,43 m²,kerrostalo
+1122,ei sallittu,1982,hyvä,1 kk vuokra,Yksiö,94200,395 €/kk,35 m²,kerrostalo
+1123,ei sallittu,1936,hyvä,1 kk vuokra,Kaksio,00170,1 065 €/kk,32 m²,kerrostalo
+1124,ei sallittu,1975,ei luokiteltu,628.00,3 huonetta,95420,628 €/kk,74 m²,kerrostalo
+1125,ei sallittu,1997,ei luokiteltu,653.00,4 huonetta,90520,653 €/kk,88 m²,luhtitalo
+1126,ei sallittu,2015,ei luokiteltu,1083.00,3 huonetta,05800,1 083 €/kk,"70,5 m²",kerrostalo
+1127,ei sallittu,2016,hyvä,1 kk tai 350 € väh. vuoden sopimus,3 huonetta,04410,1 040 €/kk,"66,5 m²",kerrostalo
+1128,ei sallittu,1973,hyvä,250€,Yksiö,90580,398 €/kk,"30,5 m²",kerrostalo
+1129,ei sallittu,1973,hyvä,690 €,3 huonetta,96100,690 €/kk,"69,5 m²",kerrostalo
+1130,ei sallittu,1939,hyvä,2780,Kaksio,00250,1 390 €/kk,63 m²,kerrostalo
+1131,ei tiedossa,1973,ei luokiteltu,380.00,Yksiö,86300,380 €/kk,32 m²,kerrostalo
+1132,ei tiedossa,1983,hyvä,430.00,Kaksio,63300,430 €/kk,47 m²,rivitalo
+1133,ei tiedossa,1998,hyvä,1300.00,Kaksio,53900,660 €/kk,"49,5 m²",kerrostalo
+1134,ei tiedossa,1980,hyvä,1300.00,Yksiö,01200,650 €/kk,"36,5 m²",kerrostalo
+1135,ei tiedossa,1974,hyvä,1440.00,3 huonetta,15500,720 €/kk,71 m²,kerrostalo
+1136,ei sallittu,1962,hyvä,0.00,3 huonetta,67100,660 €/kk,69 m²,kerrostalo
+1137,ei sallittu,1962,hyvä,2kk/ sop.muk,Kaksio,11120,550 €/kk,53 m²,kerrostalo
+1138,ei tiedossa,2015,hyvä,850,3 huonetta,13250,850 €/kk,77 m²,kerrostalo
+1139,ei sallittu,2015,hyvä,1400 €,Kaksio,23500,1 400 €/kk,76 m²,kerrostalo
+1140,ei sallittu,1961,tyydyttävä,2250,3 huonetta,13220,750 €/kk,75 m²,kerrostalo
+1141,ei sallittu,2012,hyvä,noin yhden kuukauden vuokra,3 huonetta,33960,"1012,69 €/kk",77 m²,kerrostalo
+1142,ei sallittu,1939,hyvä,1 kk vuokra,Kaksio,00250,920 €/kk,35 m²,kerrostalo
+1143,ei sallittu,2013,hyvä,250 €,Kaksio,04200,924 €/kk,"54,5 m²",kerrostalo
+1144,ei sallittu,1991,hyvä,250 €,Kaksio,04220,817 €/kk,"62,5 m²",kerrostalo
+1145,ei sallittu,2012,hyvä,250 €,Kaksio,04200,884 €/kk,54 m²,kerrostalo
+1146,ei sallittu,1959,tyydyttävä,2kk vuokraa vastaava summa,Kaksio,28100,510 €/kk,47 m²,kerrostalo
+1147,ei sallittu,1975,hyvä,"1460,00",3 huonetta,21200,730 €/kk,"73,5 m²",kerrostalo
+1148,ei sallittu,2010,hyvä,1kk:n vuokra,Kaksio,90530,630 €/kk,"44,5 m²",kerrostalo
+1149,ei tiedossa,1992,hyvä,1kk:n vuokra,Kaksio,01600,850 €/kk,"44,5 m²",kerrostalo
+1150,ei tiedossa,1974,hyvä,1kk:n vuokra,Kaksio,01620,800 €/kk,"52,5 m²",kerrostalo
+1151,ei tiedossa,1960,tyydyttävä,880.00,Yksiö,48100,440 €/kk,"27,5 m²",kerrostalo
+1152,ei tiedossa,1960,hyvä,1440.00,Yksiö,00320,720 €/kk,34 m²,kerrostalo
+1153,ei tiedossa,1960,hyvä,1140.00,Kaksio,21200,570 €/kk,57 m²,kerrostalo
+1154,ei tiedossa,1973,hyvä,2160.00,3 huonetta,01620,1 080 €/kk,"82,5 m²",kerrostalo
+1155,ei tiedossa,1961,ei luokiteltu,1380.00,Yksiö,20100,690 €/kk,34 m²,kerrostalo
+1156,ei sallittu,1961,ei luokiteltu,1140.00,Yksiö,20300,570 €/kk,35 m²,kerrostalo
+1157,ei sallittu,2009,hyvä,1560.00,Kaksio,20810,780 €/kk,"49,5 m²",kerrostalo
+1158,ei sallittu,1973,hyvä,1kk:n vuokran suuruinen,Yksiö,90250,440 €/kk,34 m²,kerrostalo
+1159,ei sallittu,1973,hyvä,680 €,Kaksio,90100,680 €/kk,"48,5 m²",kerrostalo
+1160,ei tiedossa,1955,ei luokiteltu,840.00e,Yksiö,20200,420 €/kk,26 m²,kerrostalo
+1161,ei sallittu,2011,hyvä,900 €,3 huonetta,90100,900 €/kk,"66,5 m²",kerrostalo
+1162,ei sallittu,1990,hyvä,900 €,Kaksio,96500,"531,73 €/kk",52 m²,kerrostalo
+1163,ei sallittu,1956,hyvä,"695,00 e",3 huonetta,80100,695 €/kk,70 m²,kerrostalo
+1164,ei sallittu,1973,hyvä,250 €,Yksiö,11910,551 €/kk,37 m²,kerrostalo
+1165,ei sallittu,1970,tyydyttävä,2:n kk vuokra,Yksiö,53810,400 €/kk,"26,5 m²",kerrostalo
+1166,ei tiedossa,1960,hyvä,2 kk,Yksiö,13110,395 €/kk,35 m²,kerrostalo
+1167,ei sallittu,2017,ei luokiteltu,744.00,Yksiö,06100,744 €/kk,40 m²,kerrostalo
+1168,ei sallittu,2016,hyvä,"1460,00 €",Kaksio,15210,730 €/kk,"59,5 m²",kerrostalo
+1169,ei sallittu,1994,hyvä,2 kk vuokraa vastaava summa,Kaksio,20100,"629,66 €/kk","44,5 m²",kerrostalo
+1170,ei sallittu,2002,hyvä,2 kk vuokraa vastaava summa,3 huonetta,90120,"825,39 €/kk","72,5 m²",kerrostalo
+1171,ei sallittu,1996,hyvä,2 kk vuokraa vastaava summa,Kaksio,00180,"1278,35 €/kk","64,5 m²",kerrostalo
+1172,ei sallittu,2002,hyvä,2 kk vuokraa vastaava summa,3 huonetta,90120,"766,43 €/kk","72,5 m²",kerrostalo
+1173,ei sallittu,2014,hyvä,2 kk vuokraa vastaava summa,3 huonetta,00220,"1537,68 €/kk","80,5 m²",kerrostalo
+1174,ei tiedossa,1974,hyvä,1 kk,3 huonetta,30300,525 €/kk,"76,5 m²",kerrostalo
+1175,ei sallittu,1980,hyvä,1 560 €,Kaksio,33200,780 €/kk,"50,5 m²",kerrostalo
+1176,ei sallittu,1980,hyvä,1 560 €,Kaksio,33200,780 €/kk,"50,5 m²",kerrostalo
+1177,ei sallittu,1980,hyvä,1,Yksiö,30100,285 €/kk,30 m²,kerrostalo
+1178,ei tiedossa,1980,hyvä,1 kk,Kaksio,30300,395 €/kk,58 m²,kerrostalo
+1179,ei tiedossa,1980,hyvä,1 kk,Kaksio,30300,395 €/kk,58 m²,kerrostalo
+1180,ei tiedossa,1974,hyvä,"1,5 kk",3 huonetta,05880,665 €/kk,75 m²,kerrostalo
+1181,ei tiedossa,1974,hyvä,"1,5 kk",3 huonetta,05880,665 €/kk,75 m²,kerrostalo
+1182,ei sallittu,1978,hyvä,5000,4 huonetta,00340,2 500 €/kk,"139,5 m²",rivitalo
+1183,ei tiedossa,1995,hyvä,1 kk,3 huonetta,04200,895 €/kk,79 m²,kerrostalo
+1184,ei tiedossa,1995,hyvä,1 kk,3 huonetta,04200,895 €/kk,79 m²,kerrostalo
+1185,ei sallittu,1984,ei luokiteltu,360.00,Yksiö,32700,360 €/kk,34 m²,kerrostalo
+1186,ei sallittu,1928,ei luokiteltu,1060.00,Kaksio,21530,530 €/kk,50 m²,puutalo-osake
+1187,ei tiedossa,1973,ei luokiteltu,500 euroa,3 huonetta,00320,1 284 €/kk,80 m²,kerrostalo
+1188,ei sallittu,2016,hyvä,2*kk-vuokra,Kaksio,36220,590 €/kk,"39,5 m²",kerrostalo
+1189,ei tiedossa,1993,hyvä,2*kk-vuokra,3 huonetta,00180,1 450 €/kk,"75,5 m²",kerrostalo
+1190,ei tiedossa,2014,ei luokiteltu,1320.00e,Kaksio,20100,660 €/kk,37 m²,kerrostalo
+1191,ei sallittu,2016,hyvä,2*kk,Kaksio,33580,760 €/kk,53 m²,kerrostalo
+1192,ei sallittu,1971,hyvä,360,Yksiö,15560,360 €/kk,31 m²,kerrostalo
+1193,ei sallittu,1986,hyvä,"1,5 kk:n vuokra",Kaksio,80110,720 €/kk,"51,5 m²",kerrostalo
+1194,ei sallittu,1952,hyvä,"1,5 kk:n vuokra",3 huonetta,00330,1 250 €/kk,75 m²,kerrostalo
+1195,ei sallittu,1969,hyvä,250 €,3 huonetta,13500,787 €/kk,"74,5 m²",kerrostalo
+1196,ei sallittu,2017,hyvä,250 €,3 huonetta,00390,1 299 €/kk,70 m²,kerrostalo
+1197,ei tiedossa,1968,hyvä,450€,Kaksio,35300,450 €/kk,43 m²,kerrostalo
+1198,ei sallittu,2017,hyvä,843,3 huonetta,33710,843 €/kk,63 m²,kerrostalo
+1199,ei sallittu,2017,hyvä,555,Yksiö,33710,555 €/kk,"32,5 m²",kerrostalo
+1200,ei tiedossa,2017,tyydyttävä,555,Yksiö,06100,1 322 €/kk,40 m²,kerrostalo
+1201,ei tiedossa,2017,tyydyttävä,555,Yksiö,18150,1 403 €/kk,59 m²,kerrostalo
+1202,ei tiedossa,2017,tyydyttävä,555,Yksiö,18130,0 €/kk,61 m²,kerrostalo
+1203,ei tiedossa,2017,tyydyttävä,555,Yksiö,04230,901 €/kk,12 m²,omakotitalo
+1204,ei tiedossa,2004,hyvä,555,Kaksio,02760,1 619 €/kk,51 m²,kerrostalo
+1205,ei tiedossa,1991,tyydyttävä,555,3 huonetta,02650,2 114 €/kk,71 m²,kerrostalo
+1206,ei tiedossa,2011,hyvä,555,Kaksio,01530,2 031 €/kk,"45,5 m²",kerrostalo
+1207,ei tiedossa,1972,tyydyttävä,555,Yksiö,02150,1 492 €/kk,17 m²,erillistalo
+1208,ei tiedossa,1972,tyydyttävä,555,Kaksio,45100,1 421 €/kk,55 m²,kerrostalo
+1209,ei tiedossa,1972,hyvä,555,Kaksio,01530,2 031 €/kk,"47,5 m²",kerrostalo
+1210,ei tiedossa,1972,tyydyttävä,555,Yksiö,15110,527 €/kk,18 m²,kerrostalo
+1211,ei tiedossa,1984,tyydyttävä,555,Yksiö,01530,833 €/kk,10 m²,kerrostalo
+1212,ei sallittu,1957,hyvä,1800 €,3 huonetta,33540,900 €/kk,"68,4 m²",kerrostalo
+1213,ei sallittu,1957,hyvä,1800 €,3 huonetta,33540,900 €/kk,"68,4 m²",kerrostalo
+1214,ei sallittu,2014,hyvä,250 €,Kaksio,04410,925 €/kk,"51,5 m²",kerrostalo
+1215,ei sallittu,2014,hyvä,250 €,Kaksio,04410,877 €/kk,42 m²,kerrostalo
+1216,ei sallittu,1998,hyvä,250 €,Kaksio,20100,735 €/kk,"49,5 m²",kerrostalo
+1217,ei sallittu,1952,hyvä,250 €,Kaksio,20500,790 €/kk,55 m²,kerrostalo
+1218,ei sallittu,1990,hyvä,"565,44",Kaksio,14700,"565,44 €/kk","57,5 m²",rivitalo
+1219,ei tiedossa,1975,tyydyttävä,min. 1kk vuokraa vastaava summa,3 huonetta,29600,600 €/kk,62 m²,rivitalo
+1220,ei sallittu,2017,hyvä,2 kk:n vuokra,Kaksio,00990,998 €/kk,54 m²,kerrostalo
+1221,ei sallittu,1997,hyvä,2 kk:n vuokra,Kaksio,21200,765 €/kk,59 m²,kerrostalo
+1222,ei tiedossa,1956,hyvä,1300.00,Kaksio,20100,650 €/kk,53 m²,kerrostalo
+1223,ei tiedossa,1994,hyvä,2960.00,3 huonetta,00180,1 480 €/kk,80 m²,kerrostalo
+1224,ei sallittu,1974,hyvä,"1.030,00",Kaksio,21110,515 €/kk,42 m²,kerrostalo
+1225,ei sallittu,1988,tyydyttävä,"1.380,00",3 huonetta,21210,690 €/kk,75 m²,kerrostalo
+1226,ei sallittu,1990,hyvä,920,Kaksio,35100,460 €/kk,61 m²,rivitalo
+1227,ei sallittu,2011,hyvä,1 680 €,Kaksio,33100,840 €/kk,"42,5 m²",kerrostalo
+1228,ei sallittu,2011,hyvä,1 680 €,Kaksio,33100,840 €/kk,"42,5 m²",kerrostalo
+1229,ei tiedossa,1969,tyydyttävä,1 680 €,4 huonetta,07900,720 €/kk,85 m²,kerrostalo
+1230,ei sallittu,2018,hyvä,2 kuukauden vuokra,Yksiö,90520,695 €/kk,"27,5 m²",kerrostalo
+1231,ei sallittu,2018,hyvä,2 kuukauden vuokra,Yksiö,90520,695 €/kk,"27,5 m²",kerrostalo
+1232,ei sallittu,2011,hyvä,2*kk-vuokra,3 huonetta,37120,780 €/kk,65 m²,kerrostalo
+1233,ei sallittu,1987,hyvä,2 kk,Yksiö,02650,690 €/kk,31 m²,kerrostalo
+1234,ei sallittu,1989,tyydyttävä,2/kk,Kaksio,33240,626 €/kk,36 m²,luhtitalo
+1235,ei sallittu,1911,hyvä,kahden kuukauden vuokra,Yksiö,00500,890 €/kk,36 m²,kerrostalo
+1236,ei sallittu,2010,hyvä,3 kk:n vuokraa vastaava vakuus,3 huonetta,33230,1 250 €/kk,77 m²,kerrostalo
+1237,ei sallittu,1965,hyvä,1640 eur,3 huonetta,65100,820 €/kk,69 m²,kerrostalo
+1238,ei sallittu,1977,hyvä,"990,00 e",Yksiö,40640,495 €/kk,43 m²,kerrostalo
+1239,ei sallittu,1968,hyvä,"1 200,00 e",Yksiö,33230,600 €/kk,29 m²,kerrostalo
+1240,ei sallittu,1929,hyvä,2kk vuokra,Kaksio,00100,1 250 €/kk,"53,5 m²",kerrostalo
+1241,ei sallittu,1929,hyvä,1560,Kaksio,00940,780 €/kk,46 m²,kerrostalo
+1242,ei tiedossa,2013,hyvä,1230.00,Yksiö,33800,615 €/kk,"34,5 m²",luhtitalo
+1243,ei tiedossa,1674,hyvä,940.00,Yksiö,05880,470 €/kk,30 m²,kerrostalo
+1244,ei tiedossa,1938,hyvä,2100.00,Yksiö,00250,1 050 €/kk,53 m²,kerrostalo
+1245,ei sallittu,1926,hyvä,1700,Yksiö,00180,850 €/kk,"31,5 m²",kerrostalo
+1246,ei sallittu,1926,ei luokiteltu,"880,00 e",Yksiö,20320,440 €/kk,30 m²,kerrostalo
+1247,ei sallittu,1926,ei luokiteltu,"880,00 e",3 huonetta,40270,"886,56 €/kk",80 m²,kerrostalo
+1248,ei tiedossa,2002,hyvä,850,3 huonetta,33300,"833,21 €/kk",84 m²,luhtitalo
+1249,ei tiedossa,1990,hyvä,740,4 huonetta,33580,"898,24 €/kk","84,5 m²",luhtitalo
+1250,ei sallittu,2000,hyvä,250.00,Kaksio,80170,686 €/kk,"57,5 m²",erillistalo
+1251,ei sallittu,2004,hyvä,250,Yksiö,90580,494 €/kk,46 m²,kerrostalo
+1252,ei tiedossa,1998,hyvä,670.00,Kaksio,65100,670 €/kk,54 m²,kerrostalo
+1253,ei sallittu,2012,hyvä,noin yhden kuukauden vuokra,Kaksio,33960,"723,90 €/kk","56,5 m²",kerrostalo
+1254,ei sallittu,1987,hyvä,500,4 huonetta,40640,330 €/kk,82 m²,kerrostalo
+1255,ei sallittu,1987,hyvä,"720,00 e",Yksiö,20540,360 €/kk,20 m²,omakotitalo
+1256,ei sallittu,1987,hyvä,"1 160,00 e",Yksiö,20700,580 €/kk,30 m²,kerrostalo
+1257,ei sallittu,1962,tyydyttävä,1260 €,Kaksio,40100,630 €/kk,50 m²,kerrostalo
+1258,ei sallittu,2017,hyvä,1 kk vuokra,Kaksio,20720,804 €/kk,47 m²,kerrostalo
+1259,ei tiedossa,1975,hyvä,1 kk vuokra,3 huonetta,94100,590 €/kk,"78,5 m²",kerrostalo
+1260,ei sallittu,1957,hyvä,850,Kaksio,20810,830 €/kk,57 m²,kerrostalo
+1261,ei sallittu,2015,hyvä,2kk,Yksiö,28100,510 €/kk,30 m²,kerrostalo
+1262,ei sallittu,1981,hyvä,1kk:n vuokran suuruinen,3 huonetta,90570,665 €/kk,77 m²,kerrostalo
+1263,ei sallittu,1978,hyvä,1kk:n vuokran suuruinen,Kaksio,90570,550 €/kk,"51,5 m²",kerrostalo
+1264,ei sallittu,1979,hyvä,385,Yksiö,07970,385 €/kk,"35,5 m²",rivitalo
+1265,ei sallittu,2017,hyvä,1180,Yksiö,33900,590 €/kk,26 m²,kerrostalo
+1266,ei sallittu,1988,hyvä,250 euroa,Kaksio,91300,320 €/kk,40 m²,rivitalo
+1267,ei tiedossa,2016,hyvä,250,3 huonetta,01150,1 051 €/kk,"73,5 m²",kerrostalo
+1268,ei sallittu,2001,hyvä,250,Kaksio,40270,737 €/kk,54 m²,rivitalo
+1269,ei sallittu,1974,ei luokiteltu,2 kk:n vuokraa vastaava summa,3 huonetta,13500,"767,60 €/kk","76,5 m²",kerrostalo
+1270,ei sallittu,1977,tyydyttävä,"530,00 e",Kaksio,40340,530 €/kk,"52,5 m²",kerrostalo
+1271,ei sallittu,2011,hyvä,"1 680,00 e",3 huonetta,33900,840 €/kk,"64,5 m²",kerrostalo
+1272,ei sallittu,1973,hyvä,"830,00 e",3 huonetta,70340,830 €/kk,72 m²,kerrostalo
+1273,ei sallittu,2015,hyvä,250 €,3 huonetta,00950,1 170 €/kk,"64,5 m²",kerrostalo
+1274,ei sallittu,1975,hyvä,250 €,3 huonetta,00930,1 283 €/kk,76 m²,kerrostalo
+1275,ei sallittu,1989,hyvä,250 €,3 huonetta,00940,1 005 €/kk,74 m²,kerrostalo
+1276,ei sallittu,1972,hyvä,250 €,Kaksio,15500,648 €/kk,"50,5 m²",kerrostalo
+1277,ei sallittu,2000,hyvä,250 €,3 huonetta,00950,1 109 €/kk,65 m²,kerrostalo
+1278,ei sallittu,1963,hyvä,2 kk 1070 €,Yksiö,33100,535 €/kk,33 m²,kerrostalo
+1279,ei sallittu,2016,hyvä,1 kk,3 huonetta,05800,950 €/kk,69 m²,kerrostalo
+1280,ei sallittu,2001,hyvä,0,3 huonetta,90650,825 €/kk,74 m²,kerrostalo
+1281,ei sallittu,1973,hyvä,"1100,00",Kaksio,15170,550 €/kk,47 m²,kerrostalo
+1282,ei sallittu,1997,ei luokiteltu,"1250,00",5 +,15240,1 250 €/kk,119 m²,rivitalo
+1283,ei tiedossa,2007,hyvä,500,Kaksio,00180,1 285 €/kk,59 m²,kerrostalo
+1284,ei tiedossa,1990,hyvä,1100 ,Kaksio,30100,550 €/kk,56 m²,kerrostalo
+1285,ei sallittu,1972,hyvä,450,Yksiö,10300,275 €/kk,25 m²,kerrostalo
+1286,ei tiedossa,1951,hyvä,690.00,3 huonetta,90500,690 €/kk,64 m²,kerrostalo
+1287,ei tiedossa,1958,hyvä,1440.00,Yksiö,00200,720 €/kk,30 m²,kerrostalo
+1288,ei tiedossa,1928,hyvä,1790.00,Yksiö,00100,895 €/kk,40 m²,kerrostalo
+1289,ei sallittu,2001,hyvä,590.00,Kaksio,37600,590 €/kk,"56,5 m²",rivitalo
+1290,ei sallittu,2001,hyvä,485 €,Kaksio,85500,485 €/kk,"55,5 m²",kerrostalo
+1291,ei sallittu,2001,hyvä,1kk+hlö tai 2kk,Yksiö,28120,360 €/kk,25 m²,puutalo-osake
+1292,ei sallittu,2010,hyvä,noin yhden kuukauden vuokra,3 huonetta,21200,"968,38 €/kk",81 m²,kerrostalo
+1293,ei sallittu,1999,hyvä,670 €,Kaksio,67100,"669,97 €/kk",60 m²,kerrostalo
+1294,ei sallittu,1963,hyvä,774 €,4 huonetta,67200,"774,29 €/kk",86 m²,kerrostalo
+1295,ei sallittu,2004,hyvä,743 €,3 huonetta,67200,"742,50 €/kk","67,5 m²",luhtitalo
+1296,ei sallittu,2002,hyvä,0,3 huonetta,90650,878 €/kk,75 m²,kerrostalo
+1297,ei sallittu,2001,hyvä,"250,00",3 huonetta,04200,1 066 €/kk,"67,5 m²",kerrostalo
+1298,ei sallittu,2014,hyvä,"1 kk, yrityksiltä 3 kk",4 huonetta,04300,1 325 €/kk,95 m²,rivitalo
+1299,ei sallittu,2014,hyvä,1kk vuokra,Kaksio,96300,590 €/kk,"48,8 m²",kerrostalo
+1300,ei sallittu,2012,hyvä,"680,00",Kaksio,33900,"597,30 €/kk",41 m²,kerrostalo
+1301,ei tiedossa,2007,hyvä,500,Kaksio,00180,1 190 €/kk,53 m²,kerrostalo
+1302,ei sallittu,1939,hyvä,2kk vuokra tai pankkitakaus,Yksiö,17200,480 €/kk,41 m²,omakotitalo
+1303,ei sallittu,1972,hyvä,600.00,Kaksio,91900,600 €/kk,61 m²,rivitalo
+1304,ei sallittu,1972,ei luokiteltu,990.00,Kaksio,28610,495 €/kk,59 m²,kerrostalo
+1305,ei sallittu,1926,hyvä,0.00,Yksiö,00510,1 200 €/kk,"43,2 m²",kerrostalo
+1306,ei sallittu,1972,hyvä,700.00,3 huonetta,37600,700 €/kk,84 m²,kerrostalo
+1307,ei sallittu,1954,ei luokiteltu,490.00,Kaksio,37600,490 €/kk,48 m²,kerrostalo
+1308,ei sallittu,2013,hyvä,1860 €,Kaksio,04200,930 €/kk,"53,5 m²",kerrostalo
+1309,ei sallittu,2013,hyvä,1180,Kaksio,24100,590 €/kk,52 m²,kerrostalo
+1310,ei tiedossa,1963,ei luokiteltu,1290.00e,Kaksio,20500,645 €/kk,54 m²,kerrostalo
+1311,ei tiedossa,2017,hyvä,250,Kaksio,01620,"916,70 €/kk",51 m²,kerrostalo
+1312,ei tiedossa,2017,hyvä,250,Kaksio,01620,979 €/kk,"55,5 m²",kerrostalo
+1313,ei tiedossa,2017,hyvä,250,Kaksio,01620,"907,80 €/kk",51 m²,kerrostalo
+1314,ei tiedossa,2017,hyvä,250,Kaksio,01620,890 €/kk,50 m²,kerrostalo
+1315,ei tiedossa,2017,hyvä,250,Kaksio,01620,"898,90 €/kk",51 m²,kerrostalo
+1316,ei tiedossa,2017,hyvä,250,Yksiö,01620,"658,60 €/kk",31 m²,kerrostalo
+1317,ei tiedossa,2017,hyvä,250,Kaksio,01620,"907,80 €/kk",50 m²,kerrostalo
+1318,ei tiedossa,2017,hyvä,250,Kaksio,01620,"898,90 €/kk",50 m²,kerrostalo
+1319,ei tiedossa,2017,hyvä,250,Yksiö,01620,"640,80 €/kk",31 m²,kerrostalo
+1320,ei tiedossa,2017,hyvä,250,Kaksio,01620,"970,10 €/kk","55,5 m²",kerrostalo
+1321,ei tiedossa,2017,hyvä,250,3 huonetta,01620,"1005,70 €/kk","61,5 m²",kerrostalo
+1322,ei tiedossa,2017,hyvä,250,Kaksio,01620,"987,90 €/kk","55,5 m²",kerrostalo
+1323,ei tiedossa,2017,hyvä,250,3 huonetta,01620,"996,80 €/kk","61,5 m²",kerrostalo
+1324,ei tiedossa,2017,hyvä,250,Yksiö,01620,"649,70 €/kk",31 m²,kerrostalo
+1325,ei tiedossa,2017,hyvä,250,Yksiö,01620,"649,70 €/kk",31 m²,kerrostalo
+1326,ei tiedossa,2017,hyvä,250,Yksiö,01620,"640,80 €/kk",31 m²,kerrostalo
+1327,ei tiedossa,2017,hyvä,250,Yksiö,01620,"631,90 €/kk",31 m²,kerrostalo
+1328,ei tiedossa,2017,hyvä,250,Kaksio,01620,"872,20 €/kk",50 m²,kerrostalo
+1329,ei tiedossa,2017,hyvä,250,Kaksio,01620,"961,20 €/kk","55,5 m²",kerrostalo
+1330,ei tiedossa,2017,hyvä,250,Kaksio,01620,890 €/kk,51 m²,kerrostalo
+1331,ei tiedossa,2017,hyvä,250,Kaksio,01620,"952,30 €/kk","55,5 m²",kerrostalo
+1332,ei tiedossa,2017,hyvä,250,Kaksio,01620,"898,90 €/kk","55,5 m²",kerrostalo
+1333,ei tiedossa,2017,hyvä,250,Yksiö,01620,"631,90 €/kk",31 m²,kerrostalo
+1334,ei tiedossa,2017,hyvä,250,Kaksio,01620,"881,10 €/kk",50 m²,kerrostalo
+1335,ei sallittu,1980,hyvä,250 €,Kaksio,90500,606 €/kk,"48,5 m²",kerrostalo
+1336,ei sallittu,1997,hyvä,250 €,3 huonetta,40520,952 €/kk,73 m²,kerrostalo
+1337,ei sallittu,2010,hyvä,250 €,Kaksio,15100,741 €/kk,51 m²,kerrostalo
+1338,ei sallittu,1963,hyvä,250 €,3 huonetta,00710,1 115 €/kk,67 m²,kerrostalo
+1339,ei sallittu,1993,hyvä,250 €,3 huonetta,40520,850 €/kk,"72,5 m²",kerrostalo
+1340,ei sallittu,1996,hyvä,250 €,3 huonetta,40100,1 026 €/kk,"78,5 m²",kerrostalo
+1341,ei sallittu,1951,hyvä,250 €,Kaksio,05820,742 €/kk,"63,5 m²",kerrostalo
+1342,ei sallittu,2008,hyvä,1kk+hlö tai 2kk,4 huonetta,28100,1 250 €/kk,99 m²,kerrostalo
+1343,ei sallittu,1993,hyvä,1kk+hlö tai 2kk,3 huonetta,00370,1 280 €/kk,64 m²,kerrostalo
+1344,ei sallittu,2004,hyvä,1kk vuokra,Kaksio,90420,650 €/kk,55 m²,luhtitalo
+1345,ei sallittu,2001,hyvä,650 €,Kaksio,90120,650 €/kk,46 m²,kerrostalo
+1346,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,621 €/kk,32 m²,kerrostalo
+1347,ei sallittu,1985,hyvä,1 kk pankkitalletus vuokranantajan tilille (590),Kaksio,65100,590 €/kk,51 m²,kerrostalo
+1348,ei sallittu,1959,hyvä,250,Yksiö,15110,511 €/kk,25 m²,kerrostalo
+1349,ei tiedossa,1988,hyvä,3800 ,3 huonetta,00100,1 900 €/kk,78 m²,kerrostalo
+1350,ei tiedossa,1962,hyvä,1140.00,Kaksio,48100,570 €/kk,40 m²,kerrostalo
+1351,ei tiedossa,1971,hyvä,510.00,Kaksio,84100,510 €/kk,51 m²,kerrostalo
+1352,ei sallittu,2002,hyvä,"1100,00",Yksiö,21100,550 €/kk,35 m²,kerrostalo
+1353,ei tiedossa,1968,hyvä,1640.00,Kaksio,02620,820 €/kk,46 m²,kerrostalo
+1354,ei sallittu,1950,hyvä,900.00,Yksiö,28130,450 €/kk,31 m²,kerrostalo
+1355,ei sallittu,1950,hyvä,1148.00,Yksiö,28100,574 €/kk,34 m²,kerrostalo
+1356,ei sallittu,1981,hyvä,1580.00,3 huonetta,33720,790 €/kk,"77,5 m²",kerrostalo
+1357,ei sallittu,2017,hyvä,1500.00,Kaksio,15100,750 €/kk,"44,5 m²",kerrostalo
+1358,ei tiedossa,2009,hyvä,700 €,3 huonetta,33330,700 €/kk,"61,5 m²",kerrostalo
+1359,ei sallittu,2016,hyvä,1kk:n vuokran suuruinen,Yksiö,90400,520 €/kk,26 m²,kerrostalo
+1360,ei sallittu,2017,hyvä,1kk:n vuokran suuruinen,Kaksio,90520,820 €/kk,"50,5 m²",kerrostalo
+1361,ei sallittu,1979,hyvä,1kk:n vuokran suuruinen,Kaksio,96100,675 €/kk,"59,5 m²",kerrostalo
+1362,ei sallittu,1961,hyvä,1240 €,Kaksio,20100,620 €/kk,41 m²,kerrostalo
+1363,ei sallittu,2001,hyvä,noin yhden kuukauden vuokra,Kaksio,33580,"718,48 €/kk","59,5 m²",luhtitalo
+1364,ei sallittu,2001,hyvä,noin yhden kuukauden vuokra,Kaksio,33580,"724,23 €/kk","58,5 m²",kerrostalo
+1365,ei sallittu,2010,hyvä,588.96,Kaksio,33470,"588,96 €/kk",49 m²,kerrostalo
+1366,ei sallittu,1997,hyvä,noin yhden kuukauden vuokra,3 huonetta,33580,"952,52 €/kk",79 m²,kerrostalo
+1367,ei sallittu,2008,hyvä,noin yhden kuukauden vuokra,Kaksio,33310,800 €/kk,53 m²,kerrostalo
+1368,ei sallittu,1967,tyydyttävä,790,Kaksio,35300,395 €/kk,47 m²,kerrostalo
+1369,ei sallittu,1970,hyvä,915,Kaksio,02230,915 €/kk,56 m²,kerrostalo
+1370,ei tiedossa,1968,hyvä,"699,21",Kaksio,00940,"699,21 €/kk",49 m²,kerrostalo
+1371,ei sallittu,2012,hyvä,2 kk,Kaksio,33100,1 050 €/kk,57 m²,kerrostalo
+1372,ei sallittu,2012,hyvä,1300 €,Kaksio,07945,650 €/kk,68 m²,erillistalo
+1373,ei sallittu,1972,tyydyttävä,520 €,Kaksio,07910,520 €/kk,56 m²,kerrostalo
+1374,ei sallittu,1972,hyvä,1560 €,Kaksio,20300,780 €/kk,60 m²,kerrostalo
+1375,ei sallittu,1973,hyvä,1140 €,Kaksio,07900,570 €/kk,57 m²,luhtitalo
+1376,ei sallittu,2001,ei luokiteltu,"yksiöissä ja kaksioissa 550 e, kolmioissa 700 e ja",4 huonetta,90520,"904,62 €/kk","100,5 m²",luhtitalo
+1377,ei sallittu,2008,hyvä,250 €,Kaksio,15140,835 €/kk,49 m²,kerrostalo
+1378,ei sallittu,2008,hyvä,250 €,Kaksio,15140,963 €/kk,60 m²,kerrostalo
+1379,ei sallittu,1968,hyvä,250 €,Yksiö,01350,688 €/kk,32 m²,kerrostalo
+1380,ei sallittu,1970,hyvä,250 €,Kaksio,01350,803 €/kk,48 m²,kerrostalo
+1381,ei sallittu,1970,hyvä,250 €,3 huonetta,01350,1 076 €/kk,75 m²,kerrostalo
+1382,ei sallittu,1968,hyvä,250 €,Kaksio,01350,912 €/kk,55 m²,kerrostalo
+1383,ei sallittu,1971,hyvä,250 €,Kaksio,01360,738 €/kk,47 m²,kerrostalo
+1384,ei sallittu,1974,hyvä,250 €,Kaksio,01280,968 €/kk,"59,5 m²",kerrostalo
+1385,ei sallittu,1990,tyydyttävä,"490,00 e",Kaksio,40340,490 €/kk,"45,5 m²",kerrostalo
+1386,ei sallittu,1964,hyvä,2kk tai 1kk+hlö,4 huonetta,28130,990 €/kk,"93,5 m²",kerrostalo
+1387,ei sallittu,1927,hyvä,"2 100,00 e",5 +,28130,1 050 €/kk,200 m²,omakotitalo
+1388,ei sallittu,1968,tyydyttävä,"450,00 e",Yksiö,40250,450 €/kk,"31,5 m²",kerrostalo
+1389,ei sallittu,1968,hyvä,0,Kaksio,01370,785 €/kk,46 m²,kerrostalo
+1390,ei sallittu,1999,hyvä,"660,00",Yksiö,20810,660 €/kk,43 m²,kerrostalo
+1391,ei sallittu,1982,hyvä,"4,600€",4 huonetta,00160,2 495 €/kk,100 m²,kerrostalo
+1392,ei sallittu,1982,hyvä,"4,600€",4 huonetta,00160,2 495 €/kk,100 m²,kerrostalo
+1393,ei sallittu,2000,hyvä,1500 €,4 huonetta,37500,750 €/kk,"83,5 m²",kerrostalo
+1394,ei tiedossa,1966,tyydyttävä,1500 €,4 huonetta,04260,1 100 €/kk,108 m²,kerrostalo
+1395,ei sallittu,1963,hyvä,"1.240,00",Yksiö,33200,620 €/kk,41 m²,kerrostalo
+1396,ei sallittu,1978,hyvä,1.660 €,Kaksio,00200,830 €/kk,"38,5 m²",kerrostalo
+1397,ei sallittu,1978,tyydyttävä,1800.00,Kaksio,00330,900 €/kk,46 m²,kerrostalo
+1398,ei sallittu,1975,hyvä,880 €,Yksiö,80160,440 €/kk,33 m²,kerrostalo
+1399,ei tiedossa,1961,hyvä,340 ,Yksiö,78200,340 €/kk,27 m²,kerrostalo
+1400,ei tiedossa,1970,hyvä,700,3 huonetta,33850,"725,62 €/kk",76 m²,kerrostalo
+1401,ei sallittu,1981,hyvä,700,Kaksio,10210,"747,98 €/kk",65 m²,rivitalo
+1402,ei sallittu,1990,hyvä,700,3 huonetta,16600,695 €/kk,75 m²,rivitalo
+1403,ei sallittu,1977,hyvä,250,3 huonetta,15140,825 €/kk,78 m²,kerrostalo
+1404,ei sallittu,2002,hyvä,250,3 huonetta,05810,963 €/kk,74 m²,rivitalo
+1405,ei sallittu,2003,hyvä,250,3 huonetta,40520,880 €/kk,"65,5 m²",kerrostalo
+1406,ei sallittu,2003,hyvä,250,3 huonetta,40100,938 €/kk,77 m²,kerrostalo
+1407,ei tiedossa,2002,hyvä,850,3 huonetta,33710,"734,59 €/kk",66 m²,kerrostalo
+1408,ei sallittu,1960,hyvä,"520,00 e",Yksiö,40100,520 €/kk,26 m²,kerrostalo
+1409,ei sallittu,1947,hyvä,661 €,Kaksio,60100,"661,29 €/kk",67 m²,kerrostalo
+1410,ei sallittu,1937,hyvä,661 €,Kaksio,00250,1 171 €/kk,"38,5 m²",kerrostalo
+1411,ei sallittu,2017,ei luokiteltu,700.00,Kaksio,04220,700 €/kk,"42,5 m²",kerrostalo
+1412,ei sallittu,2016,ei luokiteltu,350.00,4 huonetta,02330,1 294 €/kk,"83,5 m²",kerrostalo
+1413,ei sallittu,2018,ei luokiteltu,794.00,Kaksio,04200,794 €/kk,42 m²,kerrostalo
+1414,ei sallittu,1983,ei luokiteltu,"250,00",Yksiö,15500,450 €/kk,"31,5 m²",kerrostalo
+1415,ei sallittu,1983,ei luokiteltu,"250,00",Kaksio,15500,585 €/kk,"60,5 m²",kerrostalo
+1416,ei sallittu,1980,ei luokiteltu,"250,00",Kaksio,15500,590 €/kk,"58,5 m²",kerrostalo
+1417,ei sallittu,1983,hyvä,"250,00",3 huonetta,15500,712 €/kk,79 m²,kerrostalo
+1418,ei sallittu,1983,hyvä,470 €,Kaksio,86300,470 €/kk,50 m²,rivitalo
+1419,ei tiedossa,1999,hyvä,250€,Kaksio,33270,747 €/kk,59 m²,kerrostalo
+1420,ei tiedossa,1999,hyvä,250,Kaksio,33270,737 €/kk,59 m²,kerrostalo
+1421,ei sallittu,2014,hyvä,250,5 +,60510,1 290 €/kk,"148,5 m²",paritalo
+1422,ei tiedossa,1962,hyvä,290.00,Yksiö,63300,290 €/kk,"27,1 m²",kerrostalo
+1423,ei tiedossa,1960,hyvä,1140.00,Kaksio,20540,570 €/kk,49 m²,kerrostalo
+1424,ei sallittu,2017,hyvä,1800 €,Kaksio,05820,900 €/kk,52 m²,rivitalo
+1425,ei tiedossa,2017,hyvä,1560.00,Kaksio,01700,780 €/kk,44 m²,kerrostalo
+1426,ei sallittu,2017,ei luokiteltu,1180.00,Kaksio,48700,600 €/kk,"55,5 m²",kerrostalo
+1427,ei sallittu,1961,ei luokiteltu,420 €,Kaksio,76100,420 €/kk,"32,4 m²",kerrostalo
+1428,ei tiedossa,1992,ei luokiteltu,3300.00e,Kaksio,20540,1 650 €/kk,350 m²,omakotitalo
+1429,ei tiedossa,1983,ei luokiteltu,2580.00e,5 +,20660,1 290 €/kk,232 m²,omakotitalo
+1430,ei sallittu,1985,hyvä,2580.00e,Kaksio,00700,994 €/kk,"59,5 m²",kerrostalo
+1431,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1432,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1433,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1434,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1435,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1436,ei sallittu,2017,hyvä,"490,00 e",Yksiö,28130,490 €/kk,"29,5 m²",kerrostalo
+1437,ei sallittu,2018,hyvä,250 €,Yksiö,13100,649 €/kk,38 m²,kerrostalo
+1438,ei sallittu,1989,hyvä,250 €,3 huonetta,01280,1 036 €/kk,67 m²,kerrostalo
+1439,ei sallittu,1962,tyydyttävä,2 kk:n vuokra,Yksiö,53100,510 €/kk,27 m²,kerrostalo
+1440,ei tiedossa,1970,tyydyttävä,2 kk:n vuokra,Yksiö,36200,430 €/kk,32 m²,kerrostalo
+1441,ei sallittu,1970,hyvä,0,Kaksio,05880,727 €/kk,"58,5 m²",kerrostalo
+1442,ei sallittu,1970,hyvä,0,Kaksio,00650,797 €/kk,"47,5 m²",kerrostalo
+1443,ei sallittu,2012,hyvä,1 kk,Kaksio,04410,792 €/kk,"39,5 m²",kerrostalo
+1444,ei sallittu,2012,hyvä,1 kk,3 huonetta,04410,1 090 €/kk,69 m²,kerrostalo
+1445,ei sallittu,1960,hyvä,370 €,Kaksio,76150,370 €/kk,39 m²,kerrostalo
+1446,ei tiedossa,1999,hyvä,250€,3 huonetta,33270,908 €/kk,"79,5 m²",kerrostalo
+1447,ei tiedossa,2008,hyvä,2 kk vuokra,3 huonetta,90440,950 €/kk,83 m²,rivitalo
+1448,ei sallittu,1971,hyvä,1180,Yksiö,13100,590 €/kk,"35,5 m²",kerrostalo
+1449,ei sallittu,1960,hyvä,2kk vuokra,Yksiö,33540,585 €/kk,32 m²,kerrostalo
+1450,ei sallittu,1960,hyvä,1kk pankkitalletus sekä 1-2 hlön omavelkainen taka,5 +,60720,1 200 €/kk,"154,5 m²",omakotitalo
+1451,ei sallittu,1999,hyvä,1kk pankkitalletus sekä 1-2 hlön omavelkainen taka,Kaksio,20760,730 €/kk,52 m²,kerrostalo
+1452,ei sallittu,1966,hyvä,1kk pankkitalletus sekä 1-2 hlön omavelkainen taka,3 huonetta,02100,1 295 €/kk,68 m²,kerrostalo
+1453,ei sallittu,1995,hyvä,2800,Kaksio,00180,1 400 €/kk,"50,5 m²",kerrostalo
+1454,ei sallittu,2001,ei luokiteltu,"715,68",Kaksio,02750,"715,68 €/kk","52,5 m²",kerrostalo
+1455,ei sallittu,1972,hyvä,1700 €,4 huonetta,27100,850 €/kk,168 m²,omakotitalo
+1456,ei sallittu,2016,hyvä,"430,00 e",Yksiö,90570,430 €/kk,"21,5 m²",kerrostalo
+1457,ei sallittu,1970,hyvä,250 €,4 huonetta,13600,"1034,60 €/kk",89 m²,kerrostalo
+1458,ei sallittu,1970,hyvä,250 €,3 huonetta,13600,"857,20 €/kk","70,5 m²",kerrostalo
+1459,ei sallittu,1990,hyvä,250 €,Kaksio,00730,978 €/kk,"59,5 m²",kerrostalo
+1460,ei sallittu,2008,ei luokiteltu,872.00,3 huonetta,15700,872 €/kk,"67,5 m²",kerrostalo
+1461,ei sallittu,2015,ei luokiteltu,802.00,Kaksio,01800,802 €/kk,"50,5 m²",kerrostalo
+1462,ei sallittu,2009,ei luokiteltu,933.00,Kaksio,00730,933 €/kk,"49,5 m²",kerrostalo
+1463,ei sallittu,2009,ei luokiteltu,910.00,Kaksio,00980,910 €/kk,49 m²,kerrostalo
+1464,sallittu,2017,hyvä,"1 kk, yrityksiltä 3kk",3 huonetta,11100,780 €/kk,49 m²,kerrostalo
+1465,ei sallittu,2017,hyvä,"1 kk, yrityksiltä 3kk",3 huonetta,11100,800 €/kk,"53,5 m²",kerrostalo
+1466,ei sallittu,2017,hyvä,1kk,3 huonetta,11100,850 €/kk,"57,5 m²",kerrostalo
+1467,ei sallittu,2017,hyvä,1kk,3 huonetta,11100,770 €/kk,49 m²,kerrostalo
+1468,ei sallittu,2017,hyvä,"1 kk, yrityksiltä 3kk",3 huonetta,11100,760 €/kk,49 m²,kerrostalo
+1469,ei sallittu,1999,tyydyttävä,2kk:n vuokraa vastaava summa,Kaksio,40100,790 €/kk,58 m²,kerrostalo
+1470,ei sallittu,2017,hyvä,"1 kk, yrityksiltä 3kk",3 huonetta,11100,840 €/kk,"57,5 m²",kerrostalo
+1471,ei sallittu,2012,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Kaksio,60150,580 €/kk,48 m²,rivitalo
+1472,ei sallittu,1974,ei luokiteltu,1300.00,3 huonetta,30100,650 €/kk,78 m²,luhtitalo
+1473,ei sallittu,2015,hyvä,1130 €,3 huonetta,13500,1 030 €/kk,78 m²,rivitalo
+1474,ei sallittu,2017,hyvä,1270e,Yksiö,33580,635 €/kk,"33,5 m²",kerrostalo
+1475,ei sallittu,1981,hyvä,710,Kaksio,65200,710 €/kk,60 m²,kerrostalo
+1476,ei sallittu,1981,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Yksiö,60320,575 €/kk,"32,5 m²",kerrostalo
+1477,ei sallittu,1993,hyvä,250 €,3 huonetta,40520,890 €/kk,62 m²,kerrostalo
+1478,ei sallittu,1996,hyvä,250 €,3 huonetta,40100,1 050 €/kk,72 m²,kerrostalo
+1479,ei sallittu,2014,hyvä,250 €,Yksiö,90500,645 €/kk,38 m²,kerrostalo
+1480,ei sallittu,2014,hyvä,0,Kaksio,15140,786 €/kk,51 m²,kerrostalo
+1481,ei sallittu,1997,hyvä,0,3 huonetta,02600,1 134 €/kk,77 m²,kerrostalo
+1482,ei sallittu,1991,hyvä,0,Kaksio,00980,998 €/kk,58 m²,kerrostalo
+1483,ei sallittu,1975,tyydyttävä,430 €,Yksiö,55100,430 €/kk,30 m²,kerrostalo
+1484,ei tiedossa,1952,tyydyttävä,400 ,Kaksio,78250,400 €/kk,"65,5 m²",kerrostalo
+1485,ei sallittu,2017,hyvä,540,Yksiö,90100,527 €/kk,27 m²,kerrostalo
+1486,ei sallittu,2017,hyvä,540,Yksiö,90100,527 €/kk,27 m²,kerrostalo
+1487,ei tiedossa,1908,hyvä,540,Yksiö,20100,1 704 €/kk,49 m²,kerrostalo
+1488,ei tiedossa,1908,hyvä,540,Yksiö,00810,1 406 €/kk,13 m²,kerrostalo
+1489,ei tiedossa,2013,hyvä,540,3 huonetta,20300,1 766 €/kk,72 m²,kerrostalo
+1490,ei tiedossa,1910,hyvä,540,Kaksio,20500,1 482 €/kk,45 m²,kerrostalo
+1491,ei tiedossa,2017,tyydyttävä,540,Yksiö,40100,1 001 €/kk,6 m²,kerrostalo
+1492,ei tiedossa,2015,hyvä,540,3 huonetta,20100,2 255 €/kk,63 m²,kerrostalo
+1493,ei tiedossa,2013,hyvä,540,3 huonetta,20100,2 114 €/kk,68 m²,kerrostalo
+1494,ei tiedossa,2017,hyvä,540,Kaksio,00220,2 169 €/kk,39 m²,kerrostalo
+1495,ei tiedossa,2013,hyvä,540,Kaksio,20100,1 847 €/kk,58 m²,kerrostalo
+1496,ei tiedossa,2013,hyvä,540,Kaksio,20100,1 956 €/kk,65 m²,kerrostalo
+1497,ei tiedossa,2013,hyvä,540,Kaksio,20100,1 873 €/kk,36 m²,kerrostalo
+1498,ei tiedossa,2013,hyvä,540,Yksiö,20100,1 633 €/kk,53 m²,kerrostalo
+1499,ei tiedossa,2013,hyvä,540,Kaksio,20100,1 845 €/kk,49 m²,kerrostalo
+1500,ei tiedossa,1939,välttävä,540,Yksiö,00500,1 007 €/kk,20 m²,kerrostalo
+1501,ei tiedossa,2017,hyvä,540,Yksiö,90450,1 012 €/kk,25 m²,kerrostalo
+1502,ei tiedossa,1976,ei luokiteltu,425,Kaksio,28800,425 €/kk,58 m²,kerrostalo
+1503,ei sallittu,1978,ei luokiteltu,665€,3 huonetta,26100,665 €/kk,74 m²,kerrostalo
+1504,ei tiedossa,1934,tyydyttävä,2040 ,Kaksio,00260,1 020 €/kk,"36,5 m²",kerrostalo
+1505,ei sallittu,1995,hyvä,250 €,Kaksio,33540,856 €/kk,60 m²,kerrostalo
+1506,ei sallittu,1993,hyvä,250 €,Kaksio,40520,730 €/kk,"40,5 m²",kerrostalo
+1507,ei sallittu,1936,hyvä,1900€,Kaksio,33270,950 €/kk,80 m²,omakotitalo
+1508,ei sallittu,2017,hyvä,2 kk,Yksiö,33870,490 €/kk,23 m²,kerrostalo
+1509,ei sallittu,2017,hyvä,2 kk,Yksiö,33870,490 €/kk,23 m²,kerrostalo
+1510,ei sallittu,2000,hyvä,2kk vuokra,Kaksio,28660,500 €/kk,47 m²,rivitalo
+1511,ei sallittu,1990,hyvä,1040€,Yksiö,11710,520 €/kk,31 m²,kerrostalo
+1512,ei sallittu,1990,hyvä,1040€,Yksiö,11710,520 €/kk,31 m²,kerrostalo
+1513,ei sallittu,1995,hyvä,1 kk vuokra,Kaksio,20100,730 €/kk,43 m²,kerrostalo
+1514,ei sallittu,1955,hyvä,1360,Kaksio,33540,680 €/kk,56 m²,kerrostalo
+1515,ei sallittu,1985,hyvä,1500,Kaksio,33700,750 €/kk,63 m²,kerrostalo
+1516,ei sallittu,1982,hyvä,1150,Kaksio,33470,575 €/kk,50 m²,kerrostalo
+1517,ei sallittu,1969,hyvä,Vuokravakuus 2kk,Kaksio,57100,460 €/kk,"58,5 m²",kerrostalo
+1518,ei sallittu,1965,tyydyttävä,1360,Kaksio,33500,680 €/kk,"56,5 m²",kerrostalo
+1519,ei sallittu,2014,hyvä,1406.1 €,Kaksio,53100,"703,05 €/kk",43 m²,kerrostalo
+1520,ei sallittu,1979,tyydyttävä,1640,Kaksio,02320,820 €/kk,59 m²,kerrostalo
+1521,ei sallittu,1968,hyvä,2100,Kaksio,00200,1 050 €/kk,44 m²,kerrostalo
+1522,ei sallittu,1990,hyvä,3*Vuokra,3 huonetta,15700,870 €/kk,84 m²,paritalo
+1523,ei sallittu,1975,hyvä,1 kk vuokra,Yksiö,05880,480 €/kk,30 m²,kerrostalo
+1524,ei sallittu,2011,hyvä,2 kk:n vuokran suuruinen,Yksiö,33330,"499,55 €/kk",34 m²,kerrostalo
+1525,ei sallittu,1959,hyvä,470 €,Yksiö,65100,470 €/kk,38 m²,kerrostalo
+1526,ei sallittu,1993,hyvä,580 €,Kaksio,90520,580 €/kk,62 m²,kerrostalo
+1527,ei tiedossa,1928,hyvä,1920 ,4 huonetta,67100,960 €/kk,"96,4 m²",kerrostalo
+1528,ei sallittu,2016,hyvä,2*kk,Yksiö,33580,575 €/kk,31 m²,kerrostalo
+1529,ei sallittu,2016,hyvä,2*kk,Yksiö,40530,500 €/kk,30 m²,kerrostalo
+1530,ei sallittu,1963,hyvä,1000e,4 huonetta,18130,795 €/kk,"76,3 m²",kerrostalo
+1531,ei sallittu,2017,hyvä,2kk,3 huonetta,28300,840 €/kk,67 m²,rivitalo
+1532,ei sallittu,2017,hyvä,2kk,Kaksio,28300,720 €/kk,53 m²,rivitalo
+1533,ei sallittu,2017,hyvä,Yhden kuukauden vuokra,Kaksio,90100,690 €/kk,"37,5 m²",kerrostalo
+1534,ei sallittu,2017,hyvä,Yhden kuukauden vuokra,Kaksio,90100,690 €/kk,"37,5 m²",kerrostalo
+1535,ei sallittu,2017,hyvä,1060,Yksiö,37500,495 €/kk,33 m²,kerrostalo
+1536,ei tiedossa,2017,välttävä,1060,Yksiö,06450,986 €/kk,"10,44 m²",kerrostalo
+1537,ei tiedossa,2011,tyydyttävä,1060,Yksiö,04230,901 €/kk,10 m²,omakotitalo
+1538,ei tiedossa,1946,hyvä,1060,4 huonetta,70300,2 970 €/kk,170 m²,omakotitalo
+1539,ei tiedossa,1908,hyvä,1060,Yksiö,20100,1 535 €/kk,31 m²,kerrostalo
+1540,ei tiedossa,1908,välttävä,1060,Yksiö,06450,986 €/kk,"13,15 m²",kerrostalo
+1541,ei tiedossa,1972,välttävä,1060,3 huonetta,02320,1 899 €/kk,78 m²,kerrostalo
+1542,ei tiedossa,1972,tyydyttävä,1060,Yksiö,02150,1 308 €/kk,21 m²,erillistalo
+1543,ei sallittu,1972,ei luokiteltu,1300.00,Yksiö,33330,650 €/kk,43 m²,rivitalo
+1544,ei sallittu,1972,hyvä,2kk vuokraa vastaava summa.,3 huonetta,00170,1 600 €/kk,78 m²,kerrostalo
+1545,ei sallittu,1983,hyvä,"1240,00",Yksiö,04400,620 €/kk,"30,5 m²",kerrostalo
+1546,ei sallittu,2017,hyvä,2kk,Kaksio,33900,775 €/kk,48 m²,kerrostalo
+1547,ei sallittu,1972,hyvä,1kk:n vuokran suuruinen,Yksiö,90100,550 €/kk,34 m²,kerrostalo
+1548,ei tiedossa,1972,hyvä,5600.00,5 +,01260,2 800 €/kk,360 m²,omakotitalo
+1549,ei sallittu,1963,hyvä,2kk tai 1kk+henkilötakaus,Kaksio,28100,635 €/kk,"50,5 m²",kerrostalo
+1550,ei sallittu,1963,tyydyttävä,1600 €,4 huonetta,33310,800 €/kk,87 m²,kerrostalo
+1551,ei sallittu,1963,hyvä,556 €,Kaksio,90520,"556,41 €/kk",45 m²,kerrostalo
+1552,ei sallittu,2004,hyvä,591 €,Kaksio,90520,"591,60 €/kk","57,5 m²",kerrostalo
+1553,ei sallittu,2001,hyvä,591 €,5 +,96100,1 700 €/kk,172 m²,omakotitalo
+1554,ei sallittu,2017,hyvä,1700,Kaksio,33100,850 €/kk,47 m²,kerrostalo
+1555,ei sallittu,2015,hyvä,2*kk-vuokra,Kaksio,13100,850 €/kk,"57,5 m²",kerrostalo
+1556,ei sallittu,2015,hyvä,2*kk-vuokra,Kaksio,13100,820 €/kk,"57,5 m²",kerrostalo
+1557,ei sallittu,2015,hyvä,2*kk-vuokra,Kaksio,13100,795 €/kk,51 m²,kerrostalo
+1558,ei sallittu,1997,hyvä,450 €,Yksiö,65200,450 €/kk,30 m²,kerrostalo
+1559,ei sallittu,1997,hyvä,620 €,Kaksio,90100,"620,36 €/kk","60,5 m²",kerrostalo
+1560,ei sallittu,2011,hyvä,570 €,Kaksio,90460,570 €/kk,45 m²,luhtitalo
+1561,ei tiedossa,1960,tyydyttävä,290,Yksiö,78200,290 €/kk,30 m²,kerrostalo
+1562,ei sallittu,1949,hyvä,1 kk,Yksiö,66400,360 €/kk,42 m²,kerrostalo
+1563,ei tiedossa,1949,tyydyttävä,1 kk,Kaksio,74100,1 495 €/kk,48 m²,kerrostalo
+1564,ei tiedossa,1976,tyydyttävä,1 kk,Kaksio,02760,1 386 €/kk,50 m²,kerrostalo
+1565,ei tiedossa,1972,tyydyttävä,1 kk,3 huonetta,02230,2 083 €/kk,74 m²,kerrostalo
+1566,ei tiedossa,2014,hyvä,1 kk,3 huonetta,02650,2 837 €/kk,70 m²,kerrostalo
+1567,ei tiedossa,2014,tyydyttävä,1 kk,3 huonetta,45160,1 661 €/kk,77 m²,kerrostalo
+1568,ei tiedossa,2014,hyvä,1 kk,Kaksio,33230,2 117 €/kk,45 m²,kerrostalo
+1569,ei tiedossa,2014,tyydyttävä,1 kk,4 huonetta,90130,2 170 €/kk,0 m²,kerrostalo
+1570,ei tiedossa,1954,hyvä,1 kk,Yksiö,00210,1 322 €/kk,20 m²,kerrostalo
+1571,ei sallittu,1970,hyvä,1 kk,Kaksio,01200,870 €/kk,"53,5 m²",kerrostalo
+1572,ei tiedossa,1973,tyydyttävä,1120 €,Kaksio,06400,560 €/kk,47 m²,kerrostalo
+1573,ei tiedossa,2000,hyvä,"2190,00 ",5 +,00980,2 190 €/kk,148 m²,rivitalo
+1574,ei sallittu,1991,hyvä,noin yhden kuukauden vuokra,3 huonetta,20740,632 €/kk,60 m²,kerrostalo
+1575,ei sallittu,2001,hyvä,1580 €,Yksiö,00990,790 €/kk,34 m²,kerrostalo
+1576,ei sallittu,2017,hyvä,1 kk vuokra,Yksiö,20720,663 €/kk,32 m²,kerrostalo
+1577,ei sallittu,1954,hyvä,740€,Yksiö,33540,370 €/kk,7 m²,kerrostalo
+1578,ei sallittu,1954,hyvä,740€,Yksiö,33540,370 €/kk,7 m²,kerrostalo
+1579,ei sallittu,2007,hyvä,2kk vuokra,5 +,33480,1 380 €/kk,"232,9 m²",omakotitalo
+1580,ei sallittu,1983,hyvä,2kk vuokra,Kaksio,01710,850 €/kk,52 m²,kerrostalo
+1581,ei sallittu,1998,hyvä,250,Kaksio,95450,557 €/kk,50 m²,rivitalo
+1582,ei sallittu,1998,hyvä,250,Kaksio,05810,705 €/kk,"51,5 m²",rivitalo
+1583,ei sallittu,1997,ei luokiteltu,250,4 huonetta,40500,"864,57 €/kk",86 m²,kerrostalo
+1584,ei sallittu,1991,ei luokiteltu,250,3 huonetta,40400,"814,84 €/kk",76 m²,rivitalo
+1585,ei sallittu,1997,hyvä,250,Yksiö,05830,636 €/kk,45 m²,kerrostalo
+1586,ei sallittu,1968,hyvä,1000 €,Kaksio,40740,580 €/kk,46 m²,kerrostalo
+1587,ei tiedossa,2016,hyvä,1400.00,Kaksio,05800,700 €/kk,"44,5 m²",kerrostalo
+1588,ei tiedossa,1972,tyydyttävä,720.00,Yksiö,28610,360 €/kk,30 m²,kerrostalo
+1589,ei tiedossa,1962,tyydyttävä,1280.00,Kaksio,05830,640 €/kk,59 m²,kerrostalo
+1590,ei sallittu,1974,hyvä,sopimuksen mukaan,4 huonetta,40100,950 €/kk,83 m²,kerrostalo
+1591,ei sallittu,1974,hyvä,250,Kaksio,08100,709 €/kk,"58,5 m²",kerrostalo
+1592,ei sallittu,1975,hyvä,250,3 huonetta,70340,738 €/kk,"70,5 m²",kerrostalo
+1593,ei sallittu,2007,hyvä,250.00,Kaksio,15700,697 €/kk,"47,5 m²",kerrostalo
+1594,ei sallittu,1996,ei luokiteltu,250.00,Kaksio,40800,"733,81 €/kk",60 m²,rivitalo
+1595,ei sallittu,2017,hyvä,"455,00 e",Yksiö,90570,455 €/kk,"21,5 m²",kerrostalo
+1596,ei sallittu,2017,hyvä,"455,00 e",Yksiö,90570,455 €/kk,"21,5 m²",kerrostalo
+1597,ei sallittu,1970,hyvä,"586,12 e",Kaksio,70500,"586,12 €/kk",53 m²,kerrostalo
+1598,ei sallittu,2018,ei luokiteltu,500.00,Yksiö,33960,500 €/kk,28 m²,kerrostalo
+1599,ei sallittu,2018,ei luokiteltu,490.00,Yksiö,33960,490 €/kk,28 m²,kerrostalo
+1600,ei sallittu,2018,ei luokiteltu,640.00,Kaksio,33960,640 €/kk,42 m²,kerrostalo
+1601,ei sallittu,2018,ei luokiteltu,820.00,3 huonetta,33960,820 €/kk,60 m²,kerrostalo
+1602,ei sallittu,2018,ei luokiteltu,490.00,Yksiö,33960,490 €/kk,28 m²,kerrostalo
+1603,ei sallittu,2018,ei luokiteltu,690.00,Kaksio,33960,690 €/kk,47 m²,kerrostalo
+1604,ei sallittu,2018,ei luokiteltu,660.00,Kaksio,33960,660 €/kk,44 m²,kerrostalo
+1605,ei sallittu,2018,ei luokiteltu,520.00,Yksiö,33960,520 €/kk,"30,5 m²",kerrostalo
+1606,ei sallittu,2018,ei luokiteltu,520.00,Yksiö,33960,520 €/kk,"30,5 m²",kerrostalo
+1607,ei sallittu,2018,ei luokiteltu,820.00,3 huonetta,33960,820 €/kk,60 m²,kerrostalo
+1608,ei sallittu,2018,ei luokiteltu,640.00,Kaksio,33960,640 €/kk,42 m²,kerrostalo
+1609,ei sallittu,2018,ei luokiteltu,660.00,Kaksio,33960,660 €/kk,44 m²,kerrostalo
+1610,ei sallittu,2018,ei luokiteltu,490.00,Yksiö,33960,490 €/kk,28 m²,kerrostalo
+1611,ei sallittu,2018,ei luokiteltu,820.00,3 huonetta,33960,820 €/kk,60 m²,kerrostalo
+1612,ei sallittu,2018,ei luokiteltu,660.00,Kaksio,33960,660 €/kk,44 m²,kerrostalo
+1613,ei sallittu,2018,ei luokiteltu,640.00,Kaksio,33960,640 €/kk,42 m²,kerrostalo
+1614,ei sallittu,2018,ei luokiteltu,690.00,Kaksio,33960,690 €/kk,47 m²,kerrostalo
+1615,ei sallittu,2018,ei luokiteltu,520.00,Yksiö,33960,520 €/kk,"30,5 m²",kerrostalo
+1616,ei sallittu,2018,ei luokiteltu,490.00,Yksiö,33960,490 €/kk,28 m²,kerrostalo
+1617,ei tiedossa,2001,hyvä,1-2kk,3 huonetta,44800,700 €/kk,150 m²,omakotitalo
+1618,ei tiedossa,2011,hyvä,647.36,Kaksio,33950,"647,36 €/kk","46,5 m²",kerrostalo
+1619,ei tiedossa,1984,hyvä,300.00,Yksiö,31130,300 €/kk,37 m²,rivitalo
+1620,ei tiedossa,1968,hyvä,1380.00,Kaksio,05800,690 €/kk,"49,5 m²",kerrostalo
+1621,ei tiedossa,1984,hyvä,490.00,Kaksio,76120,490 €/kk,52 m²,kerrostalo
+1622,ei tiedossa,2004,hyvä,1600.00,Kaksio,05800,800 €/kk,63 m²,kerrostalo
+1623,ei tiedossa,1976,hyvä,.00,Kaksio,58500,415 €/kk,50 m²,kerrostalo
+1624,ei tiedossa,1992,hyvä,450.00,Yksiö,30420,450 €/kk,40 m²,kerrostalo
+1625,ei sallittu,2013,hyvä,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,Kaksio,60100,590 €/kk,"37,5 m²",kerrostalo
+1626,ei sallittu,1926,hyvä,5800,5 +,00100,2 600 €/kk,144 m²,kerrostalo
+1627,ei sallittu,1993,hyvä,895 €,3 huonetta,13500,895 €/kk,70 m²,kerrostalo
+1628,ei sallittu,1993,hyvä,605 €,Kaksio,90100,"605,27 €/kk","58,5 m²",kerrostalo
+1629,ei tiedossa,2003,hyvä,995,Kaksio,00350,995 €/kk,48 m²,kerrostalo
+1630,ei tiedossa,1970,hyvä,590.00,Kaksio,55100,590 €/kk,"52,5 m²",paritalo
+1631,ei tiedossa,2011,hyvä,820.00,3 huonetta,95400,820 €/kk,74 m²,kerrostalo
+1632,ei tiedossa,2017,hyvä,730.00,Kaksio,96100,730 €/kk,49 m²,kerrostalo
+1633,ei tiedossa,1970,tyydyttävä,425.00,Yksiö,55100,425 €/kk,32 m²,kerrostalo
+1634,ei tiedossa,1964,hyvä,1080.00,Kaksio,57510,540 €/kk,47 m²,kerrostalo
+1635,ei tiedossa,1957,tyydyttävä,570.00,Yksiö,30100,285 €/kk,"25,5 m²",kerrostalo
+1636,ei tiedossa,1986,hyvä,582.00,3 huonetta,16200,582 €/kk,"79,5 m²",paritalo
+1637,ei tiedossa,1985,tyydyttävä,1580.00,Kaksio,02650,790 €/kk,"51,5 m²",kerrostalo
+1638,ei sallittu,1998,hyvä,1kk:n vuokran suuruinen,3 huonetta,90820,700 €/kk,72 m²,rivitalo
+1639,ei tiedossa,1963,ei luokiteltu,1260.00e,Kaksio,21500,630 €/kk,77 m²,kerrostalo
+1640,ei sallittu,1963,hyvä,0,Yksiö,74130,422 €/kk,"33,5 m²",rivitalo
+1641,ei sallittu,1963,hyvä,0,Kaksio,03620,"615,80 €/kk",62 m²,kerrostalo
+1642,ei sallittu,1997,hyvä,0,Kaksio,90900,585 €/kk,"50,5 m²",kerrostalo
+1643,ei tiedossa,1986,hyvä,700,3 huonetta,33340,"732,61 €/kk","70,5 m²",kerrostalo
+1644,ei sallittu,1996,hyvä,700,Kaksio,21530,"680,41 €/kk",68 m²,rivitalo
+1645,ei sallittu,1996,hyvä,700,4 huonetta,21530,"736,25 €/kk",92 m²,kerrostalo
+1646,ei sallittu,1998,ei luokiteltu,"700,00 €",3 huonetta,90800,"786,50 €/kk","71,5 m²",luhtitalo
+1647,ei sallittu,2002,ei luokiteltu,3 kk,Kaksio,02940,850 €/kk,58 m²,luhtitalo
+1648,ei sallittu,1927,tyydyttävä,2 kk: n vuokra,Yksiö,33240,570 €/kk,31 m²,kerrostalo
+1649,ei sallittu,1996,hyvä,2 kk vuokraa vastaava summa,3 huonetta,00180,"1666,96 €/kk","78,5 m²",kerrostalo
+1650,ei sallittu,2018,hyvä,1 kk pankkitalletus + 2 kk hlötakaus,Kaksio,60200,620 €/kk,"44,5 m²",kerrostalo
+1651,ei sallittu,1978,hyvä,1kk,3 huonetta,02130,1 132 €/kk,"56,5 m²",kerrostalo
+1652,ei tiedossa,1984,hyvä,1400 ,Kaksio,48100,700 €/kk,"56,5 m²",kerrostalo
+1653,ei tiedossa,2006,hyvä,2380.00,3 huonetta,02320,1 190 €/kk,"72,5 m²",kerrostalo
+1654,ei tiedossa,1982,hyvä,1800.00,Kaksio,01300,900 €/kk,"60,5 m²",kerrostalo
+1655,ei tiedossa,2012,hyvä,1550.00,Yksiö,06100,775 €/kk,43 m²,kerrostalo
+1656,ei tiedossa,2007,hyvä,1680.00,Kaksio,02320,840 €/kk,"44,5 m²",kerrostalo
+1657,ei sallittu,1959,hyvä,680,3 huonetta,28130,680 €/kk,58 m²,kerrostalo
+1658,ei sallittu,1962,hyvä,730.00,3 huonetta,91900,730 €/kk,73 m²,rivitalo
+1659,ei sallittu,1962,hyvä,605 €,Kaksio,90100,"605,27 €/kk","58,5 m²",kerrostalo
+1660,ei sallittu,1945,tyydyttävä,1780 €,3 huonetta,06100,890 €/kk,75 m²,omakotitalo
+1661,ei sallittu,1984,hyvä,"500,00 €",3 huonetta,15210,"819,53 €/kk",72 m²,kerrostalo
+1662,ei sallittu,1984,ei luokiteltu,"455,00 e",Yksiö,15170,455 €/kk,"31,5 m²",kerrostalo
+1663,ei sallittu,1978,hyvä,"470,00 e",Yksiö,40340,470 €/kk,33 m²,kerrostalo
+1664,ei sallittu,1951,hyvä,"1900,00",4 huonetta,15270,950 €/kk,172 m²,omakotitalo
+1665,ei sallittu,2016,hyvä,1kk tai 350 € väh. vuoden sopimus,3 huonetta,04410,960 €/kk,63 m²,kerrostalo
+1666,ei sallittu,2014,hyvä,1 kk tai 350e (väh. 1v./sop.sakko),Kaksio,20300,675 €/kk,44 m²,kerrostalo
+1667,ei sallittu,1913,hyvä,2 kk:n vuokra,Kaksio,00100,1 400 €/kk,"50,5 m²",kerrostalo
+1668,ei sallittu,1998,hyvä,"665,00",Yksiö,20810,665 €/kk,45 m²,kerrostalo
+1669,ei sallittu,1998,hyvä,"910,00",3 huonetta,20810,910 €/kk,73 m²,kerrostalo
+1670,ei sallittu,1920,hyvä,1200,Kaksio,20810,600 €/kk,55 m²,puutalo-osake
+1671,ei sallittu,1973,hyvä,2kk,Yksiö,11130,450 €/kk,30 m²,kerrostalo
+1672,ei tiedossa,1978,hyvä,690.00,3 huonetta,65370,690 €/kk,"76,5 m²",kerrostalo
+1673,ei tiedossa,1958,tyydyttävä,570.00,Yksiö,30100,285 €/kk,25 m²,kerrostalo
+1674,ei tiedossa,1987,tyydyttävä,1040.00,Kaksio,20460,520 €/kk,42 m²,kerrostalo
+1675,ei tiedossa,1993,hyvä,2500.00,3 huonetta,02660,1 250 €/kk,63 m²,paritalo
+1676,ei tiedossa,1981,hyvä,4780.00,5 +,00930,2 390 €/kk,316 m²,omakotitalo
+1677,ei tiedossa,1963,hyvä,2380.00,3 huonetta,02200,1 190 €/kk,"71,5 m²",kerrostalo
+1678,ei tiedossa,1945,tyydyttävä,2120.00,4 huonetta,33230,1 060 €/kk,102 m²,kerrostalo
+1679,ei sallittu,2007,hyvä,2kk,Kaksio,28660,695 €/kk,56 m²,rivitalo
+1680,ei sallittu,2007,hyvä,1240.00,3 huonetta,28400,620 €/kk,74 m²,kerrostalo
+1681,ei sallittu,2007,ei luokiteltu,395.00,Yksiö,67100,395 €/kk,35 m²,kerrostalo
+1682,ei sallittu,2007,hyvä,790 €,3 huonetta,07900,790 €/kk,73 m²,kerrostalo
+1683,ei sallittu,1977,hyvä,1 kk:n vuokraa vastaava,3 huonetta,00520,1 080 €/kk,35 m²,kerrostalo
+1684,ei tiedossa,1968,hyvä,"700,00",4 huonetta,20320,"976,03 €/kk",87 m²,kerrostalo
+1685,ei sallittu,1968,hyvä,0,Kaksio,02760,769 €/kk,"47,5 m²",kerrostalo
+1686,ei tiedossa,2014,hyvä,2kk vuokra,Kaksio,40100,900 €/kk,59 m²,kerrostalo
+1687,ei sallittu,1984,tyydyttävä,650 €,Yksiö,70100,650 €/kk,35 m²,kerrostalo
+1688,ei sallittu,2005,hyvä,3900 €,3 huonetta,20810,1 950 €/kk,128 m²,kerrostalo
+1689,ei sallittu,1978,hyvä,1 kk pankkitalletus + 2 kk hlötakaus,Kaksio,60220,550 €/kk,52 m²,luhtitalo
+1690,ei sallittu,1951,ei luokiteltu,1kk pankkitalletus sekä 1-2 henkilön omavelkainen,4 huonetta,61330,660 €/kk,100 m²,omakotitalo
+1691,ei sallittu,2017,hyvä,"600,00 e +laaja kotivakuutus",Yksiö,80100,600 €/kk,24 m²,kerrostalo
+1692,ei sallittu,2017,hyvä,"620,00 e +laaja kotivakauutus",Yksiö,80100,620 €/kk,26 m²,kerrostalo
+1693,ei sallittu,1965,hyvä,250 €,Kaksio,01370,893 €/kk,53 m²,kerrostalo
+1694,ei sallittu,1973,hyvä,250 €,Kaksio,01200,920 €/kk,61 m²,kerrostalo
+1695,ei sallittu,2017,ei luokiteltu,495.00,Yksiö,13100,495 €/kk,25 m²,kerrostalo
+1696,ei sallittu,1976,tyydyttävä,670 e (1 kk),3 huonetta,48600,670 €/kk,67 m²,kerrostalo
+1697,ei sallittu,1998,hyvä,"945,00",3 huonetta,20810,945 €/kk,71 m²,kerrostalo
+1698,ei sallittu,1998,hyvä,590 €,Yksiö,70500,590 €/kk,43 m²,kerrostalo
+1699,ei sallittu,2017,hyvä,1 kk pankkitalletus + 2 kk hlötakaus,Kaksio,60100,695 €/kk,54 m²,kerrostalo
+1700,ei sallittu,1975,tyydyttävä,1300,Kaksio,70460,650 €/kk,50 m²,kerrostalo
+1701,ei tiedossa,1957,hyvä,1700.00,3 huonetta,15140,850 €/kk,74 m²,kerrostalo
+1702,ei tiedossa,1989,hyvä,1520.00,Kaksio,02770,760 €/kk,"51,5 m²",kerrostalo
+1703,ei sallittu,1989,hyvä,0.00,Kaksio,65100,690 €/kk,"65,5 m²",kerrostalo
+1704,ei tiedossa,1989,ei luokiteltu,740.00,4 huonetta,40820,740 €/kk,"87,5 m²",kerrostalo
+1705,ei sallittu,1989,hyvä,1kk:n vuokran suuruinen,Yksiö,90230,505 €/kk,37 m²,luhtitalo
+1706,ei sallittu,2016,hyvä,1kk:n vuokran suuruinen,Yksiö,04410,610 €/kk,28 m²,luhtitalo
+1707,ei sallittu,2014,hyvä,750 €,3 huonetta,38200,750 €/kk,66 m²,kerrostalo
+1708,ei tiedossa,2015,ei luokiteltu,1310.00e,Yksiö,20520,655 €/kk,"36,5 m²",kerrostalo
+1709,ei sallittu,2007,hyvä,noin yhden kuukauden vuokra,Kaksio,33720,"630,12 €/kk",45 m²,kerrostalo
+1710,ei sallittu,1995,hyvä,844.19,3 huonetta,33330,"844,19 €/kk","71,5 m²",kerrostalo
+1711,ei sallittu,1958,hyvä,844.19,3 huonetta,02100,1 166 €/kk,65 m²,kerrostalo
+1712,ei tiedossa,1968,hyvä,2kk,4 huonetta,57210,1 100 €/kk,100 m²,rivitalo
+1713,ei sallittu,1989,hyvä,800 €,4 huonetta,95410,800 €/kk,94 m²,rivitalo
+1714,ei sallittu,2017,hyvä,898,Kaksio,02210,898 €/kk,42 m²,kerrostalo
+1715,ei tiedossa,1967,tyydyttävä,2kk vuokraa vastaava summa,Kaksio,28100,650 €/kk,52 m²,kerrostalo
+1716,ei sallittu,1969,hyvä,250 €,3 huonetta,01300,942 €/kk,"70,5 m²",kerrostalo
+1717,ei sallittu,1973,hyvä,250 €,Kaksio,02320,925 €/kk,62 m²,kerrostalo
+1718,ei sallittu,1992,hyvä,250 €,Yksiö,01300,845 €/kk,40 m²,kerrostalo
+1719,ei sallittu,1973,hyvä,250 €,3 huonetta,02320,1 104 €/kk,82 m²,kerrostalo
+1720,ei sallittu,1992,hyvä,250 €,Kaksio,01300,866 €/kk,50 m²,kerrostalo
+1721,ei sallittu,1992,hyvä,250 €,Yksiö,01300,838 €/kk,40 m²,kerrostalo
+1722,ei sallittu,1971,hyvä,250 €,Kaksio,02360,935 €/kk,62 m²,kerrostalo
+1723,ei sallittu,1973,hyvä,2 kk:n vuokra,3 huonetta,01600,1 070 €/kk,"68,5 m²",kerrostalo
+1724,ei sallittu,2001,ei luokiteltu,"1.100,00 e",4 huonetta,15610,1 100 €/kk,90 m²,rivitalo
+1725,ei sallittu,2013,hyvä,2 kk vuokraa vastaava summa,3 huonetta,00880,"1308,82 €/kk",74 m²,kerrostalo
+1726,ei sallittu,2017,hyvä,893,Kaksio,02210,893 €/kk,42 m²,kerrostalo
+1727,ei tiedossa,1998,hyvä,895,3 huonetta,53130,895 €/kk,73 m²,kerrostalo
+1728,ei sallittu,2017,hyvä,903,Kaksio,02210,903 €/kk,42 m²,kerrostalo
+1729,ei sallittu,1967,hyvä,"1120 €, 2 kk vuokraa vastaava summa.",Kaksio,40320,560 €/kk,39 m²,kerrostalo
+1730,ei sallittu,1952,hyvä,1900 €,Kaksio,00200,950 €/kk,52 m²,kerrostalo
+1731,ei sallittu,1959,hyvä,1900 €,3 huonetta,00400,1 150 €/kk,64 m²,kerrostalo
+1732,ei tiedossa,1954,hyvä,1150,Yksiö,28120,575 €/kk,"35,5 m²",kerrostalo
+1733,sallittu,1995,tyydyttävä,0.00,4 huonetta,00970,"1386,99 €/kk",99 m²,kerrostalo
+1734,ei sallittu,1967,hyvä,"304,85",Yksiö,16900,"304,85 €/kk",31 m²,kerrostalo
+1735,ei sallittu,2011,hyvä,250 €,3 huonetta,01530,1 181 €/kk,70 m²,kerrostalo
+1736,ei sallittu,1978,hyvä,250 €,3 huonetta,04300,898 €/kk,"74,5 m²",kerrostalo
+1737,ei sallittu,2011,hyvä,250 €,Kaksio,01530,946 €/kk,48 m²,kerrostalo
+1738,ei sallittu,2011,hyvä,250 €,Kaksio,01530,982 €/kk,"51,5 m²",kerrostalo
+1739,ei sallittu,2011,hyvä,250 €,Kaksio,01530,956 €/kk,57 m²,kerrostalo
+1740,ei sallittu,1996,hyvä,250 €,Kaksio,01510,889 €/kk,54 m²,kerrostalo
+1741,ei sallittu,1972,hyvä,250 €,Kaksio,02700,1 188 €/kk,58 m²,kerrostalo
+1742,ei sallittu,1987,hyvä,"593,40",3 huonetta,14700,"593,40 €/kk",71 m²,rivitalo
+1743,ei sallittu,2014,hyvä,875 €,4 huonetta,36200,875 €/kk,86 m²,rivitalo
+1744,ei sallittu,1910,ei luokiteltu,608.00,Yksiö,90100,608 €/kk,"41,5 m²",kerrostalo
+1745,ei sallittu,2007,hyvä,2 kk:n vuokra,Kaksio,01450,780 €/kk,46 m²,kerrostalo
+1746,ei sallittu,1965,hyvä,2kk rahavakuus,Yksiö,33530,460 €/kk,"26,5 m²",kerrostalo
+1747,ei sallittu,1978,hyvä,2 kk:n vuokra,Kaksio,00750,850 €/kk,60 m²,kerrostalo
+1748,ei sallittu,1992,hyvä,0,Kaksio,15100,750 €/kk,"59,5 m²",kerrostalo
+1749,ei sallittu,2016,hyvä,"1598,00 €",3 huonetta,15210,799 €/kk,68 m²,kerrostalo
+1750,ei sallittu,1962,ei luokiteltu,"1190,00 €",Kaksio,15140,595 €/kk,"52,5 m²",kerrostalo
+1751,ei sallittu,1984,hyvä,1080,Kaksio,61300,540 €/kk,60 m²,rivitalo
+1752,ei sallittu,1998,hyvä,noin yhden kuukauden vuokra,Kaksio,20360,630 €/kk,"62,5 m²",luhtitalo
+1753,ei tiedossa,1958,hyvä,1300.00,Kaksio,20720,650 €/kk,45 m²,kerrostalo
+1754,ei tiedossa,1972,hyvä,310.00,Yksiö,30300,310 €/kk,30 m²,kerrostalo
+1755,ei tiedossa,1966,hyvä,1300.00,Kaksio,57100,650 €/kk,53 m²,luhtitalo
+1756,ei sallittu,2017,hyvä,1200 €,Yksiö,33540,600 €/kk,"32,5 m²",kerrostalo
+1757,ei tiedossa,1987,hyvä,1794.00,Yksiö,00930,897 €/kk,"49,5 m²",kerrostalo
+1758,ei tiedossa,2015,hyvä,2500.00,3 huonetta,00790,1 250 €/kk,66 m²,kerrostalo
+1759,ei tiedossa,2007,hyvä,2500.00,5 +,02180,1 950 €/kk,133 m²,paritalo
+1760,ei tiedossa,1984,hyvä,1580.00,Kaksio,04410,790 €/kk,"57,5 m²",kerrostalo
+1761,ei sallittu,2015,hyvä,1180.00,Yksiö,20300,590 €/kk,28 m²,kerrostalo
+1762,ei sallittu,1973,ei luokiteltu,1000.00,Yksiö,20720,500 €/kk,30 m²,kerrostalo
+1763,ei sallittu,1968,tyydyttävä,720.00,Yksiö,15860,360 €/kk,31 m²,kerrostalo
+1764,ei sallittu,1985,hyvä,960.00,Yksiö,28100,480 €/kk,29 m²,kerrostalo
+1765,ei sallittu,1981,hyvä,650.00,3 huonetta,67800,650 €/kk,78 m²,kerrostalo
+1766,ei tiedossa,1974,ei luokiteltu,930.00e,Kaksio,21110,465 €/kk,42 m²,kerrostalo
+1767,ei sallittu,1972,hyvä,930.00e,3 huonetta,01600,1 119 €/kk,71 m²,kerrostalo
+1768,ei sallittu,2017,hyvä,921,Kaksio,02210,921 €/kk,45 m²,kerrostalo
+1769,ei tiedossa,1976,ei luokiteltu,921,Kaksio,00750,810 €/kk,52 m²,kerrostalo
+1770,ei sallittu,2017,hyvä,898,Kaksio,02210,898 €/kk,42 m²,kerrostalo
+1771,ei sallittu,2017,välttävä,"600,00 e",Kaksio,90590,600 €/kk,40 m²,kerrostalo
+1772,ei sallittu,1900,tyydyttävä,"570,00 e",Yksiö,33200,285 €/kk,8 m²,kerrostalo
+1773,ei sallittu,1964,hyvä,"570,00 e",Kaksio,00370,940 €/kk,50 m²,kerrostalo
+1774,ei sallittu,1970,hyvä,"570,00 e",Kaksio,01200,870 €/kk,"53,5 m²",kerrostalo
+1775,ei sallittu,2017,hyvä,2kk:n vuokraa vastaava summa,Kaksio,40520,750 €/kk,"45,5 m²",kerrostalo
+1776,ei sallittu,2012,hyvä,1kk/350€,Kaksio,01350,959 €/kk,60 m²,kerrostalo
+1777,ei sallittu,2010,hyvä,1kk,3 huonetta,00790,1 347 €/kk,"74,5 m²",kerrostalo
+1778,ei sallittu,2017,hyvä,520 €,Yksiö,92100,520 €/kk,"30,5 m²",kerrostalo
+1779,ei tiedossa,2013,hyvä,895 €,Kaksio,01510,895 €/kk,49 m²,kerrostalo
+1780,ei sallittu,1967,hyvä,450,Yksiö,00940,400 €/kk,14 m²,kerrostalo
+1781,ei sallittu,1976,ei luokiteltu,1.180,Yksiö,02780,590 €/kk,33 m²,kerrostalo
+1782,ei sallittu,1973,hyvä,840.00,Yksiö,60100,420 €/kk,23 m²,kerrostalo
+1783,ei sallittu,1932,hyvä,3200.00,3 huonetta,00100,1 600 €/kk,"90,5 m²",kerrostalo
+1784,ei sallittu,2015,hyvä,1kk:n vuokran suuruinen,Kaksio,90100,890 €/kk,"56,5 m²",kerrostalo
+1785,ei sallittu,2015,hyvä,1kk:n vuokran suuruinen,3 huonetta,90100,950 €/kk,"69,5 m²",kerrostalo
+1786,ei sallittu,1981,hyvä,1kk:n vuokran suuruinen,Kaksio,00240,970 €/kk,51 m²,kerrostalo
+1787,ei sallittu,1988,hyvä,1kk:n vuokran suuruinen,Kaksio,02200,993 €/kk,"57,5 m²",kerrostalo
+1788,ei sallittu,1990,hyvä,1kk:n vuokran suuruinen,Kaksio,00720,985 €/kk,59 m²,kerrostalo
+1789,ei sallittu,1971,hyvä,1kk:n vuokran suuruinen,3 huonetta,01600,1 195 €/kk,68 m²,kerrostalo
+1790,ei sallittu,1987,hyvä,"911,05",3 huonetta,13500,"911,05 €/kk","68,5 m²",kerrostalo
+1791,ei sallittu,1984,tyydyttävä,"750,70",3 huonetta,13250,"750,70 €/kk",78 m²,kerrostalo
+1792,ei sallittu,1990,hyvä,"787,47",3 huonetta,13250,"787,47 €/kk",77 m²,kerrostalo
+1793,ei sallittu,2013,hyvä,"1073,38",3 huonetta,13500,"1073,38 €/kk","77,5 m²",rivitalo
+1794,ei sallittu,1985,hyvä,"614,62",Kaksio,13250,"614,62 €/kk",60 m²,kerrostalo
+1795,ei sallittu,2003,ei luokiteltu,"700,00 €",3 huonetta,90420,"713,30 €/kk","73,5 m²",kerrostalo
+1796,ei sallittu,1998,hyvä,250 €,3 huonetta,01640,1 046 €/kk,68 m²,kerrostalo
+1797,ei sallittu,1985,hyvä,250 €,Kaksio,01360,922 €/kk,"55,5 m²",kerrostalo
+1798,ei sallittu,1972,hyvä,250 €,Kaksio,01620,889 €/kk,58 m²,kerrostalo
+1799,ei sallittu,2002,hyvä,250 €,Kaksio,01510,958 €/kk,51 m²,kerrostalo
+1800,ei sallittu,2012,hyvä,250 €,Kaksio,00790,1 039 €/kk,54 m²,kerrostalo
+1801,ei sallittu,2001,hyvä,250 €,3 huonetta,00810,1 307 €/kk,74 m²,kerrostalo
+1802,ei sallittu,2011,hyvä,250 €,Kaksio,00920,1 068 €/kk,"56,5 m²",kerrostalo
+1803,ei sallittu,2011,hyvä,250 €,3 huonetta,00920,1 215 €/kk,"68,5 m²",kerrostalo
+1804,ei sallittu,1999,hyvä,250 €,Yksiö,01620,910 €/kk,40 m²,kerrostalo
+1805,ei sallittu,1985,hyvä,250 €,Kaksio,01360,915 €/kk,"54,5 m²",kerrostalo
+1806,ei sallittu,1972,hyvä,250 €,Kaksio,01360,852 €/kk,61 m²,kerrostalo
+1807,ei sallittu,1971,hyvä,250 €,Kaksio,01360,890 €/kk,60 m²,kerrostalo
+1808,ei sallittu,1971,hyvä,250 €,Kaksio,01360,893 €/kk,60 m²,kerrostalo
+1809,ei sallittu,1988,hyvä,"778,22",3 huonetta,16900,"778,22 €/kk",69 m²,rivitalo
+1810,ei sallittu,1988,hyvä,"952,02",4 huonetta,16900,"952,02 €/kk",88 m²,rivitalo
+1811,ei sallittu,2017,ei luokiteltu,741.00,Kaksio,04230,741 €/kk,46 m²,kerrostalo
+1812,ei sallittu,2017,ei luokiteltu,712.00,Kaksio,04230,712 €/kk,43 m²,kerrostalo
+1813,ei sallittu,2017,ei luokiteltu,664.00,Kaksio,04220,664 €/kk,"39,5 m²",kerrostalo
+1814,ei sallittu,2017,ei luokiteltu,641.00,Yksiö,04220,641 €/kk,"32,5 m²",kerrostalo
+1815,ei sallittu,1994,ei luokiteltu,892.00,3 huonetta,40520,892 €/kk,74 m²,kerrostalo
+1816,ei sallittu,2017,ei luokiteltu,735.00,Kaksio,04230,735 €/kk,44 m²,kerrostalo
+1817,ei sallittu,2017,ei luokiteltu,958.00,3 huonetta,04230,958 €/kk,64 m²,kerrostalo
+1818,ei sallittu,2017,ei luokiteltu,725.00,Kaksio,04410,725 €/kk,36 m²,kerrostalo
+1819,ei sallittu,1996,ei luokiteltu,775.00,Kaksio,40100,775 €/kk,"52,5 m²",kerrostalo
+1820,ei sallittu,2017,hyvä,1kk/350€,3 huonetta,01300,1 010 €/kk,"60,5 m²",kerrostalo
+1821,ei tiedossa,2017,tyydyttävä,1780.00,Kaksio,00530,890 €/kk,41 m²,kerrostalo
+1822,ei tiedossa,1979,hyvä,694.00,Yksiö,18130,347 €/kk,35 m²,kerrostalo
+1823,ei sallittu,1979,hyvä,1400.00,Yksiö,02650,700 €/kk,33 m²,kerrostalo
+1824,ei sallittu,1966,hyvä,1060,Yksiö,40320,530 €/kk,29 m²,kerrostalo
+1825,ei sallittu,1969,hyvä,1500 €,4 huonetta,60510,750 €/kk,88 m²,kerrostalo
+1826,ei sallittu,1979,hyvä,1500 €,3 huonetta,33720,888 €/kk,74 m²,kerrostalo
+1827,ei sallittu,2011,hyvä,1500 €,3 huonetta,33900,975 €/kk,70 m²,kerrostalo
+1828,ei tiedossa,1957,hyvä,1380 ,Kaksio,11100,690 €/kk,59 m²,kerrostalo
+1829,ei sallittu,1988,hyvä,"662,54",Kaksio,16900,"662,54 €/kk",57 m²,rivitalo
+1830,ei sallittu,2017,hyvä,670,Kaksio,33710,670 €/kk,46 m²,kerrostalo
+1831,ei sallittu,2017,hyvä,685,Kaksio,33710,685 €/kk,45 m²,kerrostalo
+1832,ei sallittu,2013,hyvä,250 €,Kaksio,00580,1 058 €/kk,39 m²,kerrostalo
+1833,ei sallittu,2013,hyvä,"500,00 e + Henkilötakaus",Yksiö,80400,500 €/kk,"33,5 m²",kerrostalo
+1834,ei sallittu,2013,hyvä,1kk,Yksiö,90120,595 €/kk,35 m²,kerrostalo
+1835,ei sallittu,1972,hyvä,1kk,3 huonetta,33310,805 €/kk,73 m²,kerrostalo
+1836,ei sallittu,1973,hyvä,1kk,3 huonetta,33410,795 €/kk,"79,5 m²",kerrostalo
+1837,ei sallittu,1976,hyvä,1kk,3 huonetta,33720,773 €/kk,70 m²,kerrostalo
+1838,ei sallittu,1979,hyvä,1kk,3 huonetta,33720,789 €/kk,"70,5 m²",kerrostalo
+1839,ei sallittu,2017,hyvä,2kk:n vuokraa vastaava summa,Yksiö,40270,510 €/kk,25 m²,kerrostalo
+1840,ei sallittu,2017,hyvä,2kk:n vuokraa vastaava summa,Yksiö,40270,475 €/kk,26 m²,kerrostalo
+1841,ei sallittu,2017,hyvä,"1kk vuokra, yrityksille 3kk",3 huonetta,06100,945 €/kk,58 m²,kerrostalo
+1842,ei sallittu,2017,hyvä,2kk:n vuokraa vastaava summa,Yksiö,40100,610 €/kk,"32,5 m²",kerrostalo
+1843,ei sallittu,2017,hyvä,"1kk vuokra, yrityksille 3kk",3 huonetta,06100,980 €/kk,"66,5 m²",kerrostalo
+1844,ei sallittu,2017,hyvä,295 €,Yksiö,38701,295 €/kk,31 m²,rivitalo
+1845,ei sallittu,2017,hyvä,1280 €,Yksiö,33900,640 €/kk,32 m²,kerrostalo
+1846,ei sallittu,2016,hyvä,2kk,Kaksio,01700,820 €/kk,"43,5 m²",kerrostalo
+1847,ei tiedossa,1970,tyydyttävä,2kk,Kaksio,33900,1 455 €/kk,62 m²,kerrostalo
+1848,ei tiedossa,1970,tyydyttävä,2kk,5 +,53100,2 195 €/kk,90 m²,kerrostalo
+1849,ei tiedossa,2017,tyydyttävä,2kk,Yksiö,40100,1 489 €/kk,11 m²,kerrostalo
+1850,ei tiedossa,1954,hyvä,2kk,Yksiö,00210,1 541 €/kk,24 m²,kerrostalo
+1851,ei tiedossa,2017,tyydyttävä,2kk,Yksiö,40100,1 001 €/kk,5 m²,kerrostalo
+1852,ei tiedossa,1984,tyydyttävä,2kk,Yksiö,01530,1 135 €/kk,10 m²,kerrostalo
+1853,ei sallittu,1963,hyvä,2kk,3 huonetta,33200,1 076 €/kk,76 m²,kerrostalo
+1854,ei sallittu,1975,hyvä,1 kk vuokra,Kaksio,78850,425 €/kk,48 m²,kerrostalo
+1855,ei sallittu,1938,hyvä,250 €,Kaksio,00180,1 416 €/kk,48 m²,kerrostalo
+1856,ei sallittu,1995,hyvä,250 €,Kaksio,20100,794 €/kk,"42,5 m²",kerrostalo
+1857,ei sallittu,1954,hyvä,250 €,Yksiö,33210,620 €/kk,38 m²,kerrostalo
+1858,ei sallittu,1954,hyvä,250 €,Yksiö,33210,599 €/kk,29 m²,kerrostalo
+1859,ei sallittu,1976,hyvä,250 €,Kaksio,20100,690 €/kk,51 m²,kerrostalo
+1860,ei sallittu,1994,hyvä,250 €,3 huonetta,20100,965 €/kk,81 m²,kerrostalo
+1861,ei tiedossa,1975,hyvä,1700.00,Kaksio,00520,850 €/kk,"46,5 m²",kerrostalo
+1862,ei tiedossa,1983,hyvä,1300.00,Yksiö,04410,650 €/kk,37 m²,kerrostalo
+1863,ei sallittu,1956,hyvä,1kk,Kaksio,00820,879 €/kk,"51,5 m²",kerrostalo
+1864,ei tiedossa,1998,hyvä,"2680,00 ",4 huonetta,01350,1 340 €/kk,91 m²,rivitalo
+1865,ei tiedossa,2001,hyvä,"2300,00 ",4 huonetta,02760,1 150 €/kk,"89,5 m²",kerrostalo
+1866,ei tiedossa,1974,hyvä,900.00,5 +,90410,900 €/kk,169 m²,omakotitalo
+1867,ei sallittu,1908,hyvä,950,3 huonetta,67100,950 €/kk,84 m²,kerrostalo
+1868,ei sallittu,2011,hyvä,680,Kaksio,67100,680 €/kk,49 m²,kerrostalo
+1869,ei sallittu,1973,hyvä,1560,Kaksio,33210,780 €/kk,46 m²,kerrostalo
+1870,ei tiedossa,1978,hyvä,800.00,Yksiö,11130,400 €/kk,25 m²,kerrostalo
