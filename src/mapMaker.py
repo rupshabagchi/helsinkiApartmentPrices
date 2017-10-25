@@ -46,14 +46,14 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
 
     #plot
     #plot empty on the bottom
-    basemap.plot(color = '#ffffad', ax = ax)
+    basemap.plot(color = '#ffffad', ax = ax, edgecolor = 'grey')
 
     #plot the map
-    plottedMap = map.plot(column = drawColumn, cmap = 'PuBuGn', vmin = colorbarMin, vmax = colorbarMax, ax = ax, alpha = 1)
+    plottedMap = map.plot(edgecolor = 'grey', column = drawColumn, cmap = 'PuBuGn', vmin = colorbarMin, vmax = colorbarMax, ax = ax, alpha = 1)
     # get the map as a figure
 
     #plot borders
-    kunnat.plot(ax = ax, alpha = 0, edgecolor = 'blue')
+    kunnat.plot(ax = ax, alpha = 0, edgecolor = 'black')
 
     #fig = plottedMap.get_figure()
 
