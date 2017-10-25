@@ -9,7 +9,7 @@ We obtain a collection of rental data from various sources such as Vuokraovi, St
 ## C. Data
 
 #### Sources:
-Vuokraovi, (Statistics Finland, Oikotie)
+Vuokraovi
 
 ####  Wrangling and Management:
 
@@ -23,4 +23,4 @@ Aggregating the data possibly using pyMongo, modelling the data.
 Visualizing the obtained results through a map.
 
 ## F. Operationalization
-Using a static webpage hosted on Heroku to beautify the results.
+Using a webpage possibly hosted on Heroku to beautify the results.
