@@ -13,10 +13,31 @@ var mLab = MLab({
 })
 
 class App extends Component {
-  componentWillMount() {
-    console.log("mongo client")
-    console.log(mLab)
+
+
+  constructor(props) {
+        super(props);
+
+        this.state = {
+           inputValue: 'Type e.g. 01120',
+           data: 'Initial data...'
+        }
+
+        this.updateState = this.updateState.bind(this);
+        this.updateState = this.updateState.bind(this);
+     };
+
+  updateState() {
+         this.setState({data: 'Data updated...'})
+         console.log(this.state.inputValue)
+         
   }
+
+  updateInputValue(e) {
+         this.setState({inputValue: e.target.value });
+
+ }
+
   render() {
     return (
       <div className="App">
@@ -27,11 +48,14 @@ class App extends Component {
         <p className="App-intro">
           To get started, enter a postal code in the search bar.
         </p>
-        <input type="text" name="postalcode" />
-        <input type="submit" value="Submit" />
+        <input type="text" name="postalcode" value={this.state.inputValue} onChange={e => this.updateInputValue(e)}/>
+        <input type="submit" onClick={this.updateState} value="Submit" />
+        <h4>{this.state.data}</h4>
       </div>
     );
   }
 }
+
+
 
 export default App;
