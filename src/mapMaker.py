@@ -20,10 +20,11 @@ def _grupeGeoframeToFrame(geoData, data, groupColumnName):
     return geoData.merge(data, on=groupColumnName)
 
 
-def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue = None):
+def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue = None, spesArea = None, spesCol = None):
     '''takes a geodataframe 'map' and a dataframe 'info' merges them by column by name mergeColumn
      and plots he map with the data from drawColumn
-     if savepath is not given the map is printed, othervise it is saved'''
+     if savepath is not given the map is printed, othervise it is saved
+     assumes map has olumn "KUNTA"'''
 
     #for plotting kunta borders and empty values
     kunnat = map.dissolve(by='KUNTA')
@@ -55,7 +56,12 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
     #plot borders
     kunnat.plot(ax = ax, alpha = 0, edgecolor = 'black')
 
-    #fig = plottedMap.get_figure()
+
+    if (spesArea != None and spesCol != None):
+        ar = basemap[basemap[spesCol].str.contains(spesArea)]
+
+        ar.plot(ax=ax, alpha=0, edgecolor='red')
+
 
     #remove x and y axis from the map
     plottedMap.set_axis_off()
@@ -75,9 +81,10 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
     else:
         plt.savefig(savePath)
 
+    plt.cla()
+    plt.clf()
     #TODO
-    #draw municipal borders (use kunnat.shp for it)
-    #handle postinumero with missing values - is this needed?, how to handle
+
     #add unit to legend
 
 
