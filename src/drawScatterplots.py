@@ -3,11 +3,11 @@ import dataCleaner as clean
 import matplotlib.pyplot as plt
 import os
 
-myfolder = 'figures/scatter'
+myfolder = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/figures/scatter'
 
 groupedBy = 'POSTI_ALUE'
-filename = 'data/formatted_full_data.csv'
-kuntaFilename = 'data/pkSeutu.csv'
+filename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/formatted_full_data.csv'
+kuntaFilename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/pkSeutu.csv'
 
 data = pd.read_csv(filename, dtype = {'postal_code':str} )
 data = clean.cleanData(data)
@@ -15,8 +15,9 @@ kuntaArvot = pd.read_csv(kuntaFilename, dtype = {'POSTI_ALUE':str, 'KUNTA':str})
 data['POSTI_ALUE'] = data['postal_code']
 data = data.ix[data['sizeValue'] <= 500]
 
-#making a kunta column to the data
+#making a kunta column to the data ad name of postal code
 data['KUNTA'] = None
+
 for ix, row in data.iterrows():
     alue = row['POSTI_ALUE']
     kunta = kuntaArvot[kuntaArvot['POSTI_ALUE'] == alue]['KUNTA'].item()
@@ -47,6 +48,7 @@ kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = 'black', alpha = 0.5)
     #plt.legend(kuntaNames)
+
     plt.title('scatterplot of prices versus size in ' + kuntaNames[i])
     plt.xlabel('size of apartment')
     plt.ylabel('price of apartment')
@@ -63,11 +65,13 @@ grouped = data.groupby(groupedBy)
 
 #looping trough the groups and calculating means. doing this for bpoth the dataframes that the excersise wanted
 for key, group in grouped:
+    nimi = kuntaArvot[kuntaArvot['POSTI_ALUE'] == key]['NIMI'].item()
+    namn = kuntaArvot[kuntaArvot['POSTI_ALUE'] == key]['NAMN'].item()
     total_rows = len(group.axes[0])
     #plotting scatterplot for each postal code with at least 3 datapoints
     if (total_rows > 2):
         group.plot.scatter(y='rentValue', x='sizeValue')
-        title = "Price versus size in postal code area: " + key
+        title = "Price versus size in postal code area: " + key + "\n" + nimi + "--" + namn
         plt.xlabel('size of apartment m^2')
         plt.ylabel('price of apartment €/kk')
         plt.title(title)
