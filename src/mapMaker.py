@@ -67,7 +67,7 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
     plottedMap.set_axis_off()
 
     #put the title to the map
-    fig.suptitle(title)
+    fig.suptitle(title, fontsize=20)
     #some internet workaround for making the colorbar for geopandas (from matplotlib, geopandas doesent have its own yet
     sm = plt.cm.ScalarMappable(cmap='YlGnBu', norm=plt.Normalize(vmin= colorbarMin, vmax=colorbarMax))
     # fake up the array of the scalar mappable. Urgh...
