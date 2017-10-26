@@ -35,7 +35,7 @@ for ix, row in map.iterrows():
     filepath = os.path.join(folder, name)
     mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year', \
                      filepath,  spesArea = alue, spesCol = 'POSTI_ALUE',)
-'''
+
 folder = 'figures/averagePriceMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
@@ -51,10 +51,9 @@ for ix, row in map.iterrows():
     filepath = os.path.join(folder, name)
     mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2',\
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE', maxValue = 250)
-'''
 
+'''
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year' , "figures/averageBuiltYearMap.png")
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','figures/averageApartmentSize.png', maxValue = 200)
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average price per square in €/m^2', 'figures/averagePriceSquareMap.png')
 
-'''
