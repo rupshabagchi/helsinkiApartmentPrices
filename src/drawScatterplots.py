@@ -48,14 +48,14 @@ kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = 'black', alpha = 0.5)
     #plt.legend(kuntaNames)
+    print(kuntaNames[i])
+    print(group.head(5))
 
     plt.title('scatterplot of prices versus size in ' + kuntaNames[i])
     plt.xlabel('size of apartment')
     plt.ylabel('price of apartment')
     filename = myfolder + '/pricaVersusSizeScatter' + kuntaNames[i] + '.png'
     plt.savefig(filename)
-    plt.cla()
-    plt.clf()
     i +=1
 
 
@@ -63,7 +63,7 @@ for key,group in kunnittain:
 #grouping data by months (and years)
 grouped = data.groupby(groupedBy)
 
-#looping trough the groups and calculating means. doing this for bpoth the dataframes that the excersise wanted
+#looping trough each postal code
 for key, group in grouped:
     nimi = kuntaArvot[kuntaArvot['POSTI_ALUE'] == key]['NIMI'].item()
     namn = kuntaArvot[kuntaArvot['POSTI_ALUE'] == key]['NAMN'].item()
