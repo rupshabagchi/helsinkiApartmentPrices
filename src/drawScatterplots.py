@@ -6,7 +6,7 @@ import os
 '''draws the scatterplots for the data. For some reason the relative path does not work
 please change the path before using '''
 
-myfolder = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/figures/scatter'
+myfolder = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/webpage/src/images/scatter'
 filename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/formatted_full_data.csv'
 kuntaFilename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/pkSeutu.csv'
 
@@ -44,7 +44,7 @@ plt.cla()
 plt.clf()
 
 #plotting each kunta separetly
-
+'''
 i = 0
 kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
@@ -74,7 +74,7 @@ for key, group in grouped:
     if (total_rows > 2):
         group.plot.scatter(y='rentValue', x='sizeValue')
         title = "Price versus size in postal code area: " + key + "\n" + nimi + "\n" + namn
-        plt.subplots_adjust(top=0.6)
+        plt.subplots_adjust(top=0.8)
         plt.xlabel('size of apartment m^2')
         plt.ylabel('price of apartment €/kk')
         plt.title(title, fontsize = 19)
@@ -82,3 +82,4 @@ for key, group in grouped:
         filepath = os.path.join(myfolder, filename)
         plt.savefig(filepath)
 
+'''
