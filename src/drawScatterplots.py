@@ -27,11 +27,11 @@ kunnittain = data.groupby('KUNTA')
 
 #making plot for whole area with all 'kunta' with different color
 fig, ax = plt.subplots(1, 1)
-colors = ['red', 'green', 'blue', 'black']
+colors = ['red', 'green', 'blue', 'yellow']
 i = 0
 kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
-    group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = colors[i])
+    group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = colors[i], alpha = 0.5)
     i +=1
 plt.legend(kuntaNames)
 plt.title('scatterplot of prices versus size in Helsinki area')
@@ -42,10 +42,11 @@ plt.cla()
 plt.clf()
 
 #plotting each kunta separetly
-fig, ax = plt.subplots(1, 1)
+
 i = 0
 kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
+    fig, ax = plt.subplots(1, 1)
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = 'black', alpha = 0.5)
     #plt.legend(kuntaNames)
     print(kuntaNames[i])
@@ -57,6 +58,8 @@ for key,group in kunnittain:
     filename = myfolder + '/pricaVersusSizeScatter' + kuntaNames[i] + '.png'
     plt.savefig(filename)
     i +=1
+    plt.cla()
+    plt.clf()
 
 
 #plotting each postal code
