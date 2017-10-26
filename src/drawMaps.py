@@ -29,26 +29,26 @@ data['POSTI_ALUE'] = data['POSTI_ALUE']
 
 #will toss runtime warning, because more than 20 figures opened
 #draw maps per postal code
-
-folder = 'figures/averageYearMap'
+'''
+folder = 'webpage/src/images/averageYearMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
     name = 'avgBuiltYear' + alue + '.png'
     filepath = os.path.join(folder, name)
-    mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year', \
+    mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', ' Average Construction Year', \
                      filepath,  spesArea = alue, spesCol = 'POSTI_ALUE',)
     print('poastalcode ' + alue + ' for average year')                 
 
-folder = 'figures/averagePriceMap'
+folder = 'webpage/src/images/averagePriceMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
     name = 'avgPricePerSquare' + alue + '.png'
     filepath = os.path.join(folder, name)
-    mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average price per square in €/m^2',\
+    mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average Price per Square Meter in €',\
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE')
     print('poastalcode ' + alue + ' average price')              
 
-folder = 'figures/averageSizeMap'
+folder = 'webpage/src/images/averageSizeMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
     name = 'avgSize' + alue + '.png'
@@ -57,8 +57,8 @@ for ix, row in map.iterrows():
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE', maxValue = 250)
     print('poastalcode ' + alue + ' for average size')              
 
-
-mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year' , "figures/averageBuiltYearMap.png")
-mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','figures/averageApartmentSize.png', maxValue = 200)
-mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average price per square in €/m^2', 'figures/averagePriceSquareMap.png')
+'''
+mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', ' Average Construction Year' , "webpage/src/images/averageBuiltYearMap.png")
+mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','webpage/src/images/averageApartmentSize.png', maxValue = 200)
+mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average Price per Square Meter in €', 'webpage/src/images/averagePriceSquareMap.png')
 
