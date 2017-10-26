@@ -1,42 +1,526 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import MLab from 'mlab-data-api';
 
-var mLab = MLab({
-  key: '4Jf3PH27flXFBjUfpZu24nl-Pe1e2a-3',
-  host:'https://api.mlab.com', //optional
-  uri : '/api/1/databases/housing_data/collections/etuovi?',
-  version :'1',
-  database:'housing_data',
-  timeout : 10000
-})
+//image imports
+import avgsize from './images/averageApartmentSize.png'
+import avgprice from './images/averagePriceSquareMap.png'
+import legend from './images/legend.png'
+
+import aps00100 from './images/averagePriceMap/avgPricePerSquare00100.png'
+import aps00120 from './images/averagePriceMap/avgPricePerSquare00120.png'
+import aps00130 from './images/averagePriceMap/avgPricePerSquare00130.png'
+import aps00140 from './images/averagePriceMap/avgPricePerSquare00140.png'
+import aps00150 from './images/averagePriceMap/avgPricePerSquare00150.png'
+import aps00160 from './images/averagePriceMap/avgPricePerSquare00160.png'
+import aps00170 from './images/averagePriceMap/avgPricePerSquare00170.png'
+import aps00180 from './images/averagePriceMap/avgPricePerSquare00180.png'
+import aps00190 from './images/averagePriceMap/avgPricePerSquare00190.png'
+import aps00200 from './images/averagePriceMap/avgPricePerSquare00200.png'
+import aps00210 from './images/averagePriceMap/avgPricePerSquare00210.png'
+import aps00220 from './images/averagePriceMap/avgPricePerSquare00220.png'
+import aps00230 from './images/averagePriceMap/avgPricePerSquare00230.png'
+import aps00240 from './images/averagePriceMap/avgPricePerSquare00240.png'
+import aps00250 from './images/averagePriceMap/avgPricePerSquare00250.png'
+import aps00260 from './images/averagePriceMap/avgPricePerSquare00260.png'
+import aps00270 from './images/averagePriceMap/avgPricePerSquare00270.png'
+import aps00280 from './images/averagePriceMap/avgPricePerSquare00280.png'
+import aps00290 from './images/averagePriceMap/avgPricePerSquare00290.png'
+import aps00300 from './images/averagePriceMap/avgPricePerSquare00300.png'
+import aps00310 from './images/averagePriceMap/avgPricePerSquare00310.png'
+import aps00320 from './images/averagePriceMap/avgPricePerSquare00320.png'
+import aps00330 from './images/averagePriceMap/avgPricePerSquare00330.png'
+import aps00340 from './images/averagePriceMap/avgPricePerSquare00340.png'
+import aps00350 from './images/averagePriceMap/avgPricePerSquare00350.png'
+import aps00360 from './images/averagePriceMap/avgPricePerSquare00360.png'
+import aps00370 from './images/averagePriceMap/avgPricePerSquare00370.png'
+import aps00380 from './images/averagePriceMap/avgPricePerSquare00380.png'
+import aps00390 from './images/averagePriceMap/avgPricePerSquare00390.png'
+import aps00400 from './images/averagePriceMap/avgPricePerSquare00400.png'
+import aps00410 from './images/averagePriceMap/avgPricePerSquare00410.png'
+import aps00420 from './images/averagePriceMap/avgPricePerSquare00420.png'
+import aps00430 from './images/averagePriceMap/avgPricePerSquare00430.png'
+import aps00440 from './images/averagePriceMap/avgPricePerSquare00440.png'
+import aps00500 from './images/averagePriceMap/avgPricePerSquare00500.png'
+import aps00510 from './images/averagePriceMap/avgPricePerSquare00510.png'
+import aps00520 from './images/averagePriceMap/avgPricePerSquare00520.png'
+import aps00530 from './images/averagePriceMap/avgPricePerSquare00530.png'
+import aps00540 from './images/averagePriceMap/avgPricePerSquare00540.png'
+import aps00550 from './images/averagePriceMap/avgPricePerSquare00550.png'
+import aps00560 from './images/averagePriceMap/avgPricePerSquare00560.png'
+import aps00570 from './images/averagePriceMap/avgPricePerSquare00570.png'
+import aps00580 from './images/averagePriceMap/avgPricePerSquare00580.png'
+import aps00590 from './images/averagePriceMap/avgPricePerSquare00590.png'
+import aps00600 from './images/averagePriceMap/avgPricePerSquare00600.png'
+import aps00610 from './images/averagePriceMap/avgPricePerSquare00610.png'
+import aps00620 from './images/averagePriceMap/avgPricePerSquare00620.png'
+import aps00630 from './images/averagePriceMap/avgPricePerSquare00630.png'
+import aps00640 from './images/averagePriceMap/avgPricePerSquare00640.png'
+import aps00650 from './images/averagePriceMap/avgPricePerSquare00650.png'
+import aps00660 from './images/averagePriceMap/avgPricePerSquare00660.png'
+import aps00670 from './images/averagePriceMap/avgPricePerSquare00670.png'
+import aps00680 from './images/averagePriceMap/avgPricePerSquare00680.png'
+import aps00690 from './images/averagePriceMap/avgPricePerSquare00690.png'
+import aps00700 from './images/averagePriceMap/avgPricePerSquare00700.png'
+import aps00710 from './images/averagePriceMap/avgPricePerSquare00710.png'
+import aps00720 from './images/averagePriceMap/avgPricePerSquare00720.png'
+import aps00730 from './images/averagePriceMap/avgPricePerSquare00730.png'
+import aps00740 from './images/averagePriceMap/avgPricePerSquare00740.png'
+import aps00750 from './images/averagePriceMap/avgPricePerSquare00750.png'
+import aps00760 from './images/averagePriceMap/avgPricePerSquare00760.png'
+import aps00770 from './images/averagePriceMap/avgPricePerSquare00770.png'
+import aps00780 from './images/averagePriceMap/avgPricePerSquare00780.png'
+import aps00790 from './images/averagePriceMap/avgPricePerSquare00790.png'
+import aps00800 from './images/averagePriceMap/avgPricePerSquare00800.png'
+import aps00810 from './images/averagePriceMap/avgPricePerSquare00810.png'
+import aps00820 from './images/averagePriceMap/avgPricePerSquare00820.png'
+import aps00830 from './images/averagePriceMap/avgPricePerSquare00830.png'
+import aps00840 from './images/averagePriceMap/avgPricePerSquare00840.png'
+import aps00850 from './images/averagePriceMap/avgPricePerSquare00850.png'
+import aps00860 from './images/averagePriceMap/avgPricePerSquare00860.png'
+import aps00870 from './images/averagePriceMap/avgPricePerSquare00870.png'
+import aps00880 from './images/averagePriceMap/avgPricePerSquare00880.png'
+import aps00890 from './images/averagePriceMap/avgPricePerSquare00890.png'
+import aps00900 from './images/averagePriceMap/avgPricePerSquare00900.png'
+import aps00910 from './images/averagePriceMap/avgPricePerSquare00910.png'
+import aps00920 from './images/averagePriceMap/avgPricePerSquare00920.png'
+import aps00930 from './images/averagePriceMap/avgPricePerSquare00930.png'
+import aps00940 from './images/averagePriceMap/avgPricePerSquare00940.png'
+import aps00950 from './images/averagePriceMap/avgPricePerSquare00950.png'
+import aps00960 from './images/averagePriceMap/avgPricePerSquare00960.png'
+import aps00970 from './images/averagePriceMap/avgPricePerSquare00970.png'
+import aps00980 from './images/averagePriceMap/avgPricePerSquare00980.png'
+import aps00990 from './images/averagePriceMap/avgPricePerSquare00990.png'
+import aps01200 from './images/averagePriceMap/avgPricePerSquare01200.png'
+import aps01230 from './images/averagePriceMap/avgPricePerSquare01230.png'
+import aps01260 from './images/averagePriceMap/avgPricePerSquare01260.png'
+import aps01280 from './images/averagePriceMap/avgPricePerSquare01280.png'
+import aps01300 from './images/averagePriceMap/avgPricePerSquare01300.png'
+import aps01340 from './images/averagePriceMap/avgPricePerSquare01340.png'
+import aps01350 from './images/averagePriceMap/avgPricePerSquare01350.png'
+import aps01360 from './images/averagePriceMap/avgPricePerSquare01360.png'
+import aps01370 from './images/averagePriceMap/avgPricePerSquare01370.png'
+import aps01380 from './images/averagePriceMap/avgPricePerSquare01380.png'
+import aps01390 from './images/averagePriceMap/avgPricePerSquare01390.png'
+import aps01400 from './images/averagePriceMap/avgPricePerSquare01400.png'
+import aps01420 from './images/averagePriceMap/avgPricePerSquare01420.png'
+import aps01450 from './images/averagePriceMap/avgPricePerSquare01450.png'
+import aps01480 from './images/averagePriceMap/avgPricePerSquare01480.png'
+import aps01510 from './images/averagePriceMap/avgPricePerSquare01510.png'
+import aps01520 from './images/averagePriceMap/avgPricePerSquare01520.png'
+import aps01530 from './images/averagePriceMap/avgPricePerSquare01530.png'
+import aps01600 from './images/averagePriceMap/avgPricePerSquare01600.png'
+import aps01610 from './images/averagePriceMap/avgPricePerSquare01610.png'
+import aps01620 from './images/averagePriceMap/avgPricePerSquare01620.png'
+import aps01630 from './images/averagePriceMap/avgPricePerSquare01630.png'
+import aps01640 from './images/averagePriceMap/avgPricePerSquare01640.png'
+import aps01650 from './images/averagePriceMap/avgPricePerSquare01650.png'
+import aps01660 from './images/averagePriceMap/avgPricePerSquare01660.png'
+import aps01670 from './images/averagePriceMap/avgPricePerSquare01670.png'
+import aps01680 from './images/averagePriceMap/avgPricePerSquare01680.png'
+import aps01690 from './images/averagePriceMap/avgPricePerSquare01690.png'
+import aps01700 from './images/averagePriceMap/avgPricePerSquare01700.png'
+import aps01710 from './images/averagePriceMap/avgPricePerSquare01710.png'
+import aps01720 from './images/averagePriceMap/avgPricePerSquare01720.png'
+import aps01730 from './images/averagePriceMap/avgPricePerSquare01730.png'
+import aps01740 from './images/averagePriceMap/avgPricePerSquare01740.png'
+import aps01750 from './images/averagePriceMap/avgPricePerSquare01750.png'
+import aps01760 from './images/averagePriceMap/avgPricePerSquare01760.png'
+import aps01770 from './images/averagePriceMap/avgPricePerSquare01770.png'
+import aps02100 from './images/averagePriceMap/avgPricePerSquare02100.png'
+import aps02110 from './images/averagePriceMap/avgPricePerSquare02110.png'
+import aps02120 from './images/averagePriceMap/avgPricePerSquare02120.png'
+import aps02130 from './images/averagePriceMap/avgPricePerSquare02130.png'
+import aps02140 from './images/averagePriceMap/avgPricePerSquare02140.png'
+import aps02150 from './images/averagePriceMap/avgPricePerSquare02150.png'
+import aps02160 from './images/averagePriceMap/avgPricePerSquare02160.png'
+import aps02170 from './images/averagePriceMap/avgPricePerSquare02170.png'
+import aps02180 from './images/averagePriceMap/avgPricePerSquare02180.png'
+import aps02200 from './images/averagePriceMap/avgPricePerSquare02200.png'
+import aps02210 from './images/averagePriceMap/avgPricePerSquare02210.png'
+import aps02230 from './images/averagePriceMap/avgPricePerSquare02230.png'
+import aps02240 from './images/averagePriceMap/avgPricePerSquare02240.png'
+import aps02260 from './images/averagePriceMap/avgPricePerSquare02260.png'
+import aps02270 from './images/averagePriceMap/avgPricePerSquare02270.png'
+import aps02280 from './images/averagePriceMap/avgPricePerSquare02280.png'
+import aps02290 from './images/averagePriceMap/avgPricePerSquare02290.png'
+import aps02300 from './images/averagePriceMap/avgPricePerSquare02300.png'
+import aps02320 from './images/averagePriceMap/avgPricePerSquare02320.png'
+import aps02330 from './images/averagePriceMap/avgPricePerSquare02330.png'
+import aps02340 from './images/averagePriceMap/avgPricePerSquare02340.png'
+import aps02360 from './images/averagePriceMap/avgPricePerSquare02360.png'
+import aps02380 from './images/averagePriceMap/avgPricePerSquare02380.png'
+import aps02600 from './images/averagePriceMap/avgPricePerSquare02600.png'
+import aps02610 from './images/averagePriceMap/avgPricePerSquare02610.png'
+import aps02620 from './images/averagePriceMap/avgPricePerSquare02620.png'
+import aps02630 from './images/averagePriceMap/avgPricePerSquare02630.png'
+import aps02650 from './images/averagePriceMap/avgPricePerSquare02650.png'
+import aps02660 from './images/averagePriceMap/avgPricePerSquare02660.png'
+import aps02680 from './images/averagePriceMap/avgPricePerSquare02680.png'
+import aps02700 from './images/averagePriceMap/avgPricePerSquare02700.png'
+import aps02710 from './images/averagePriceMap/avgPricePerSquare02710.png'
+import aps02720 from './images/averagePriceMap/avgPricePerSquare02720.png'
+import aps02730 from './images/averagePriceMap/avgPricePerSquare02730.png'
+import aps02740 from './images/averagePriceMap/avgPricePerSquare02740.png'
+import aps02750 from './images/averagePriceMap/avgPricePerSquare02750.png'
+import aps02760 from './images/averagePriceMap/avgPricePerSquare02760.png'
+import aps02770 from './images/averagePriceMap/avgPricePerSquare02770.png'
+import aps02780 from './images/averagePriceMap/avgPricePerSquare02780.png'
+import aps02810 from './images/averagePriceMap/avgPricePerSquare02810.png'
+import aps02820 from './images/averagePriceMap/avgPricePerSquare02820.png'
+import aps02860 from './images/averagePriceMap/avgPricePerSquare02860.png'
+import aps02920 from './images/averagePriceMap/avgPricePerSquare02920.png'
+import aps02940 from './images/averagePriceMap/avgPricePerSquare02940.png'
+import aps02970 from './images/averagePriceMap/avgPricePerSquare02970.png'
+import aps02980 from './images/averagePriceMap/avgPricePerSquare02980.png'
+
+import asm00100 from './images/averageSizeMap/avgSize00100.png'
+import asm00120 from './images/averageSizeMap/avgSize00120.png'
+import asm00130 from './images/averageSizeMap/avgSize00130.png'
+import asm00140 from './images/averageSizeMap/avgSize00140.png'
+import asm00150 from './images/averageSizeMap/avgSize00150.png'
+import asm00160 from './images/averageSizeMap/avgSize00160.png'
+import asm00170 from './images/averageSizeMap/avgSize00170.png'
+import asm00180 from './images/averageSizeMap/avgSize00180.png'
+import asm00190 from './images/averageSizeMap/avgSize00190.png'
+import asm00200 from './images/averageSizeMap/avgSize00200.png'
+import asm00210 from './images/averageSizeMap/avgSize00210.png'
+import asm00220 from './images/averageSizeMap/avgSize00220.png'
+import asm00230 from './images/averageSizeMap/avgSize00230.png'
+import asm00240 from './images/averageSizeMap/avgSize00240.png'
+import asm00250 from './images/averageSizeMap/avgSize00250.png'
+import asm00260 from './images/averageSizeMap/avgSize00260.png'
+import asm00270 from './images/averageSizeMap/avgSize00270.png'
+import asm00280 from './images/averageSizeMap/avgSize00280.png'
+import asm00290 from './images/averageSizeMap/avgSize00290.png'
+import asm00300 from './images/averageSizeMap/avgSize00300.png'
+import asm00310 from './images/averageSizeMap/avgSize00310.png'
+import asm00320 from './images/averageSizeMap/avgSize00320.png'
+import asm00330 from './images/averageSizeMap/avgSize00330.png'
+import asm00340 from './images/averageSizeMap/avgSize00340.png'
+import asm00350 from './images/averageSizeMap/avgSize00350.png'
+import asm00360 from './images/averageSizeMap/avgSize00360.png'
+import asm00370 from './images/averageSizeMap/avgSize00370.png'
+import asm00380 from './images/averageSizeMap/avgSize00380.png'
+import asm00390 from './images/averageSizeMap/avgSize00390.png'
+import asm00400 from './images/averageSizeMap/avgSize00400.png'
+import asm00410 from './images/averageSizeMap/avgSize00410.png'
+import asm00420 from './images/averageSizeMap/avgSize00420.png'
+import asm00430 from './images/averageSizeMap/avgSize00430.png'
+import asm00440 from './images/averageSizeMap/avgSize00440.png'
+import asm00500 from './images/averageSizeMap/avgSize00500.png'
+import asm00510 from './images/averageSizeMap/avgSize00510.png'
+import asm00520 from './images/averageSizeMap/avgSize00520.png'
+import asm00530 from './images/averageSizeMap/avgSize00530.png'
+import asm00540 from './images/averageSizeMap/avgSize00540.png'
+import asm00550 from './images/averageSizeMap/avgSize00550.png'
+import asm00560 from './images/averageSizeMap/avgSize00560.png'
+import asm00570 from './images/averageSizeMap/avgSize00570.png'
+import asm00580 from './images/averageSizeMap/avgSize00580.png'
+import asm00590 from './images/averageSizeMap/avgSize00590.png'
+import asm00600 from './images/averageSizeMap/avgSize00600.png'
+import asm00610 from './images/averageSizeMap/avgSize00610.png'
+import asm00620 from './images/averageSizeMap/avgSize00620.png'
+import asm00630 from './images/averageSizeMap/avgSize00630.png'
+import asm00640 from './images/averageSizeMap/avgSize00640.png'
+import asm00650 from './images/averageSizeMap/avgSize00650.png'
+import asm00660 from './images/averageSizeMap/avgSize00660.png'
+import asm00670 from './images/averageSizeMap/avgSize00670.png'
+import asm00680 from './images/averageSizeMap/avgSize00680.png'
+import asm00690 from './images/averageSizeMap/avgSize00690.png'
+import asm00700 from './images/averageSizeMap/avgSize00700.png'
+import asm00710 from './images/averageSizeMap/avgSize00710.png'
+import asm00720 from './images/averageSizeMap/avgSize00720.png'
+import asm00730 from './images/averageSizeMap/avgSize00730.png'
+import asm00740 from './images/averageSizeMap/avgSize00740.png'
+import asm00750 from './images/averageSizeMap/avgSize00750.png'
+import asm00760 from './images/averageSizeMap/avgSize00760.png'
+import asm00770 from './images/averageSizeMap/avgSize00770.png'
+import asm00780 from './images/averageSizeMap/avgSize00780.png'
+import asm00790 from './images/averageSizeMap/avgSize00790.png'
+import asm00800 from './images/averageSizeMap/avgSize00800.png'
+import asm00810 from './images/averageSizeMap/avgSize00810.png'
+import asm00820 from './images/averageSizeMap/avgSize00820.png'
+import asm00830 from './images/averageSizeMap/avgSize00830.png'
+import asm00840 from './images/averageSizeMap/avgSize00840.png'
+import asm00850 from './images/averageSizeMap/avgSize00850.png'
+import asm00860 from './images/averageSizeMap/avgSize00860.png'
+import asm00870 from './images/averageSizeMap/avgSize00870.png'
+import asm00880 from './images/averageSizeMap/avgSize00880.png'
+import asm00890 from './images/averageSizeMap/avgSize00890.png'
+import asm00900 from './images/averageSizeMap/avgSize00900.png'
+import asm00910 from './images/averageSizeMap/avgSize00910.png'
+import asm00920 from './images/averageSizeMap/avgSize00920.png'
+import asm00930 from './images/averageSizeMap/avgSize00930.png'
+import asm00940 from './images/averageSizeMap/avgSize00940.png'
+import asm00950 from './images/averageSizeMap/avgSize00950.png'
+import asm00960 from './images/averageSizeMap/avgSize00960.png'
+import asm00970 from './images/averageSizeMap/avgSize00970.png'
+import asm00980 from './images/averageSizeMap/avgSize00980.png'
+import asm00990 from './images/averageSizeMap/avgSize00990.png'
+import asm01200 from './images/averageSizeMap/avgSize01200.png'
+import asm01230 from './images/averageSizeMap/avgSize01230.png'
+import asm01260 from './images/averageSizeMap/avgSize01260.png'
+import asm01280 from './images/averageSizeMap/avgSize01280.png'
+import asm01300 from './images/averageSizeMap/avgSize01300.png'
+import asm01340 from './images/averageSizeMap/avgSize01340.png'
+import asm01350 from './images/averageSizeMap/avgSize01350.png'
+import asm01360 from './images/averageSizeMap/avgSize01360.png'
+import asm01370 from './images/averageSizeMap/avgSize01370.png'
+import asm01380 from './images/averageSizeMap/avgSize01380.png'
+import asm01390 from './images/averageSizeMap/avgSize01390.png'
+import asm01400 from './images/averageSizeMap/avgSize01400.png'
+import asm01420 from './images/averageSizeMap/avgSize01420.png'
+import asm01450 from './images/averageSizeMap/avgSize01450.png'
+import asm01480 from './images/averageSizeMap/avgSize01480.png'
+import asm01510 from './images/averageSizeMap/avgSize01510.png'
+import asm01520 from './images/averageSizeMap/avgSize01520.png'
+import asm01530 from './images/averageSizeMap/avgSize01530.png'
+import asm01600 from './images/averageSizeMap/avgSize01600.png'
+import asm01610 from './images/averageSizeMap/avgSize01610.png'
+import asm01620 from './images/averageSizeMap/avgSize01620.png'
+import asm01630 from './images/averageSizeMap/avgSize01630.png'
+import asm01640 from './images/averageSizeMap/avgSize01640.png'
+import asm01650 from './images/averageSizeMap/avgSize01650.png'
+import asm01660 from './images/averageSizeMap/avgSize01660.png'
+import asm01670 from './images/averageSizeMap/avgSize01670.png'
+import asm01680 from './images/averageSizeMap/avgSize01680.png'
+import asm01690 from './images/averageSizeMap/avgSize01690.png'
+import asm01700 from './images/averageSizeMap/avgSize01700.png'
+import asm01710 from './images/averageSizeMap/avgSize01710.png'
+import asm01720 from './images/averageSizeMap/avgSize01720.png'
+import asm01730 from './images/averageSizeMap/avgSize01730.png'
+import asm01740 from './images/averageSizeMap/avgSize01740.png'
+import asm01750 from './images/averageSizeMap/avgSize01750.png'
+import asm01760 from './images/averageSizeMap/avgSize01760.png'
+import asm01770 from './images/averageSizeMap/avgSize01770.png'
+import asm02100 from './images/averageSizeMap/avgSize02100.png'
+import asm02110 from './images/averageSizeMap/avgSize02110.png'
+import asm02120 from './images/averageSizeMap/avgSize02120.png'
+import asm02130 from './images/averageSizeMap/avgSize02130.png'
+import asm02140 from './images/averageSizeMap/avgSize02140.png'
+import asm02150 from './images/averageSizeMap/avgSize02150.png'
+import asm02160 from './images/averageSizeMap/avgSize02160.png'
+import asm02170 from './images/averageSizeMap/avgSize02170.png'
+import asm02180 from './images/averageSizeMap/avgSize02180.png'
+import asm02200 from './images/averageSizeMap/avgSize02200.png'
+import asm02210 from './images/averageSizeMap/avgSize02210.png'
+import asm02230 from './images/averageSizeMap/avgSize02230.png'
+import asm02240 from './images/averageSizeMap/avgSize02240.png'
+import asm02260 from './images/averageSizeMap/avgSize02260.png'
+import asm02270 from './images/averageSizeMap/avgSize02270.png'
+import asm02280 from './images/averageSizeMap/avgSize02280.png'
+import asm02290 from './images/averageSizeMap/avgSize02290.png'
+import asm02300 from './images/averageSizeMap/avgSize02300.png'
+import asm02320 from './images/averageSizeMap/avgSize02320.png'
+import asm02330 from './images/averageSizeMap/avgSize02330.png'
+import asm02340 from './images/averageSizeMap/avgSize02340.png'
+import asm02360 from './images/averageSizeMap/avgSize02360.png'
+import asm02380 from './images/averageSizeMap/avgSize02380.png'
+import asm02600 from './images/averageSizeMap/avgSize02600.png'
+import asm02610 from './images/averageSizeMap/avgSize02610.png'
+import asm02620 from './images/averageSizeMap/avgSize02620.png'
+import asm02630 from './images/averageSizeMap/avgSize02630.png'
+import asm02650 from './images/averageSizeMap/avgSize02650.png'
+import asm02660 from './images/averageSizeMap/avgSize02660.png'
+import asm02680 from './images/averageSizeMap/avgSize02680.png'
+import asm02700 from './images/averageSizeMap/avgSize02700.png'
+import asm02710 from './images/averageSizeMap/avgSize02710.png'
+import asm02720 from './images/averageSizeMap/avgSize02720.png'
+import asm02730 from './images/averageSizeMap/avgSize02730.png'
+import asm02740 from './images/averageSizeMap/avgSize02740.png'
+import asm02750 from './images/averageSizeMap/avgSize02750.png'
+import asm02760 from './images/averageSizeMap/avgSize02760.png'
+import asm02770 from './images/averageSizeMap/avgSize02770.png'
+import asm02780 from './images/averageSizeMap/avgSize02780.png'
+import asm02810 from './images/averageSizeMap/avgSize02810.png'
+import asm02820 from './images/averageSizeMap/avgSize02820.png'
+import asm02860 from './images/averageSizeMap/avgSize02860.png'
+import asm02920 from './images/averageSizeMap/avgSize02920.png'
+import asm02940 from './images/averageSizeMap/avgSize02940.png'
+import asm02970 from './images/averageSizeMap/avgSize02970.png'
+import asm02980 from './images/averageSizeMap/avgSize02980.png'
+
+import pvs00100 from './images/scatter/priceVersusSizeScatter00100.png'
+import pvs00120 from './images/scatter/priceVersusSizeScatter00120.png'
+import pvs00130 from './images/scatter/priceVersusSizeScatter00130.png'
+import pvs00140 from './images/scatter/priceVersusSizeScatter00140.png'
+import pvs00150 from './images/scatter/priceVersusSizeScatter00150.png'
+import pvs00160 from './images/scatter/priceVersusSizeScatter00160.png'
+import pvs00170 from './images/scatter/priceVersusSizeScatter00170.png'
+import pvs00180 from './images/scatter/priceVersusSizeScatter00180.png'
+import pvs00200 from './images/scatter/priceVersusSizeScatter00200.png'
+import pvs00210 from './images/scatter/priceVersusSizeScatter00210.png'
+import pvs00220 from './images/scatter/priceVersusSizeScatter00220.png'
+import pvs00240 from './images/scatter/priceVersusSizeScatter00240.png'
+import pvs00250 from './images/scatter/priceVersusSizeScatter00250.png'
+import pvs00260 from './images/scatter/priceVersusSizeScatter00260.png'
+import pvs00270 from './images/scatter/priceVersusSizeScatter00270.png'
+import pvs00280 from './images/scatter/priceVersusSizeScatter00280.png'
+import pvs00300 from './images/scatter/priceVersusSizeScatter00300.png'
+import pvs00320 from './images/scatter/priceVersusSizeScatter00320.png'
+import pvs00330 from './images/scatter/priceVersusSizeScatter00330.png'
+import pvs00340 from './images/scatter/priceVersusSizeScatter00340.png'
+import pvs00350 from './images/scatter/priceVersusSizeScatter00350.png'
+import pvs00360 from './images/scatter/priceVersusSizeScatter00360.png'
+import pvs00370 from './images/scatter/priceVersusSizeScatter00370.png'
+import pvs00380 from './images/scatter/priceVersusSizeScatter00380.png'
+import pvs00390 from './images/scatter/priceVersusSizeScatter00390.png'
+import pvs00400 from './images/scatter/priceVersusSizeScatter00400.png'
+import pvs00410 from './images/scatter/priceVersusSizeScatter00410.png'
+import pvs00420 from './images/scatter/priceVersusSizeScatter00420.png'
+import pvs00430 from './images/scatter/priceVersusSizeScatter00430.png'
+import pvs00440 from './images/scatter/priceVersusSizeScatter00440.png'
+import pvs00500 from './images/scatter/priceVersusSizeScatter00500.png'
+import pvs00510 from './images/scatter/priceVersusSizeScatter00510.png'
+import pvs00520 from './images/scatter/priceVersusSizeScatter00520.png'
+import pvs00530 from './images/scatter/priceVersusSizeScatter00530.png'
+import pvs00540 from './images/scatter/priceVersusSizeScatter00540.png'
+import pvs00550 from './images/scatter/priceVersusSizeScatter00550.png'
+import pvs00560 from './images/scatter/priceVersusSizeScatter00560.png'
+import pvs00570 from './images/scatter/priceVersusSizeScatter00570.png'
+import pvs00640 from './images/scatter/priceVersusSizeScatter00640.png'
+import pvs00650 from './images/scatter/priceVersusSizeScatter00650.png'
+import pvs00700 from './images/scatter/priceVersusSizeScatter00700.png'
+import pvs00710 from './images/scatter/priceVersusSizeScatter00710.png'
+import pvs00720 from './images/scatter/priceVersusSizeScatter00720.png'
+import pvs00730 from './images/scatter/priceVersusSizeScatter00730.png'
+import pvs00750 from './images/scatter/priceVersusSizeScatter00750.png'
+import pvs00760 from './images/scatter/priceVersusSizeScatter00760.png'
+import pvs00770 from './images/scatter/priceVersusSizeScatter00770.png'
+import pvs00780 from './images/scatter/priceVersusSizeScatter00780.png'
+import pvs00790 from './images/scatter/priceVersusSizeScatter00790.png'
+import pvs00810 from './images/scatter/priceVersusSizeScatter00810.png'
+import pvs00820 from './images/scatter/priceVersusSizeScatter00820.png'
+import pvs00850 from './images/scatter/priceVersusSizeScatter00850.png'
+import pvs00880 from './images/scatter/priceVersusSizeScatter00880.png'
+import pvs00890 from './images/scatter/priceVersusSizeScatter00890.png'
+import pvs00900 from './images/scatter/priceVersusSizeScatter00900.png'
+import pvs00910 from './images/scatter/priceVersusSizeScatter00910.png'
+import pvs00920 from './images/scatter/priceVersusSizeScatter00920.png'
+import pvs00930 from './images/scatter/priceVersusSizeScatter00930.png'
+import pvs00940 from './images/scatter/priceVersusSizeScatter00940.png'
+import pvs00950 from './images/scatter/priceVersusSizeScatter00950.png'
+import pvs00960 from './images/scatter/priceVersusSizeScatter00960.png'
+import pvs00970 from './images/scatter/priceVersusSizeScatter00970.png'
+import pvs00980 from './images/scatter/priceVersusSizeScatter00980.png'
+import pvs00990 from './images/scatter/priceVersusSizeScatter00990.png'
+import pvs01200 from './images/scatter/priceVersusSizeScatter01200.png'
+import pvs01280 from './images/scatter/priceVersusSizeScatter01280.png'
+import pvs01300 from './images/scatter/priceVersusSizeScatter01300.png'
+import pvs01340 from './images/scatter/priceVersusSizeScatter01340.png'
+import pvs01350 from './images/scatter/priceVersusSizeScatter01350.png'
+import pvs01360 from './images/scatter/priceVersusSizeScatter01360.png'
+import pvs01370 from './images/scatter/priceVersusSizeScatter01370.png'
+import pvs01400 from './images/scatter/priceVersusSizeScatter01400.png'
+import pvs01450 from './images/scatter/priceVersusSizeScatter01450.png'
+import pvs01480 from './images/scatter/priceVersusSizeScatter01480.png'
+import pvs01510 from './images/scatter/priceVersusSizeScatter01510.png'
+import pvs01520 from './images/scatter/priceVersusSizeScatter01520.png'
+import pvs01530 from './images/scatter/priceVersusSizeScatter01530.png'
+import pvs01600 from './images/scatter/priceVersusSizeScatter01600.png'
+import pvs01610 from './images/scatter/priceVersusSizeScatter01610.png'
+import pvs01620 from './images/scatter/priceVersusSizeScatter01620.png'
+import pvs01640 from './images/scatter/priceVersusSizeScatter01640.png'
+import pvs01650 from './images/scatter/priceVersusSizeScatter01650.png'
+import pvs01700 from './images/scatter/priceVersusSizeScatter01700.png'
+import pvs01710 from './images/scatter/priceVersusSizeScatter01710.png'
+import pvs02100 from './images/scatter/priceVersusSizeScatter02100.png'
+import pvs02110 from './images/scatter/priceVersusSizeScatter02110.png'
+import pvs02130 from './images/scatter/priceVersusSizeScatter02130.png'
+import pvs02140 from './images/scatter/priceVersusSizeScatter02140.png'
+import pvs02160 from './images/scatter/priceVersusSizeScatter02160.png'
+import pvs02170 from './images/scatter/priceVersusSizeScatter02170.png'
+import pvs02200 from './images/scatter/priceVersusSizeScatter02200.png'
+import pvs02210 from './images/scatter/priceVersusSizeScatter02210.png'
+import pvs02230 from './images/scatter/priceVersusSizeScatter02230.png'
+import pvs02260 from './images/scatter/priceVersusSizeScatter02260.png'
+import pvs02270 from './images/scatter/priceVersusSizeScatter02270.png'
+import pvs02320 from './images/scatter/priceVersusSizeScatter02320.png'
+import pvs02330 from './images/scatter/priceVersusSizeScatter02330.png'
+import pvs02360 from './images/scatter/priceVersusSizeScatter02360.png'
+import pvs02600 from './images/scatter/priceVersusSizeScatter02600.png'
+import pvs02610 from './images/scatter/priceVersusSizeScatter02610.png'
+import pvs02620 from './images/scatter/priceVersusSizeScatter02620.png'
+import pvs02630 from './images/scatter/priceVersusSizeScatter02630.png'
+import pvs02650 from './images/scatter/priceVersusSizeScatter02650.png'
+import pvs02660 from './images/scatter/priceVersusSizeScatter02660.png'
+import pvs02700 from './images/scatter/priceVersusSizeScatter02700.png'
+import pvs02740 from './images/scatter/priceVersusSizeScatter02740.png'
+import pvs02750 from './images/scatter/priceVersusSizeScatter02750.png'
+import pvs02760 from './images/scatter/priceVersusSizeScatter02760.png'
+import pvs02770 from './images/scatter/priceVersusSizeScatter02770.png'
+import pvs02780 from './images/scatter/priceVersusSizeScatter02780.png'
+import pvs02920 from './images/scatter/priceVersusSizeScatter02920.png'
+import pvs02940 from './images/scatter/priceVersusSizeScatter02940.png'
+import pvsAll from './images/scatter/priceVersusSizeScatterAll.png'
+
+//helsinki region postal codes
+var postalcodes = ['00100', '00120', '00130', '00140', '00150', '00160', '00170', '00180', '00190', '00200', '00210', '00220', '00230', '00240', '00250', '00260', '00270', '00280', '00290', '00300', '00310', '00320', '00330', '00340', '00350', '00360', '00370', '00380', '00390', '00400', '00410', '00420', '00430', '00440', '00500', '00510', '00520', '00530', '00540', '00550', '00560', '00570', '00580', '00590', '00600', '00610', '00620', '00630', '00640', '00650', '00660', '00670', '00680', '00690', '00700', '00710', '00720', '00730', '00740', '00750', '00760', '00770', '00780', '00790', '00800', '00810', '00820', '00830', '00840', '00850', '00860', '00870', '00880', '00890', '00900', '00910', '00920', '00930', '00940', '00950', '00960', '00970', '00980', '00990', '01200', '01230', '01260', '01280', '01300', '01340', '01350', '01360', '01370', '01380', '01390', '01400', '01420', '01450', '01480', '01510', '01520', '01530', '01600', '01610', '01620', '01630', '01640', '01650', '01660', '01670', '01680', '01690', '01700', '01710', '01720', '01730', '01740', '01750', '01760', '01770', '02100', '02110', '02120', '02130', '02140', '02150', '02160', '02170', '02180', '02200', '02210', '02230', '02240', '02260', '02270', '02280', '02290', '02300', '02320', '02330', '02340', '02360', '02380', '02600', '02610', '02620', '02630', '02650', '02660', '02680', '02700', '02710', '02720', '02730', '02740', '02750', '02760', '02770', '02780', '02810', '02820', '02860', '02920', '02940', '02970', '02980']
+
 
 class App extends Component {
 
 
   constructor(props) {
         super(props);
-
         this.state = {
-           inputValue: 'Type e.g. 01120',
-           data: 'Initial data...'
+           inputPostalCode: 'Postal Code',
+           inputCondition: 'Condition',
+           inputAllowpets: 'Built Year',
+           inputSize: 'Total size',
+           data: '',
+           img1: avgsize,
+           img2: avgprice,
+           img3: pvsAll
         }
 
         this.updateState = this.updateState.bind(this);
-        this.updateState = this.updateState.bind(this);
+        this.updateInputPostValue = this.updateInputPostValue.bind(this);
      };
 
   updateState() {
-         this.setState({data: 'Data updated...'})
-         console.log(this.state.inputValue)
-         
+         var found = 0
+         for (var i = 0; i<postalcodes.length; i++){
+           if(this.state.inputPostalCode === postalcodes[i]){
+             found = 1
+           }
+         }
+
+         if(found === 1){
+           if(this.state.inputPostalCode === "00100")
+            this.setState({
+              data: 'Predicted price: 800 eur',
+              img1: asm00100,
+              img2: aps00100,
+              img3: pvs00100
+            })
+
+         }
+         else{
+           this.setState({data: 'Data not found...'})
+         }
   }
 
-  updateInputValue(e) {
-         this.setState({inputValue: e.target.value });
+    updateInputPostValue(e) {
+         this.setState({inputPostalCode: e.target.value});
 
  }
+
+  updateInputConditionValue(e) {
+        this.setState({inputCondition: e.target.value });
+
+}
+
+  updateInputAllowpetsValue(e) {
+       this.setState({inputAllowpets: e.target.value });
+
+}
+
+  updateInputSizeValue(e) {
+       this.setState({inputSize: e.target.value});
+
+}
 
   render() {
     return (
@@ -45,17 +529,28 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Analyzing apartment rents in Helsinki region</h1>
         </header>
+        <div className="App-input">
         <p className="App-intro">
-          To get started, enter a postal code in the search bar.
+          To get started, enter the required parameters in the text fields.
         </p>
-        <input type="text" name="postalcode" value={this.state.inputValue} onChange={e => this.updateInputValue(e)}/>
-        <input type="submit" onClick={this.updateState} value="Submit" />
-        <h4>{this.state.data}</h4>
+        <input className="input" type="text" name="apartmentsize" value={this.state.inputSize} onChange={e => this.updateInputSizeValue(e)}/>
+        <input className="input" type="text"  name="condition" value={this.state.inputCondition} onChange={e => this.updateInputConditionValue(e)}/>
+        <input className="input" type="text"  name="allowpets" value={this.state.inputAllowpets} onChange={e => this.updateInputAllowpetsValue(e)}/>
+        <input className="input" type="text"  name="postalcode" value={this.state.inputPostalCode} onChange={e => this.updateInputPostValue(e)}/>
+        <button className = "button" type="submit" onClick={this.updateState} value="Submit" > Submit </button>
+        </div>
+        <div className="App-content">
+        <h4 className="App-intro">{this.state.data}</h4>
+        <h4>Average Statistics</h4>
+        <img src={this.state.img1} alt="" />
+        <img src={this.state.img2} alt="" />
+        <img src={this.state.img3} alt="" style={{left: '501px',top: '1150px',position: 'absolute'}}/>
+        <img src={legend} alt="" style={{right: '150px',top: '1000px',position: 'absolute'}} />}
+
+        </div>
       </div>
     );
   }
 }
-
-
 
 export default App;
