@@ -47,10 +47,10 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
 
     #plot
     #plot empty on the bottom
-    basemap.plot(color = '#ffffad', ax = ax, edgecolor = 'grey')
+    basemap.plot(color = '#D3D3D3', ax = ax, edgecolor = 'grey')
 
     #plot the map
-    plottedMap = map.plot(edgecolor = 'grey', column = drawColumn, cmap = 'PuBuGn', vmin = colorbarMin, vmax = colorbarMax, ax = ax, alpha = 1)
+    plottedMap = map.plot(edgecolor = 'grey', column = drawColumn, cmap = 'YlGnBu', vmin = colorbarMin, vmax = colorbarMax, ax = ax, alpha = 1)
     # get the map as a figure
 
     #plot borders
@@ -69,7 +69,7 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
     #put the title to the map
     fig.suptitle(title)
     #some internet workaround for making the colorbar for geopandas (from matplotlib, geopandas doesent have its own yet
-    sm = plt.cm.ScalarMappable(cmap='PuBuGn', norm=plt.Normalize(vmin= colorbarMin, vmax=colorbarMax))
+    sm = plt.cm.ScalarMappable(cmap='YlGnBu', norm=plt.Normalize(vmin= colorbarMin, vmax=colorbarMax))
     # fake up the array of the scalar mappable. Urgh...
     sm._A = []
     fig.colorbar(sm)

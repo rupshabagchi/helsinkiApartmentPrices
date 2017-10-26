@@ -22,12 +22,19 @@ map = gpd.read_file(mapfile)
 map['POSTI_ALUE'] = map['POSTI_ALUE']
 
 #group the data by postal code and colculate mean size value
-data =  grouper.grouper(data, groupedBy= 'POSTI_ALUE', calculateFrom=['sizeValue', 'rentValue', 'pricePerSquare'])
+data =  grouper.grouper(data, groupedBy= 'POSTI_ALUE', calculateFrom=['sizeValue', 'rentValue', 'pricePerSquare', 'built_year'])
 data['POSTI_ALUE'] = data['POSTI_ALUE']
 
 #will toss runtime warning, because more than 20 figures opened
 #draw maps per postal code
-'''
+
+folder = 'figures/averageYearMap'
+for ix, row in map.iterrows():
+    alue = row['POSTI_ALUE']
+    name = 'avgBuiltYear' + alue + '.png'
+    filepath = os.path.join(folder, name)
+    mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year', \
+                     filepath,  spesArea = alue, spesCol = 'POSTI_ALUE',)
 folder = 'figures/averagePriceMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
@@ -43,8 +50,9 @@ for ix, row in map.iterrows():
     filepath = os.path.join(folder, name)
     mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2',\
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE', maxValue = 250)
-'''
 
-mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','figures/averageApartmentSize.png', maxValue = 250)
+
+mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year' , "figures/averageBuiltYearMap.png")
+mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','figures/averageApartmentSize.png', maxValue = 200)
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average price per square in €/m^2', 'figures/averagePriceSquareMap.png')
 
