@@ -1,5 +1,5 @@
 import pandas as pd
-
+'''Contains a method that does some data cleaning needed for the plotting'''
 
 def cleanData(data):
     '''cleans up rent and size colums (splits it to new columns sizeValue, sizeUnit, rentValue, rentUnit'''

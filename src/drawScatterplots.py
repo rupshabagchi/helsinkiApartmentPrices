@@ -3,12 +3,14 @@ import dataCleaner as clean
 import matplotlib.pyplot as plt
 import os
 
-myfolder = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/figures/scatter'
+'''draws the scatterplots for the data. For some reason the relative path does not work
+please change the path before using '''
 
-groupedBy = 'POSTI_ALUE'
+myfolder = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/figures/scatter'
 filename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/formatted_full_data.csv'
 kuntaFilename = '/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/pkSeutu.csv'
 
+groupedBy = 'POSTI_ALUE'
 data = pd.read_csv(filename, dtype = {'postal_code':str} )
 data = clean.cleanData(data)
 kuntaArvot = pd.read_csv(kuntaFilename, dtype = {'POSTI_ALUE':str, 'KUNTA':str})
@@ -34,7 +36,7 @@ for key,group in kunnittain:
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = colors[i], alpha = 0.5)
     i +=1
 plt.legend(kuntaNames)
-plt.title('scatterplot of prices versus size in Helsinki area')
+plt.title('scatterplot of prices versus size in Helsinki area', fontsize = 19)
 plt.xlabel('size of apartment')
 plt.ylabel('price of apartment')
 plt.savefig(myfolder + '/priceVersusSizeScatterAll.png')
@@ -49,10 +51,7 @@ for key,group in kunnittain:
     fig, ax = plt.subplots(1, 1)
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = 'black', alpha = 0.5)
     #plt.legend(kuntaNames)
-    print(kuntaNames[i])
-    print(group.head(5))
-
-    plt.title('scatterplot of prices versus size in ' + kuntaNames[i])
+    plt.title('scatterplot of prices versus size in ' + kuntaNames[i], fontsize = 19)
     plt.xlabel('size of apartment')
     plt.ylabel('price of apartment')
     filename = myfolder + '/pricaVersusSizeScatter' + kuntaNames[i] + '.png'
@@ -74,10 +73,11 @@ for key, group in grouped:
     #plotting scatterplot for each postal code with at least 3 datapoints
     if (total_rows > 2):
         group.plot.scatter(y='rentValue', x='sizeValue')
-        title = "Price versus size in postal code area: " + key + "\n" + nimi + "--" + namn
+        title = "Price versus size in postal code area: " + key + "\n" + nimi + "\n" + namn
+        plt.subplots_adjust(top=0.6)
         plt.xlabel('size of apartment m^2')
         plt.ylabel('price of apartment €/kk')
-        plt.title(title)
+        plt.title(title, fontsize = 19)
         filename = "priceVersusSizeScatter" + key +".png"
         filepath = os.path.join(myfolder, filename)
         plt.savefig(filepath)

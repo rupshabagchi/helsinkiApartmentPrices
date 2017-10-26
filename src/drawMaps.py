@@ -6,7 +6,9 @@ import dataCleaner as clean
 import grouper
 import os
 
-'''draws a lot of maps'''
+'''Code for drawing all the maps! 
+uses methods grouper and mapMaker'''
+
 mapfile = 'data/shapefiles/pkSeutu.shp'
 datafile = 'data/formatted_full_data.csv'
 
@@ -27,7 +29,7 @@ data['POSTI_ALUE'] = data['POSTI_ALUE']
 
 #will toss runtime warning, because more than 20 figures opened
 #draw maps per postal code
-'''
+
 folder = 'figures/averageYearMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
@@ -55,7 +57,7 @@ for ix, row in map.iterrows():
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE', maxValue = 250)
     print('poastalcode ' + alue + ' for average size')              
 
-'''
+
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', 'Average built year' , "figures/averageBuiltYearMap.png")
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','figures/averageApartmentSize.png', maxValue = 200)
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average price per square in €/m^2', 'figures/averagePriceSquareMap.png')

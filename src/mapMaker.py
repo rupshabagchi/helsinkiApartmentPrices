@@ -1,6 +1,8 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
+'''contains the actual code for plotting the maps'''
+
 
 def _grupeGeoframeToFrame(geoData, data, groupColumnName):
     '''takes a geodataframe and an dataframe and groups them with the column with the name groupColumnName
@@ -24,7 +26,7 @@ def makeMap(map, info, mergeColumn, drawColumn, title, savePath = None, maxValue
     '''takes a geodataframe 'map' and a dataframe 'info' merges them by column by name mergeColumn
      and plots he map with the data from drawColumn
      if savepath is not given the map is printed, othervise it is saved
-     assumes map has olumn "KUNTA"'''
+     assumes map has column "KUNTA"'''
 
     #for plotting kunta borders and empty values
     kunnat = map.dissolve(by='KUNTA')

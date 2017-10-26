@@ -1,4 +1,5 @@
 import pandas as pd
+'''method that groups the data and calculates means for given columns'''
 
 def grouper(data, groupedBy, calculateFrom):
     '''groups the dataframe data by the given column and gives the mean of the columns with names in given list
