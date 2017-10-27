@@ -33,7 +33,6 @@ The maps for individual postal codes were also highlighted for better visibility
 
 
 
-
 ## The model
 The goal of the model was to predict rent of an apartment, given some parameters about the apartment. We chose to make a linear model. The model was built by studying the data, and selecting variables that had considerable effect on the rent. To be able to do this exploration all string-type variables had to be changed into dummy variables, for example "yksiö", "kaksio", "3 huonetta", "4 huonetta", "5+" were changed into factors 1, 2, 3, 4, 5, since R cannot fit linear model using strings.
 
@@ -44,7 +43,7 @@ In the end we selected to use only the size and condition of the apartment as pa
 Postal code was not included, since for some postal areas we only had under three datapoints, so building model that uses postal codes, would have required some quite sophisticated methods that we didn't have time for. Also it should be noted that inside Helsinki region postal code doesn't have very big effect on the rent.
 
 ## The web page
-The webpage is a static site built with a javascript library called React, and hosted on Firebase platform. It visualises the predictions and spatial data corresponding to every postal code. Due to limited time, the website only has a basic demo of what we want to achieve.
+The webpage is a static site built with a javascript library called React, connected to mongoDB through mLab api and hosted on Firebase platform. It visualises the predictions and spatial data corresponding to every postal code. Due to limited time, the website only has a basic demo of what we want to achieve.
 
 A demo of the page is available at (https://data-science-project-1.firebaseapp.com/). Below is a screenshot of the page.
 
