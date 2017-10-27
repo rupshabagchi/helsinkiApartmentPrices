@@ -23,4 +23,4 @@ Aggregating the data possibly using pyMongo, modelling the data.
 Visualizing the obtained results through a map.
 
 ## F. Operationalization
-Using a webpage possibly hosted on Heroku to beautify the results.
+Using a webpage possibly hosted on Firebase to beautify the results.
