@@ -23,9 +23,12 @@ data['pricePerSquare'] = data['rentValue'] / data['sizeValue']
 map = gpd.read_file(mapfile)
 map['POSTI_ALUE'] = map['POSTI_ALUE']
 
+
 #group the data by postal code and colculate mean size value
 data =  grouper.grouper(data, groupedBy= 'POSTI_ALUE', calculateFrom=['sizeValue', 'rentValue', 'pricePerSquare', 'built_year'])
 data['POSTI_ALUE'] = data['POSTI_ALUE']
+
+#data.to_csv('/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/averages.csv')
 
 #will toss runtime warning, because more than 20 figures opened
 #draw maps per postal code
