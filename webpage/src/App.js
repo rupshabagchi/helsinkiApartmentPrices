@@ -55,7 +55,7 @@ class App extends Component {
   constructor(props) {
         super(props);
         this.state = {
-           inputPostalCode: '00101',
+           inputPostalCode: '00100',
            inputCondition: 'Hyvä',
            inputAllowpets: '1997',
            inputSize: '35',
@@ -155,7 +155,7 @@ class App extends Component {
 
               else
                 this.setState({
-                location: '',
+                location: 'Sorry, this demo version does not have all data. Please try one of [00100,00120,00130,00140,00150,00700,00980,02230]',
                 data: '',
                 img1: avgsize,
                 img2: avgprice,
@@ -166,7 +166,7 @@ class App extends Component {
          }
          else{
            this.setState({
-             data: 'Data not found. Here are some average statistics for Helsinki region:',
+             data: 'Outside Helsinki region or invalid postal code. Here are some average statistics for Helsinki region:',
              location: ''
            })
          }
