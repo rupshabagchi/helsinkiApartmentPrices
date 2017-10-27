@@ -1,6 +1,7 @@
 # Project Description
 
 ## A. Title : Analyzing real estate rental data
+More details about the project on [report page](https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/report.md).
 
 ## B. Pitch
 
@@ -9,7 +10,7 @@ We obtain a collection of rental data from various sources such as Vuokraovi, St
 ## C. Data
 
 #### Sources:
-Vuokraovi
+[Vuokraovi](vuokraovi.com)
 
 ####  Wrangling and Management:
 
