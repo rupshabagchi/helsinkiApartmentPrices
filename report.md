@@ -27,8 +27,8 @@ In addition to the maps, we made scatter plots for price versus apartment size. 
 
 The maps for individual postal codes were also highlighted for better visibility, as shown in the map from postal code 00100 below.
 
-<img align="left" src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceSquareMap.png" width="425" height="400" />
-<img src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceMap/avgPricePerSquare00100.png" width="425" height="400" />
+<img align="left" src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceSquareMap.png" width="425" height="350" />
+<img src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceMap/avgPricePerSquare00100.png" width="425" height="350" />
 
 
 
