@@ -25,8 +25,10 @@ We made 3 different maps. One for average price/m^2, one for average size, and o
 
 In addition to the maps, we made scatter plots for price versus apartment size. This shows us an almost linear correlation for these two.  Other than that, the difference comes mostly from the area. The scatter plots were made for the whole area, the municipalities separately and for each postal code with at least 3 data points separately.
 
-:-------------------------:|:-------------------------:
-![Avg price all](https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceSquareMap.png)  |  ![Avg price 00100](https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceMap/avgPricePerSquare00100.png)
+<img align="left" src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceSquareMap.png" width="425" height="400" />
+<img src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceMap/avgPricePerSquare00100.png" width="425" height="400" />
+
+
 
 
 
