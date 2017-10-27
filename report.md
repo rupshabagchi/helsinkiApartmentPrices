@@ -25,6 +25,8 @@ We made 3 different maps. One for average price/m^2, one for average size, and o
 
 In addition to the maps, we made scatter plots for price versus apartment size. This shows us an almost linear correlation for these two.  Other than that, the difference comes mostly from the area. The scatter plots were made for the whole area, the municipalities separately and for each postal code with at least 3 data points separately.
 
+The maps for individual postal codes were also highlighted for better visibility, as shown in the map from postal code 00100 below.
+
 <img align="left" src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceSquareMap.png" width="425" height="400" />
 <img src="https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/averagePriceMap/avgPricePerSquare00100.png" width="425" height="400" />
 
@@ -42,4 +44,6 @@ In the end we selected to use only the size and condition of the apartment as pa
 Postal code was not included, since for some postal areas we only had under three datapoints, so building model that uses postal codes, would have required some quite sophisticated methods that we didn't have time for. Also it should be noted that inside Helsinki region postal code doesn't have very big effect on the rent.
 
 ## The web page
-The webpage is a static site built with a javascript library called React, and hosted on Firebase platform. It visualises the predictions and spatial data corresponding to every postal code. A demo of the page is available at (https://data-science-project-1.firebaseapp.com/).
+The webpage is a static site built with a javascript library called React, and hosted on Firebase platform. It visualises the predictions and spatial data corresponding to every postal code. A demo of the page is available at (https://data-science-project-1.firebaseapp.com/). Below is a screenshot of the page.
+
+![Page](https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/data-science-project-1.firebaseapp.com.png)
