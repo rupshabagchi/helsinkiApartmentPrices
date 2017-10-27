@@ -36,4 +36,6 @@ Postal code was not included, since for some postal areas we only had under thre
 
 ## The web page
 The webpage is a static site built with a javascript library called React, and hosted on Firebase platform. It visualises the predictions and spatial data corresponding to every postal code. A demo of the page is available at (https://data-science-project-1.firebaseapp.com/). Here is a screenshot of how it looks:
+
+
 ![WebPage](https://github.com/rupshabagchi/helsinkiApartmentPrices/blob/master/figures/data-science-project-1.firebaseapp.com.png "Demo Page Screenshot")
