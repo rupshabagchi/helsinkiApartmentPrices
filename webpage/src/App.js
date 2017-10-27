@@ -225,7 +225,7 @@ class App extends Component {
         <h4>Average Statistics</h4>
         <img src={this.state.img1} alt="" />
         <img src={this.state.img2} alt="" />
-        <img src={this.state.img3} alt="" style={{left: '100px',top: '1200px',position: 'absolute'}}/>
+        <img src={this.state.img3} alt="" style={{left: '100px',top: '1300px',position: 'absolute'}}/>
         <img src={legend} alt="" style={{right: '150px',top: '1200px',position: 'absolute'}} />
         <img src={this.state.img4} alt="" className="img"/>
         </div>
