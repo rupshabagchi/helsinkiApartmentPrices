@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-
 //image imports
 import avgsize from './images/averageApartmentSize.png'
 import avgprice from './images/averagePriceSquareMap.png'
@@ -15,6 +14,7 @@ import aps00120 from './images/averagePriceMap/avgPricePerSquare00120.png'
 import aps00130 from './images/averagePriceMap/avgPricePerSquare00130.png'
 import aps00140 from './images/averagePriceMap/avgPricePerSquare00140.png'
 import aps00150 from './images/averagePriceMap/avgPricePerSquare00150.png'
+import aps00200 from './images/averagePriceMap/avgPricePerSquare00200.png'
 import aps00700 from './images/averagePriceMap/avgPricePerSquare00700.png'
 import aps00980 from './images/averagePriceMap/avgPricePerSquare00980.png'
 import aps02230 from './images/averagePriceMap/avgPricePerSquare02230.png'
@@ -23,6 +23,7 @@ import asm00120 from './images/averageSizeMap/avgSize00120.png'
 import asm00130 from './images/averageSizeMap/avgSize00130.png'
 import asm00140 from './images/averageSizeMap/avgSize00140.png'
 import asm00150 from './images/averageSizeMap/avgSize00150.png'
+import asm00200 from './images/averageSizeMap/avgSize00200.png'
 import asm00700 from './images/averageSizeMap/avgSize00700.png'
 import asm00980 from './images/averageSizeMap/avgSize00980.png'
 import asm02230 from './images/averageSizeMap/avgSize02230.png'
@@ -34,6 +35,7 @@ import pvs00150 from './images/scatter/priceVersusSizeScatter00150.png'
 import pvs00700 from './images/scatter/priceVersusSizeScatter00700.png'
 import pvs00980 from './images/scatter/priceVersusSizeScatter00980.png'
 import pvs02230 from './images/scatter/priceVersusSizeScatter02230.png'
+import pvs00200 from './images/scatter/priceVersusSizeScatter00200.png'
 import aby00100 from './images/averageYearMap/avgBuiltYear00100.png'
 import aby00120 from './images/averageYearMap/avgBuiltYear00120.png'
 import aby00130 from './images/averageYearMap/avgBuiltYear00130.png'
@@ -42,6 +44,8 @@ import aby00150 from './images/averageYearMap/avgBuiltYear00150.png'
 import aby00700 from './images/averageYearMap/avgBuiltYear00700.png'
 import aby00980 from './images/averageYearMap/avgBuiltYear00980.png'
 import aby02230 from './images/averageYearMap/avgBuiltYear02230.png'
+import aby00200 from './images/averageYearMap/avgBuiltYear00200.png'
+
 
 
 
@@ -143,19 +147,28 @@ class App extends Component {
                  img3: pvs00980,
                  img4: aby00980
                })
-               else if(this.state.inputPostalCode === "02230")
+               else if(this.state.inputPostalCode === "00200")
                 this.setState({
-                  location: 'Matinkylä',
-                  data: 'Predicted price: 798.68 eur',
-                  img1: asm02230,
-                  img2: aps02230,
-                  img3: pvs02230,
-                  img4: aby02230
+                  location: 'Lauttasaari',
+                  data: 'Predicted price: 1577.02 eur',
+                  img1: asm00200,
+                  img2: aps00200,
+                  img3: pvs00200,
+                  img4: aby00200
                 })
+                else if(this.state.inputPostalCode === "02230")
+                 this.setState({
+                   location: 'Matinkylä',
+                   data: 'Predicted price: 798.68 eur',
+                   img1: asm02230,
+                   img2: aps02230,
+                   img3: pvs02230,
+                   img4: aby02230
+                 })
 
               else
                 this.setState({
-                location: 'Sorry, this demo version does not have all data. Please try one of [00100,00120,00130,00140,00150,00700,00980,02230]',
+                location: 'Sorry, this demo version does not have all data. Please try one of [00100,00120,00130,00140,00150,00200,00700,00980,02230]',
                 data: '',
                 img1: avgsize,
                 img2: avgprice,
