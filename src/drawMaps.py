@@ -10,10 +10,10 @@ import os
 uses methods grouper and mapMaker'''
 
 mapfile = 'data/shapefiles/pkSeutu.shp'
-datafile = 'data/formatted_full_data.csv'
+datafile = 'data/formatted_full_data2.csv'
 
 #read the scraped data and clean it
-data = pd.read_csv(datafile, dtype = {'postal_code':str} )
+data = pd.read_csv(datafile, dtype = {'postal_code':str})
 data = clean.cleanData(data)
 #needed to be same as in shapefile
 data['POSTI_ALUE'] = data['postal_code']
@@ -21,18 +21,19 @@ data['pricePerSquare'] = data['rentValue'] / data['sizeValue']
 
 #read the testdata and the shapefile into a pandas dataframe and a geopandas geodataframe
 map = gpd.read_file(mapfile)
-map['POSTI_ALUE'] = map['POSTI_ALUE']
-
 
 #group the data by postal code and colculate mean size value
 data =  grouper.grouper(data, groupedBy= 'POSTI_ALUE', calculateFrom=['sizeValue', 'rentValue', 'pricePerSquare', 'built_year'])
 data['POSTI_ALUE'] = data['POSTI_ALUE']
 
+#for generating average csv
 #data.to_csv('/home/shiera/courses/IntroductionToDataScience/projec/helsinkiApartmentPrices/data/averages.csv')
 
 #will toss runtime warning, because more than 20 figures opened
 #draw maps per postal code
-'''
+
+
+
 folder = 'webpage/src/images/averageYearMap'
 for ix, row in map.iterrows():
     alue = row['POSTI_ALUE']
@@ -60,7 +61,7 @@ for ix, row in map.iterrows():
                  filepath, spesArea = alue, spesCol = 'POSTI_ALUE', maxValue = 250)
     print('poastalcode ' + alue + ' for average size')              
 
-'''
+
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'built_year', ' Average Construction Year' , "webpage/src/images/averageBuiltYearMap.png")
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'sizeValue', 'Average size of apartment in m^2','webpage/src/images/averageApartmentSize.png', maxValue = 200)
 mapMaker.makeMap(map, data, 'POSTI_ALUE', 'pricePerSquare', 'Average Price per Square Meter in €', 'webpage/src/images/averagePriceSquareMap.png')

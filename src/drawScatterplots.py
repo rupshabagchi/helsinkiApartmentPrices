@@ -17,6 +17,7 @@ kuntaArvot = pd.read_csv(kuntaFilename, dtype = {'POSTI_ALUE':str, 'KUNTA':str})
 data['POSTI_ALUE'] = data['postal_code']
 data = data.ix[data['sizeValue'] <= 500]
 
+
 #making a kunta column to the data ad name of postal code
 data['KUNTA'] = None
 
@@ -28,7 +29,7 @@ for ix, row in data.iterrows():
 kunnittain = data.groupby('KUNTA')
 
 #making plot for whole area with all 'kunta' with different color
-fig, ax = plt.subplots(1, 1)
+fig, ax = plt.subplots(1, 1, subplot_kw={'xlim': (0,500), 'ylim': (0, 8000)})
 colors = ['red', 'green', 'blue', 'yellow']
 i = 0
 kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
@@ -37,23 +38,23 @@ for key,group in kunnittain:
     i +=1
 plt.legend(kuntaNames)
 plt.title('scatterplot of prices versus size in Helsinki area', fontsize = 19)
-plt.xlabel('size of apartment')
-plt.ylabel('price of apartment')
+plt.xlabel('size of apartment m^2')
+plt.ylabel('price of apartment €/mo')
 plt.savefig(myfolder + '/priceVersusSizeScatterAll.png')
 plt.cla()
 plt.clf()
 
 #plotting each kunta separetly
-'''
+
 i = 0
 kuntaNames = ['Espoo', 'Helsinki', 'Vantaa', 'Kauniainen']
 for key,group in kunnittain:
-    fig, ax = plt.subplots(1, 1)
+    fig, ax = plt.subplots(1, 1, subplot_kw={'xlim': (0,500), 'ylim': (0, 8000)})
     group.plot.scatter(y='rentValue', x='sizeValue', ax = ax, color = 'black', alpha = 0.5)
     #plt.legend(kuntaNames)
-    plt.title('scatterplot of prices versus size in ' + kuntaNames[i], fontsize = 19)
-    plt.xlabel('size of apartment')
-    plt.ylabel('price of apartment')
+    plt.xlabel('size of apartment m^2')
+    plt.ylabel('price of apartment €/mo')
+
     filename = myfolder + '/pricaVersusSizeScatter' + kuntaNames[i] + '.png'
     plt.savefig(filename)
     i +=1
@@ -72,14 +73,16 @@ for key, group in grouped:
     total_rows = len(group.axes[0])
     #plotting scatterplot for each postal code with at least 3 datapoints
     if (total_rows > 2):
+        fig, ax = plt.subplots(1, 1, subplot_kw={'xlim': (0, 500), 'ylim': (0, 8000)})
         group.plot.scatter(y='rentValue', x='sizeValue')
         title = "Price versus size in postal code area: " + key + "\n" + nimi + "\n" + namn
         plt.subplots_adjust(top=0.8)
         plt.xlabel('size of apartment m^2')
-        plt.ylabel('price of apartment €/kk')
+        plt.ylabel('price of apartment €/mo')
         plt.title(title, fontsize = 19)
         filename = "priceVersusSizeScatter" + key +".png"
         filepath = os.path.join(myfolder, filename)
         plt.savefig(filepath)
+        plt.cla()
+        plt.clf()
 
-'''

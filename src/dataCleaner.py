@@ -3,7 +3,7 @@ import pandas as pd
 
 def cleanData(data):
     '''cleans up rent and size colums (splits it to new columns sizeValue, sizeUnit, rentValue, rentUnit'''
-    data = data.drop('Unnamed: 0', 1)
+   # data = data.drop('Unnamed: 0', 1)
     data['sizeValue'] = None
     data['sizeUnit'] = None
     data['rentValue'] = None
